@@ -1,4 +1,4 @@
-# Hari Sekhon's Github
+# Hari Sekhon's GitHub
 
 <!--
 **HariSekhon/HariSekhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=Github+Profile+Views)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=GitHub+Profile+Views)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking%20By%20Repo%20Stars-Top_0.01%25-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
@@ -24,22 +24,29 @@ Here are some ideas to get you started:
 ![Forks](https://img.shields.io/badge/Forks-2635-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1562-blue?logo=github)
 [![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-693-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Systems](https://img.shields.io/badge/CI%2FCD%20Systems-23-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-292.3k-lightgrey?logo=codecademy)
 
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
 
-28 original source git repos with 693 CI builds (668 hosted, 25 self-hosted) across 23 different CI/CD systems.
+## About Me
 
-## Info
+20 Year IT veteran with many domain specialities. GitHub addict.
 
 💬 Ask me about: DevOps, Cloud, Data, Coding, APIs...
 
- How to reach me: [LinkedIn - https://www.linkedin.com/in/HariSekhon/](https://www.linkedin.com/in/HariSekhon/)
+✉️ Contact me on LinkedIn:
 
-🔍 Aspiring Expert in: Sociology, Economics & Demographics.
-Private message me on [LinkedIn](https://www.linkedin.com/in/HariSekhon/)
-for the answer to the root cause of Western Decline, as well as excellent resources on everything from money to
-women.
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
+
+🔍 Secondary Expertise in:
+
+- Sociology
+- Economics
+- Demographics
+- Private message me on [LinkedIn](https://www.linkedin.com/in/HariSekhon/)
+for the answer to the root cause of Western Decline
+  - as well as excellent resources on everything from jobs and money to
+relationships and taxes
 
 ## Core Repos
 
@@ -93,6 +100,9 @@ Github's limit of 6 pinned repos is far too low - these are what I consider my c
 | ![Template-repo Stars](https://img.shields.io/github/stars/HariSekhon/Template-repo?label=)               | [![Templates-repo](https://img.shields.io/badge/Template--repo-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Template-repo)                                                                                                                                                                                 | Template repo to quickly create new Github repos containing Build and CI/CD configs                                            |
 | ![Spotify-tools Stars](https://img.shields.io/github/stars/HariSekhon/Spotify-tools?label=)               | [![Spotify-tools](https://img.shields.io/badge/Spotify--tools-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Spotify-tools)                                                                                                                                                                                  | Playlists Backups, Spotify CLI, URI translator, duplication detection / removal, API search queries, API automation etc.       |
 | ![Spotify-playlists Stars](https://img.shields.io/github/stars/HariSekhon/Spotify-playlists?label=)       | [![Spotify-playlists](https://img.shields.io/badge/Spotify--playlists-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Spotify-playlists)<br />[![Spotify Profile](https://img.shields.io/badge/Spotify%20Profile-HariSekhon-brightgreen?logo=spotify&style=social)](https://open.spotify.com/user/harisekhon) | 240+ playlists, 36,000+ tracks - in both Spotify URI and human-readable formats. Spotify API tools are submodules of this repo |
+
+The rest of my original source repos are
+[here](https://github.com/HariSekhon?tab=repositories&q=&type=source&language=&sort=stargazers).
 
 <!-- 1x1 pixel counter to record hits -->
 ![](https://hit.yhype.me/github/profile?user_id=2211051)
