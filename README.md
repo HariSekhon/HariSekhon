@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 [![CI/CD Systems](https://img.shields.io/badge/CI%2FCD%20Systems-23-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-292.3k-lightgrey?logo=codecademy)
 
-
 ## About Me
 
 20 Year IT veteran with many domain specialities. GitHub addict.
@@ -44,7 +43,7 @@ Here are some ideas to get you started:
 - Economics
 - Demographics
 - Private message me on [LinkedIn](https://www.linkedin.com/in/HariSekhon/)
-for the answer to the root cause of Western Decline
+for the answer to The Root Cause of Western Decline
   - as well as excellent resources on everything from jobs and money to
 relationships and taxes
 
