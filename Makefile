@@ -68,6 +68,7 @@ test: pre-commit  ## run tests (pre-commit)
 #    check_pytools.sh
 
 push: test  ## push to origin (usually GitHub)
+	@echo
 	git push
 
 wc:
