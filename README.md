@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - Private message me on [LinkedIn](https://www.linkedin.com/in/HariSekhon/)
 for the answer to The Root Cause of Western Decline
   - as well as excellent resources on everything from jobs & money to
-relationships & avoiding divorce, to taxes
+relationships & avoiding divorce, to emigration & taxes
 
 ## Core Repos
 
