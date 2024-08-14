@@ -55,7 +55,7 @@ for the answer to The Root Cause of Western Decline
 
 ## Core Repos
 
-Github's limit of 6 pinned repos is far too low - these are what I consider my core repos:
+GitHub's limit of 6 pinned repos is far too low - these are what I consider my core repos:
 
 ### Knowledge
 
