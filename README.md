@@ -83,9 +83,9 @@ Github's limit of 6 pinned repos is far too low - these are what I consider my c
 
 ### DBA
 
-| Stars                                                                                                   | Repository                                                                                                                                                                       | Description                                                                                                                      |
-|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| ![SQL-scripts Stars](https://img.shields.io/github/stars/HariSekhon/SQL-scripts?label=)                 | [![SQL-scripts](https://img.shields.io/badge/SQL--scripts-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/SQL-scripts)                          | 100+ SQL Scripts - PostgreSQL, MySQL, Google BigQuery, MariaDB, AWS Athena<br/>DBA, Analytics, DevOps, performance engineering   |
+| Stars                                                                                                   | Repository                                                                                                                                              | Description                                                                                                                    |
+|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| ![SQL-scripts Stars](https://img.shields.io/github/stars/HariSekhon/SQL-scripts?label=)                 | [![SQL-scripts](https://img.shields.io/badge/SQL--scripts-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/SQL-scripts) | 100+ SQL Scripts - PostgreSQL, MySQL, Google BigQuery, MariaDB, AWS Athena<br/>DBA, Analytics, DevOps, performance engineering |
 
 ### DevOps Reloaded
 
