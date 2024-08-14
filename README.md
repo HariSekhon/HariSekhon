@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 
 📫 How to reach me: [LinkedIn - https://www.linkedin.com/in/HariSekhon/](https://www.linkedin.com/in/HariSekhon/)
 
-🔭 Aspiring Expert in: Economics, Demographics and the root cause of Western Decline.
-Private message me on [LinkedIn](https://www.linkedin.com/in/HariSekhon/) for the answer.
+🔭 Aspiring Expert in: Sociology, Economics & Demographics.
+Private message me on [LinkedIn](https://www.linkedin.com/in/HariSekhon/)
+for the answer to the root cause of Western Decline as well as excellent resources.
 
 ### Core Repos
 
