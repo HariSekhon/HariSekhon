@@ -87,7 +87,7 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 | ![GitHub-Actions Stars](https://img.shields.io/github/stars/HariSekhon/GitHub-Actions?label=) | [![GitHub-Actions](https://img.shields.io/badge/GitHub--Actions-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/GitHub-Actions) | GitHub Actions Reusable Workflows<br/>GitHub Actions Master Template                                                                                                   |
 | ![Jenkins Stars](https://img.shields.io/github/stars/HariSekhon/Jenkins?label=)               | [![Jenkins](https://img.shields.io/badge/Jenkins-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Jenkins)                       | Advanced Jenkinsfile Master Template<br />Groovy Shared Library of reusable functions and pipelines for Cloud, Kubernetes, ArgoCD, Slack notifications, Terraform etc. |
 
-### DBA
+### DBA - SQL
 
 | Stars                                                                                                   | Repository                                                                                                                                     | Description                                                                                                                    |
 |---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
