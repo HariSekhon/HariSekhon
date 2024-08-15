@@ -53,9 +53,18 @@ Here are some ideas to get you started:
 for the answer to The Root Cause of Western Decline
   - as well as excellent resources on everything from jobs & money to relationships & divorce, to emigration & taxes
 
-## Core Repos
+## Public Project Stats
 
-GitHub's limit of 6 pinned repos is far too low - these are what I consider my core repos:
+This does not include any private repos such as my corporate work eg. where most of my Pull Requests and many of my
+commits went.
+
+This is only my public open source repos:
+
+![](https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=HariSekhon&theme=algolia&show_icons=true&include_all_commits=true&hide=contribs,prs)
+
+## Core Public Repos
+
+GitHub's limit of 6 pinned repos is far too low - these are what I consider my core open source public repos:
 
 ### Knowledge
 
@@ -72,6 +81,15 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 | ![DevOps-Python-tools Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Python-tools?label=)   | [![DevOps-Python-tools](https://img.shields.io/badge/DevOps--Python-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/DevOps-Python-tools) | 80+ DevOps & Data CLI Tools including Data converters and validators, Log & Config Anonymizer |
 | ![DevOps-Perl-tools Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Perl-tools?label=)       | [![DevOps-Perl-tools](https://img.shields.io/badge/DevOps--Perl-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/DevOps-Perl-tools)       | 25+ DevOps CLI Tools for Linux, Log & Config Anonymizer                                       |
 | ![DevOps-Golang-tools Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Golang-tools?label=)   | [![DevOps-Golang-tools](https://img.shields.io/badge/DevOps--Golang-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/DevOps-Golang-tools) | A handful of DevOps Golang tools                                                              |
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools)](https://github.com/HariSekhon/DevOps-Bash-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Python-tools)](https://github.com/HariSekhon/DevOps-Python-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Perl-tools)](https://github.com/HariSekhon/DevOps-Perl-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Golang-tools)](https://github.com/HariSekhon/DevOps-Golang-tools)
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=f8f551332440f1ca8897ff010e363e03)](https://gist.github.com/HariSekhon/f8f551332440f1ca8897ff010e363e03)
+-->
 
 ### Containerization
 
