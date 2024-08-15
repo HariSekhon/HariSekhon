@@ -60,7 +60,12 @@ commits went.
 
 This only includes my public open source repos:
 
-![](https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=HariSekhon&theme=algolia&show_icons=true&include_all_commits=true&hide=contribs,prs&custom_title=Hari+Sekhon%27s+Public+Open+Source+GitHub+Stats)
+<a href="">
+  <img height=150 width=460 align="center" src="https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=HariSekhon&theme=algolia&show_icons=true&include_all_commits=true&hide=contribs,prs&custom_title=Hari+Sekhon%27s+Public+Open+Source+GitHub+Stats&bg_color=00000000" />
+</a>
+<a href="https://github.com/HariSekhon/Knowledge-Base">
+  <img height=150 width=460 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Knowledge-Base&theme=algolia&bg_color=00000000" />
+</a>
 
 ## Core Public Repos
 
