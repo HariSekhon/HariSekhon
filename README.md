@@ -53,14 +53,14 @@ Here are some ideas to get you started:
 for the answer to The Root Cause of Western Decline
   - as well as excellent resources on everything from jobs & money to relationships & divorce, to emigration & taxes
 
-## Public Project Stats
+## Public Open Source Stats
 
 This does not include any private repos such as my corporate work eg. where most of my Pull Requests and many of my
 commits went.
 
-This is only my public open source repos:
+This only includes my public open source repos:
 
-![](https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=HariSekhon&theme=algolia&show_icons=true&include_all_commits=true&hide=contribs,prs)
+![](https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=HariSekhon&theme=algolia&show_icons=true&include_all_commits=true&hide=contribs,prs&custom_title=Hari+Sekhon%27s+Public+Open+Source+GitHub+Stats)
 
 ## Core Public Repos
 
