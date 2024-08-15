@@ -73,7 +73,7 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 | ![DevOps-Perl-tools Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Perl-tools?label=)       | [![DevOps-Perl-tools](https://img.shields.io/badge/DevOps--Perl-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/DevOps-Perl-tools)       | 25+ DevOps CLI Tools for Linux, Log & Config Anonymizer                                       |
 | ![DevOps-Golang-tools Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Golang-tools?label=)   | [![DevOps-Golang-tools](https://img.shields.io/badge/DevOps--Golang-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/DevOps-Golang-tools) | A handful of DevOps Golang tools                                                              |
 
-### Containerization - Docker & Kubernetes
+### Containerization
 
 | Stars                                                                                                     | Repository                                                                                                                                                          | Description                                                                                                              |
 |-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
