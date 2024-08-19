@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- doesn't count views from other sites like GitLab, Azure DevOps or Bitbucket README or profile pages -->
+<!--
+
+  View Counters komarev.com/ghpvc and Yhype don't count views from other sites like GitLab, Azure DevOps or
+  Bitbucket README or profile pages
+
+      https://github.com/antonkomarev/github-profile-views-counter/issues/96
+
+-->
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=GitHub+Profile+Views)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking%20By%20Repo%20Stars-Top_0.01%25-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
