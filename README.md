@@ -68,7 +68,7 @@ commits went.
 
 This only includes my public open source repos:
 
-![](https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=HariSekhon&theme=algolia&show_icons=true&include_all_commits=true&hide=contribs,prs&custom_title=Hari+Sekhon%27s+Public+Open+Source+GitHub+Stats)
+![](https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=HariSekhon&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide=contribs,prs&custom_title=Hari+Sekhon%27s+Public+Open+Source+GitHub+Stats)
 
 <!--
 <a href="">
@@ -76,7 +76,7 @@ This only includes my public open source repos:
     height=135
     width=420
     align="center"
-    src="https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=HariSekhon&theme=algolia&show_icons=true&include_all_commits=true&hide=contribs,prs&custom_title=Hari+Sekhon%27s+Public+Open+Source+GitHub+Stats&bg_color=00000000"
+    src="https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=HariSekhon&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide=contribs,prs&custom_title=Hari+Sekhon%27s+Public+Open+Source+GitHub+Stats"
   />
 </a>
 <a href="https://github.com/HariSekhon/Knowledge-Base">
@@ -84,7 +84,7 @@ This only includes my public open source repos:
     height=135
     width=420
     align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Knowledge-Base&theme=algolia&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Knowledge-Base&theme=ambient_gradient"
   />
 </a>
 -->
@@ -102,8 +102,8 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 | [![Diagrams-as-Code Stars](https://img.shields.io/github/stars/HariSekhon/Diagrams-as-Code?label=)](https://github.com/HariSekhon/Diagrams-as-Code) | [![Diagrams-as-Code](https://img.shields.io/badge/Diagrams--as--Code-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Diagrams-as-Code)                                                                                                                                                                        | Cloud & DevOps Architecture Diagrams from real world projects           |
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Knowledge-Base&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/Knowledge-Base)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Diagrams-as-Code&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/Diagrams-as-Code)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Knowledge-Base&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Knowledge-Base)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Diagrams-as-Code&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Diagrams-as-Code)
 
 ### DevOps Code
 
@@ -116,10 +116,10 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 | [![DevOps-Golang-tools Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Golang-tools?label=)](https://github.com/HariSekhon/DevOps-Golang-tools) | [![DevOps-Golang-tools](https://img.shields.io/badge/DevOps--Golang-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/DevOps-Golang-tools) | A handful of DevOps Golang tools                                                              |
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Python-tools&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Python-tools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Perl-tools&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Perl-tools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Golang-tools&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Golang-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Python-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Python-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Perl-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Perl-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Golang-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Golang-tools)
 
 <!--
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=f8f551332440f1ca8897ff010e363e03)](https://gist.github.com/HariSekhon/f8f551332440f1ca8897ff010e363e03)
@@ -134,8 +134,8 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 | [![Dockerfiles Stars](https://img.shields.io/github/stars/HariSekhon/Dockerfiles?label=)](https://github.com/HariSekhon/Dockerfiles)                      | [![Dockerfiles](https://img.shields.io/badge/Dockerfiles-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Dockerfiles)              | 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, Big Data & NoSQL                                    |
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Dockerfiles&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/Dockerfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Dockerfiles&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Dockerfiles)
 
 ### CI/CD
 
@@ -146,8 +146,8 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 | [![Jenkins Stars](https://img.shields.io/github/stars/HariSekhon/Jenkins?label=)](https://github.com/HariSekhon/Jenkins)                      | [![Jenkins](https://img.shields.io/badge/Jenkins-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Jenkins)                       | Advanced Jenkinsfile Master Template<br />Groovy Shared Library of reusable functions and pipelines for Cloud, Kubernetes, ArgoCD, Slack notifications, Terraform etc. |
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
 
 ### DBA - SQL
 
@@ -157,7 +157,7 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 | [![SQL-scripts Stars](https://img.shields.io/github/stars/HariSekhon/SQL-scripts?label=)](https://github.com/HariSekhon/SQL-scripts) | [![SQL-scripts](https://img.shields.io/badge/SQL-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/SQL-scripts) | 100+ SQL Scripts - PostgreSQL, MySQL, Google BigQuery, MariaDB, AWS Athena<br/>DBA, Analytics, DevOps, performance engineering |
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=SQL-scripts&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/SQL-scripts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=SQL-scripts&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/SQL-scripts)
 
 ### DevOps Reloaded
 
@@ -172,12 +172,12 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 | [![Templates Stars](https://img.shields.io/github/stars/HariSekhon/Templates?label=)](https://github.com/HariSekhon/Templates)                               | [![Templates](https://img.shields.io/badge/Templates-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Templates)                                 | 100+ DevOps Code & Config templates for many common open source technologies and programming languages                           |
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Terraform&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/Terraform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer-templates&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/Packer-templates)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugin-Kafka&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=HAProxy-configs&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/HAProxy-configs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/Templates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Terraform&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Terraform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer-templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer-templates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugin-Kafka&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=HAProxy-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/HAProxy-configs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
 
 ### Misc
 
@@ -189,9 +189,9 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 | [![Spotify-playlists Stars](https://img.shields.io/github/stars/HariSekhon/Spotify-playlists?label=)](https://github.com/HariSekhon/Spotify-playlists) | [![Spotify-playlists](https://img.shields.io/badge/Spotify--playlists-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Spotify-playlists)<br />[![Spotify Profile](https://img.shields.io/badge/Spotify%20Profile-HariSekhon-brightgreen?logo=spotify&style=social)](https://open.spotify.com/user/harisekhon) | 240+ playlists, 36,000+ tracks - in both Spotify URI and human-readable formats. Spotify API tools are submodules of this repo |
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Template-repo&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/Template-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-tools&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/Spotify-tools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-playlists&theme=algolia&bg_color=00000000&description_lines_count=3)](https://github.com/HariSekhon/Spotify-playlists)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Template-repo&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Template-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Spotify-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-playlists&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Spotify-playlists)
 
 The rest of my original source repos are
 [here](https://github.com/HariSekhon?tab=repositories&q=&type=source&language=&sort=stargazers).
