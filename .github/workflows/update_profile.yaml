@@ -42,8 +42,8 @@ defaults:
     shell: bash -euxo pipefail {0}
 
 env:
-  #GIT_AUTHOR_NAME: Hari Sekhon
-  #GIT_AUTHOR_EMAIL: harisekhon@gmail.com
+  GIT_AUTHOR_NAME: Hari Sekhon
+  GIT_AUTHOR_EMAIL: harisekhon@gmail.com
   GIT_COMMITTER_NAME: Hari Sekhon
   GIT_COMMITTER_EMAIL: harisekhon@gmail.com
   DEBUG: 1
