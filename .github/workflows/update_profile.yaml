@@ -49,7 +49,7 @@ env:
   GIT_COMMITTER_EMAIL: harisekhon@gmail.com
   GH_TOKEN: ${{ github.token }}
   PATH: /usr/bin:bash-tools/github
-  DEBUG: 1
+  #DEBUG: 1
 
 jobs:
   update_profile_counters:
