@@ -44,6 +44,7 @@ defaults:
 env:
   GIT_AUTHOR_NAME: Hari Sekhon
   GIT_AUTHOR_EMAIL: harisekhon@gmail.com
+  DEBUG: 1
 
 jobs:
   update_profile_counters:
