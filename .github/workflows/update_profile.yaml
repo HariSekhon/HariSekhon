@@ -73,11 +73,13 @@ jobs:
       - name: Update Repo Count
         run: |
           repo_count="$(github_user_repos_count.sh "$GITHUB_REPOSITORY_OWNER")"
+
           sed -i "s|badge/Repos-[[:digit:]]\+-|badge/Repos-${repo_count}-|" README.md
 
       - name: Update Follower Count
         run: |
           follower_count="$(github_user_followers.sh "$GITHUB_REPOSITORY_OWNER")"
+
           sed -i "s|badge/Followers-[[:digit:]]\+-|badge/Followers-${follower_count}-|" README.md
 
       - name: Git Add
@@ -85,9 +87,14 @@ jobs:
           git add README.md
 
       - name: Git Commit
+        id: commit
         run: |
-          git commit -m "updated profile counters" README.md
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "updated profile counters" README.md
+            echo "::set-output name=committed::true"
+          fi
 
       - name: Git Push
+        if: steps.commit.outputs.committed == 'true'
         run: |
           git push
