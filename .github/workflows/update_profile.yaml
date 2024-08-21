@@ -42,7 +42,7 @@ defaults:
     shell: bash -euxo pipefail {0}
 
 env:
-  PATH: ${{PATH}}:bash-tools/github
+  PATH: ${{ env.PATH }}:bash-tools/github
   GIT_AUTHOR_NAME: Hari Sekhon
   GIT_AUTHOR_EMAIL: harisekhon@gmail.com
 
