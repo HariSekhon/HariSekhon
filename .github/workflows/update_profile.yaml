@@ -49,8 +49,6 @@ jobs:
   update_profile_counters:
     name: Update Profile Counters
     runs-on: ubuntu-latest
-    env:
-      PATH: ${{ env.PATH }}:/usr/bin/:bash-tools/github
     steps:
       - name: Environment
         run: env | sort
@@ -65,6 +63,8 @@ jobs:
           path: bash-tools
 
       - name: Update Repo Count
+        env:
+          PATH: ${{ env.PATH }}:/usr/bin:bash-tools/github
         run: |
           repo_count="$(github_user_repos_count.sh)"
           sed -i "s|badge/Repos-[[:digit:]]\+-|badge/Repos-${repo_count}-|" README.md
