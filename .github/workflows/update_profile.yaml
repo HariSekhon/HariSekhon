@@ -82,6 +82,18 @@ jobs:
 
           sed -i "s|badge/Followers-[[:digit:]]\+-|badge/Followers-${follower_count}-|" README.md
 
+      - name: Update Repo Stars Count
+        run: |
+          star_count="$(github_user_repos_stars.sh "$GITHUB_REPOSITORY_OWNER")"
+
+          sed -i "s|badge/Stars-[[:digit:]]\+-|badge/Stars-${star_count}-|" README.md
+
+      - name: Update Fork Stars Count
+        run: |
+          fork_count="$(github_user_repos_fork.sh "$GITHUB_REPOSITORY_OWNER")"
+
+          sed -i "s|badge/Forks-[[:digit:]]\+-|badge/Forks-${fork_count}-|" README.md
+
       - name: Git Diff
         run: |
           git diff
