@@ -50,7 +50,7 @@ jobs:
     name: Update Profile Counters
     runs-on: ubuntu-latest
     env:
-      PATH: ${{ env.PATH }}:bash-tools/github
+      PATH: ${{ env.PATH }}:/usr/bin/:bash-tools/github
     steps:
       - name: Environment
         run: env | sort
