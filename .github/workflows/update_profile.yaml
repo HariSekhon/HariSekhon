@@ -90,7 +90,7 @@ jobs:
 
       - name: Update Fork Stars Count
         run: |
-          fork_count="$(github_user_repos_fork.sh "$GITHUB_REPOSITORY_OWNER")"
+          fork_count="$(github_user_repos_forks.sh "$GITHUB_REPOSITORY_OWNER")"
 
           sed -i "s|badge/Forks-[[:digit:]]\+-|badge/Forks-${fork_count}-|" README.md
 
