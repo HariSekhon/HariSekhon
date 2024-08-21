@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking%20By%20Repo%20Stars-Top_0.01%25-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
-![Original Repos](https://img.shields.io/badge/Repos-28-blue?logo=github)
+![Original Repos](https://img.shields.io/badge/Repos-30-blue?logo=github)
 ![Stars](https://img.shields.io/badge/Stars-7583-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-2635-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1562-blue?logo=github)
