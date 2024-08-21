@@ -48,7 +48,7 @@ env:
   GIT_COMMITTER_NAME: Hari Sekhon
   GIT_COMMITTER_EMAIL: harisekhon@gmail.com
   GH_TOKEN: ${{ github.token }}
-  PATH: ${{ github.path }}:/usr/bin:bash-tools/github
+  PATH: /usr/bin:bash-tools/github
   DEBUG: 1
 
 jobs:
