@@ -1,0 +1,73 @@
+#
+#  Author: Hari Sekhon
+#  Date: 2024-08-21 04:11:40 +0200 (Wed, 21 Aug 2024)
+#
+#  vim:ts=2:sts=2:sw=2:et
+#
+#  https://github.com/HariSekhon/HariSekhon
+#
+#  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback
+#
+#  https://www.linkedin.com/in/HariSekhon
+#
+
+# Designed to validate the master Jenkinsfile in my Jenkins repo:
+#
+#   https://github.com/HariSekhon/Jenkins
+
+---
+name: Update Profile
+
+on:
+  workflow_call:
+  schedule:
+    # - min interval is 5 mins
+    # - scheduling may be delayed during periods of high load on GitHub Actions infra, such as at the top of every hour
+    # - '*' is a special character in YAML so you have to quote this string
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
+
+defaults:
+  run:
+    shell: bash -euxo pipefail {0}
+
+env:
+  PATH: ${{PATH}}:bash-tools/github
+  GIT_AUTHOR_NAME: Hari Sekhon
+  GIT_AUTHOR_EMAIL: harisekhon@gmail.com
+
+jobs:
+  update_profile_counters:
+    name: Update Profile Counters
+    runs-on: ubuntu-latest
+    steps:
+      - name: Environment
+        run: env | sort
+
+      - uses: actions/checkout@v3
+
+      - uses: actions/checkout@v3
+        with:
+          repository: HariSekhon/DevOps-Bash-tools
+          #ref: master         # unset for default branch in case it changes in future
+          #submodules: recursive  # don't need the submodules for just this script, save time
+          path: bash-tools
+
+      - name: Update Repo Count
+        run: |
+          repo_count="$(github_user_repos_count.sh)"
+          sed -i "s|badge/Repos-[[:digit:]]\+-|badge/Repos-${repo_count}-|" README.md
+
+      - name: Git Add
+        run: |
+          git add README.md
+
+      - name: Git Commit
+        run: |
+          git commit -m "updated profile counters" README.md
+
+      - name: Git Push
+        run: |
+          git push
