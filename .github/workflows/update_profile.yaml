@@ -94,6 +94,14 @@ jobs:
 
           sed -i "s|badge/Forks-[[:digit:]]\+-|badge/Forks-${fork_count}-|" README.md
 
+      - name: Update CI/CD Build Count
+        run: |
+          readme="$(curl -sS https://raw.githubusercontent.com/HariSekhon/CI-CD/master/README.md)"
+
+          build_count="$(grep -Eo 'badge/CI%2FCD%20Builds-[[:digit:]]+-' | sed 's/-$//; s/.*-//')"
+
+          sed -i "s|badge/Forks-[[:digit:]]\+-|badge/CI%2FCD%20Builds-${build_count}-|" README.md
+
       - name: Git Diff
         run: |
           git diff
