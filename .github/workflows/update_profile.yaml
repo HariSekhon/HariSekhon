@@ -82,6 +82,10 @@ jobs:
 
           sed -i "s|badge/Followers-[[:digit:]]\+-|badge/Followers-${follower_count}-|" README.md
 
+      - name: Git Diff
+        run: |
+          git diff
+
       - name: Git Add
         run: |
           git add README.md
