@@ -96,11 +96,15 @@ jobs:
 
       - name: Update CI/CD Build Count
         run: |
+          # need the cat to eat the rest of the stdin otherwise curl will raise this error:
+          #
+          #   curl: (23) Failure writing output to destination
+          #
           readme="$(curl -sS https://raw.githubusercontent.com/HariSekhon/CI-CD/master/README.md | { head -n 40; cat > /dev/null; } )"
 
           build_count="$(grep -Eo 'badge/CI%2FCD%20Builds-[[:digit:]]+-' <<< "$readme" | sed 's/-$//; s/.*-//')"
 
-          sed -i "s|badge/Forks-[[:digit:]]\+-|badge/CI%2FCD%20Builds-${build_count}-|" README.md
+          sed -i "s|badge/CI%2FCD%20Builds-[[:digit:]]\+-|badge/CI%2FCD%20Builds-${build_count}-|" README.md
 
       - name: Git Diff
         run: |
