@@ -53,9 +53,11 @@ jobs:
       - name: Environment
         run: env | sort
 
-      - uses: actions/checkout@v3
+      - name: Checkout harisekhon repo
+        uses: actions/checkout@v3
 
-      - uses: actions/checkout@v3
+      - name: Checkout bash-tools repo
+        uses: actions/checkout@v3
         with:
           repository: HariSekhon/DevOps-Bash-tools
           #ref: master         # unset for default branch in case it changes in future
@@ -65,6 +67,7 @@ jobs:
       - name: Update Repo Count
         env:
           PATH: ${{ env.PATH }}:/usr/bin:bash-tools/github
+          GH_TOKEN: ${{ github.token }}
         run: |
           repo_count="$(github_user_repos_count.sh "$GITHUB_REPOSITORY_OWNER")"
           sed -i "s|badge/Repos-[[:digit:]]\+-|badge/Repos-${repo_count}-|" README.md
