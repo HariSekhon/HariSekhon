@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 <!--
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 
 ![Original Repos](https://img.shields.io/badge/Repos-30-blue?logo=github)
 ![Stars](https://img.shields.io/badge/Stars-7638-blue?logo=github)
-![Forks](https://img.shields.io/badge/CI%2FCD%20Builds-690-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-690-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1569-blue?logo=github)
 [![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-690-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![CI/CD Systems](https://img.shields.io/badge/CI%2FCD%20Systems-23-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
@@ -58,8 +59,8 @@ Here are some ideas to get you started:
 - Economics
 - Demographics
 - Private message me on [LinkedIn](https://www.linkedin.com/in/HariSekhon/)
-for the answer to The Root Cause of Western Decline
-  - as well as excellent resources on everything from jobs & money to relationships & divorce, to emigration & taxes
+  for the answer to The Root Cause of Western Decline
+   - as well as excellent resources on everything from jobs & money to relationships & divorce, to emigration & taxes
 
 ## Public Open Source Stats
 
