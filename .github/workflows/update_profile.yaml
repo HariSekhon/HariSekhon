@@ -96,9 +96,9 @@ jobs:
 
       - name: Update CI/CD Build Count
         run: |
-          readme="$(curl -sS https://raw.githubusercontent.com/HariSekhon/CI-CD/master/README.md)"
+          readme="$(curl -sS https://raw.githubusercontent.com/HariSekhon/CI-CD/master/README.md | head -n 40)"
 
-          build_count="$(grep -Eo 'badge/CI%2FCD%20Builds-[[:digit:]]+-' | sed 's/-$//; s/.*-//')"
+          build_count="$(grep -Eo 'badge/CI%2FCD%20Builds-[[:digit:]]+-' <<< "$readme" | sed 's/-$//; s/.*-//')"
 
           sed -i "s|badge/Forks-[[:digit:]]\+-|badge/CI%2FCD%20Builds-${build_count}-|" README.md
 
