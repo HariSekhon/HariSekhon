@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
 ![Original Repos](https://img.shields.io/badge/Repos-30-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-7667-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-7669-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-2649-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1575-blue?logo=github)
 [![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-690-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
