@@ -90,6 +90,8 @@ This only includes my public open source repos:
 </a>
 -->
 
+[Top Ranked by UK commits](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/united_kingdom.md)
+
 ## Core Public Repos
 
 GitHub's limit of 6 pinned repos is far too low - these are what I consider my core open source public repos:
