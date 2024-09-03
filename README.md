@@ -96,26 +96,10 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 
 ### Knowledge
 
-<!--
-| Stars                                                                                                                                               | Repository                                                                                                                                                                                                                                                                                                                                     | Description                                                             |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| [![Knowledge-Base Stars](https://img.shields.io/github/stars/HariSekhon/Knowledge-Base?label=)](https://github.com/HariSekhon/Knowledge-Base)       | [![Knowledge-Base](https://img.shields.io/badge/Knowledge--Base-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Knowledge-Base)                                                                                                                                                                               | 20 years in IT, private knowledge base currently being ported to public |
-| [![Diagrams-as-Code Stars](https://img.shields.io/github/stars/HariSekhon/Diagrams-as-Code?label=)](https://github.com/HariSekhon/Diagrams-as-Code) | [![Diagrams-as-Code](https://img.shields.io/badge/Diagrams--as--Code-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Diagrams-as-Code)                                                                                                                                                                        | Cloud & DevOps Architecture Diagrams from real world projects           |
--->
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Knowledge-Base&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Knowledge-Base)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Diagrams-as-Code&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Diagrams-as-Code)
 
 ### DevOps Code
-
-<!--
-| Stars                                                                                                                                                        | Repository                                                                                                                                                                | Description                                                                                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| [![DevOps-Bash-tools Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Bash-tools?label=)](https://github.com/HariSekhon/DevOps-Bash-tools)       | [![DevOps-Bash-tools](https://img.shields.io/badge/DevOps--Bash-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/DevOps-Bash-tools)       | 1000+ DevOps Bash Scripts for Cloud, Linux, Kubernetes, CI/CD, APIs, dot configs              |
-| [![DevOps-Python-tools Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Python-tools?label=)](https://github.com/HariSekhon/DevOps-Python-tools) | [![DevOps-Python-tools](https://img.shields.io/badge/DevOps--Python-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/DevOps-Python-tools) | 80+ DevOps & Data CLI Tools including Data converters and validators, Log & Config Anonymizer |
-| [![DevOps-Perl-tools Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Perl-tools?label=)](https://github.com/HariSekhon/DevOps-Perl-tools)       | [![DevOps-Perl-tools](https://img.shields.io/badge/DevOps--Perl-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/DevOps-Perl-tools)       | 25+ DevOps CLI Tools for Linux, Log & Config Anonymizer                                       |
-| [![DevOps-Golang-tools Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Golang-tools?label=)](https://github.com/HariSekhon/DevOps-Golang-tools) | [![DevOps-Golang-tools](https://img.shields.io/badge/DevOps--Golang-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/DevOps-Golang-tools) | A handful of DevOps Golang tools                                                              |
--->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Python-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Python-tools)
@@ -128,17 +112,54 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 
 ### Containerization
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Dockerfiles&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Dockerfiles)
+
+### CI/CD
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
+
+### DBA - SQL
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=SQL-scripts&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/SQL-scripts)
+
+### DevOps Reloaded
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Terraform&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Terraform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer-templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer-templates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugin-Kafka&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=HAProxy-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/HAProxy-configs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
+
+### Misc
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Template-repo&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Template-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Spotify-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-playlists&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Spotify-playlists)
+
+The rest of my original source repos are
+[here](https://github.com/HariSekhon?tab=repositories&q=&type=source&language=&sort=stargazers).
+
+<!-- 1x1 pixel counter to record hits -->
+![](https://hit.yhype.me/github/profile?user_id=2211051)
+
+<!--
+| Stars                                                                                                                                                        | Repository                                                                                                                                                                | Description                                                                                   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| [![DevOps-Bash-tools Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Bash-tools?label=)](https://github.com/HariSekhon/DevOps-Bash-tools)       | [![DevOps-Bash-tools](https://img.shields.io/badge/DevOps--Bash-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/DevOps-Bash-tools)       | 1000+ DevOps Bash Scripts for Cloud, Linux, Kubernetes, CI/CD, APIs, dot configs              |
+| [![DevOps-Python-tools Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Python-tools?label=)](https://github.com/HariSekhon/DevOps-Python-tools) | [![DevOps-Python-tools](https://img.shields.io/badge/DevOps--Python-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/DevOps-Python-tools) | 80+ DevOps & Data CLI Tools including Data converters and validators, Log & Config Anonymizer |
+| [![DevOps-Perl-tools Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Perl-tools?label=)](https://github.com/HariSekhon/DevOps-Perl-tools)       | [![DevOps-Perl-tools](https://img.shields.io/badge/DevOps--Perl-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/DevOps-Perl-tools)       | 25+ DevOps CLI Tools for Linux, Log & Config Anonymizer                                       |
+| [![DevOps-Golang-tools Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Golang-tools?label=)](https://github.com/HariSekhon/DevOps-Golang-tools) | [![DevOps-Golang-tools](https://img.shields.io/badge/DevOps--Golang-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/DevOps-Golang-tools) | A handful of DevOps Golang tools                                                              |
+-->
+
 <!--
 | Stars                                                                                                                                                     | Repository                                                                                                                                                          | Description                                                                                                              |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | [![Kubernetes-configs Stars](https://img.shields.io/github/stars/HariSekhon/Kubernetes-configs?label=)](https://github.com/HariSekhon/Kubernetes-configs) | [![Kubernetes-configs](https://img.shields.io/badge/Kubernetes-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Kubernetes-configs) | Advanced Kubernetes YAML configs for many apps<br />Kubernetes Best Practices, Tips & Tricks, Production-Ready Checklist |
 | [![Dockerfiles Stars](https://img.shields.io/github/stars/HariSekhon/Dockerfiles?label=)](https://github.com/HariSekhon/Dockerfiles)                      | [![Dockerfiles](https://img.shields.io/badge/Dockerfiles-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Dockerfiles)              | 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, Big Data & NoSQL                                    |
 -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Dockerfiles&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Dockerfiles)
-
-### CI/CD
 
 <!--
 | Stars                                                                                                                                         | Repository                                                                                                                                                       | Description                                                                                                                                                            |
@@ -147,20 +168,11 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 | [![Jenkins Stars](https://img.shields.io/github/stars/HariSekhon/Jenkins?label=)](https://github.com/HariSekhon/Jenkins)                      | [![Jenkins](https://img.shields.io/badge/Jenkins-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Jenkins)                       | Advanced Jenkinsfile Master Template<br />Groovy Shared Library of reusable functions and pipelines for Cloud, Kubernetes, ArgoCD, Slack notifications, Terraform etc. |
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
-
-### DBA - SQL
-
 <!--
 | Stars                                                                                                                                | Repository                                                                                                                                     | Description                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | [![SQL-scripts Stars](https://img.shields.io/github/stars/HariSekhon/SQL-scripts?label=)](https://github.com/HariSekhon/SQL-scripts) | [![SQL-scripts](https://img.shields.io/badge/SQL-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/SQL-scripts) | 100+ SQL Scripts - PostgreSQL, MySQL, Google BigQuery, MariaDB, AWS Athena<br/>DBA, Analytics, DevOps, performance engineering |
 -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=SQL-scripts&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/SQL-scripts)
-
-### DevOps Reloaded
 
 <!--
 | Stars                                                                                                                                                        | Repository                                                                                                                                                                       | Description                                                                                                                      |
@@ -173,15 +185,6 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 | [![Templates Stars](https://img.shields.io/github/stars/HariSekhon/Templates?label=)](https://github.com/HariSekhon/Templates)                               | [![Templates](https://img.shields.io/badge/Templates-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Templates)                                 | 100+ DevOps Code & Config templates for many common open source technologies and programming languages                           |
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Terraform&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Terraform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer-templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer-templates)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugin-Kafka&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=HAProxy-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/HAProxy-configs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
-
-### Misc
-
 <!--
 | Stars                                                                                                                                                  | Repository                                                                                                                                                                                                                                                                                                                                     | Description                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -190,12 +193,9 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 | [![Spotify-playlists Stars](https://img.shields.io/github/stars/HariSekhon/Spotify-playlists?label=)](https://github.com/HariSekhon/Spotify-playlists) | [![Spotify-playlists](https://img.shields.io/badge/Spotify--playlists-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Spotify-playlists)<br />[![Spotify Profile](https://img.shields.io/badge/Spotify%20Profile-HariSekhon-brightgreen?logo=spotify&style=social)](https://open.spotify.com/user/harisekhon) | 240+ playlists, 36,000+ tracks - in both Spotify URI and human-readable formats. Spotify API tools are submodules of this repo |
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Template-repo&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Template-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Spotify-tools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-playlists&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Spotify-playlists)
-
-The rest of my original source repos are
-[here](https://github.com/HariSekhon?tab=repositories&q=&type=source&language=&sort=stargazers).
-
-<!-- 1x1 pixel counter to record hits -->
-![](https://hit.yhype.me/github/profile?user_id=2211051)
+<!--
+| Stars                                                                                                                                               | Repository                                                                                                                                                                                                                                                                                                                                     | Description                                                             |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| [![Knowledge-Base Stars](https://img.shields.io/github/stars/HariSekhon/Knowledge-Base?label=)](https://github.com/HariSekhon/Knowledge-Base)       | [![Knowledge-Base](https://img.shields.io/badge/Knowledge--Base-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Knowledge-Base)                                                                                                                                                                               | 20 years in IT, private knowledge base currently being ported to public |
+| [![Diagrams-as-Code Stars](https://img.shields.io/github/stars/HariSekhon/Diagrams-as-Code?label=)](https://github.com/HariSekhon/Diagrams-as-Code) | [![Diagrams-as-Code](https://img.shields.io/badge/Diagrams--as--Code-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Diagrams-as-Code)                                                                                                                                                                        | Cloud & DevOps Architecture Diagrams from real world projects           |
+-->
