@@ -96,6 +96,8 @@ This only includes my public open source repos:
 
 GitHub's limit of 6 pinned repos is far too low - these are what I consider my core open source public repos:
 
+<!-- REPOS_START -->
+
 ### Knowledge
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Knowledge-Base&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Knowledge-Base)
@@ -158,6 +160,8 @@ The rest of my original source repos are
 
 <!-- 1x1 pixel counter to record hits -->
 ![](https://hit.yhype.me/github/profile?user_id=2211051)
+
+<!-- REPOS_END -->
 
 <!--
 | Stars                                                                                                                                                        | Repository                                                                                                                                                                | Description                                                                                   |
