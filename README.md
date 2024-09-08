@@ -184,7 +184,7 @@ Well... honestly, unless I have something specific to do, this is me 👉
 </table>
 
 Writing the above I suddenly got curious enough to quickly rustle up a new
-[program](https://github.com/HariSekhon/GitHub-Commit-Times-Graph) to generate this graph:
+[program](https://github.com/HariSekhon/GitHub-Commit-Times-Graph) to generate this graph of my public repo commits:
 
 ![GitHub Times Graph](https://raw.githubusercontent.com/HariSekhon/GitHub-Commit-Times-Graph/main/graph.png)
 
