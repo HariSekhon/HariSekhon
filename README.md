@@ -175,6 +175,10 @@ How the hell did this guy do all these thousands of pieces of code...
 Well... honestly, unless I have something specific to do, this is me 👉
 
 ... often even at midnight.
+
+Even crazier,
+the first decade of my career I released almost nothing
+and have even more code stuck in private repos that I have no time to go back to QA and release.
 </p>
   </td>
   <td width="50%">
@@ -184,7 +188,8 @@ Well... honestly, unless I have something specific to do, this is me 👉
 </table>
 
 Writing the above I suddenly got curious enough to quickly rustle up a new
-[program](https://github.com/HariSekhon/GitHub-Commit-Times-Graph) to generate this graph of my public repo commits:
+[program](https://github.com/HariSekhon/GitHub-Commit-Times-Graph)
+to generate this graph of my public repo commits times to see when I'm most active:
 
 ![GitHub Times Graph](https://raw.githubusercontent.com/HariSekhon/GitHub-Commit-Times-Graph/main/graph.png)
 
