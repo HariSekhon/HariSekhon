@@ -176,6 +176,8 @@ Well... honestly, unless I have something specific to do, this is me 👉
 
 ... often even at midnight.
 
+I am simply not a man of moderation. The few things I care about in life I do a lot.
+
 Even crazier,
 the first decade of my career I released almost nothing because GitHub didn't exist when I started,
 so I have even more code stuck in private repos that I have no time to go back to QA and release.
