@@ -170,7 +170,7 @@ Pre-built Docker images are available on my [DockerHub](https://hub.docker.com/u
     <h2>How, bro?</h2>
     <p>I know what you're thinking.
 
-How the hell did this guy do all these thousands of pieces of code...
+How the hell did this guy write all these thousands of programs and scripts...
 
 Well... honestly, unless I have something specific to do, this is me 👉
 
