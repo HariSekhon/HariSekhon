@@ -193,7 +193,7 @@ Writing the above I suddenly got curious enough to quickly rustle up a new
 [program](https://github.com/HariSekhon/GitHub-Commit-Times-Graph)
 to generate this graph of my public repo commit times to see when I'm most active:
 
-![GitHub Times Graph](https://raw.githubusercontent.com/HariSekhon/GitHub-Commit-Times-Graph/main/graph.png)
+![GitHub Times Graph](https://raw.githubusercontent.com/HariSekhon/GitHub-Commit-Times-Graph/main/graph.svg)
 
 The TL;DR takeaway from the above graph is don't bother me in the mornings, I take a while to warm up 😉.
 
