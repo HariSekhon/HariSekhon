@@ -164,6 +164,30 @@ The rest of my original source repos are
 
 Pre-built Docker images are available on my [DockerHub](https://hub.docker.com/u/harisekhon/).
 
+<table>
+<tr>
+  <td width="50%">
+    <h2>How, bro?</h2>
+    <p>I know what you're thinking.
+
+How the hell did this guy do all these thousands of pieces of code...
+
+Well... honestly, unless I have something specific to do, this is me 👉
+
+... often even at midnight.
+</p>
+  </td>
+  <td width="50%">
+    <img src="https://68.media.tumblr.com/fe195e9db7b66a729194a43370a21795/tumblr_oja6h1f90C1rzss56o1_500.gif" alt="codecat" width="100%" />
+  </td>
+</tr>
+</table>
+
+Writing the above I suddenly got curious enough to quickly rustle up a new
+[program](https://github.com/HariSekhon/GitHub-Commit-Times-Graph) to generate this graph:
+
+![GitHub Times Graph](https://raw.githubusercontent.com/HariSekhon/GitHub-Commit-Times-Graph/main/graph.png)
+
 <!-- 1x1 pixel counter to record hits -->
 ![](https://hit.yhype.me/github/profile?user_id=2211051)
 
