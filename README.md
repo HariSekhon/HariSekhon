@@ -177,8 +177,8 @@ Well... honestly, unless I have something specific to do, this is me 👉
 ... often even at midnight.
 
 Even crazier,
-the first decade of my career I released almost nothing
-and have even more code stuck in private repos that I have no time to go back to QA and release.
+the first decade of my career I released almost nothing because GitHub didn't exist when I started,
+so I have even more code stuck in private repos that I have no time to go back to QA and release.
 </p>
   </td>
   <td width="50%">
