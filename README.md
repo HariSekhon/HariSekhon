@@ -195,7 +195,7 @@ to generate this graph of my public repo commit times to see when I'm most activ
 
 ![GitHub Times Graph](https://raw.githubusercontent.com/HariSekhon/GitHub-Commit-Times-Graph/main/graph.png)
 
-Looking at the graph above the TL;DR takeaway is don't bother me in the mornings, I take a while to warm up 😉.
+The TL;DR takeaway from the above graph is don't bother me in the mornings, I take a while to warm up 😉.
 
 <!-- 1x1 pixel counter to record hits -->
 ![](https://hit.yhype.me/github/profile?user_id=2211051)
