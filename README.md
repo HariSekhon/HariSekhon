@@ -197,7 +197,7 @@ to generate this graph of my public repo commit times to see when I'm most activ
 
 The TL;DR takeaway from the above graph is don't bother me in the mornings, I take a while to warm up 😉.
 
-I also dip a bit around midday and 9pm as I need to eat once in a while...
+I also dip a bit around midday and 9pm as I need to eat once in a while... and sleep a few hours in the very early AM.
 
 <!-- 1x1 pixel counter to record hits -->
 ![](https://hit.yhype.me/github/profile?user_id=2211051)
