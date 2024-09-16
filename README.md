@@ -260,5 +260,8 @@ I also dip a bit around midday and 9pm as I need to eat once in a while... and s
 -->
 
 <div style="text-align: center;">
-<img src="images/oreilly_book_choosing_by_github_stars_you_only_live_once.webp" alt="codecat" width="50%" />
+  <img src="images/oreilly_book_choosing_by_github_stars_you_only_live_once.webp"
+       alt="codecat"
+       width="50%"
+       style="display: block; margin: 0 auto;" />
 </div>
