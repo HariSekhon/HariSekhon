@@ -184,7 +184,11 @@ so I have even more code stuck in private repos that I have no time to go back t
 </p>
   </td>
   <td width="50%">
-    <img src="https://68.media.tumblr.com/fe195e9db7b66a729194a43370a21795/tumblr_oja6h1f90C1rzss56o1_500.gif" alt="codecat" width="100%" />
+    <!--
+    <img src="https://68.media.tumblr.com/fe195e9db7b66a729194a43370a21795/tumblr_oja6h1f90C1rzss56o1_500.gif"
+alt="codecat" width="100%" />
+    -->
+    <img src="images/codecat.gif" alt="codecat" width="100%" />
   </td>
 </tr>
 </table>
