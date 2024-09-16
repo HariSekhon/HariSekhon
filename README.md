@@ -259,4 +259,6 @@ I also dip a bit around midday and 9pm as I need to eat once in a while... and s
 | [![Diagrams-as-Code Stars](https://img.shields.io/github/stars/HariSekhon/Diagrams-as-Code?label=)](https://github.com/HariSekhon/Diagrams-as-Code) | [![Diagrams-as-Code](https://img.shields.io/badge/Diagrams--as--Code-blue?logo=github&logoColor=white&labelColor=grey)](https://github.com/HariSekhon/Diagrams-as-Code)                                                                                                                                                                        | Cloud & DevOps Architecture Diagrams from real world projects           |
 -->
 
-![Choosing by GitHub Stars](images/oreilly_book_choosing_by_github_stars_you_only_live_once.webp)
+<div style="text-align: center;">
+<img src="images/oreilly_book_choosing_by_github_stars_you_only_live_once.webp" alt="codecat" width="50%" />
+</div>
