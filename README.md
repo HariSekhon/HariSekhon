@@ -165,10 +165,10 @@ The rest of my original source repos are
 Pre-built Docker images are available on my [DockerHub](https://hub.docker.com/u/harisekhon/).
 
 <table>
-<tr>
-  <td width="50%">
-    <h2>How, bro?</h2>
-    <p>I know what you're thinking.
+  <tr>
+    <td width="50%">
+      <h2>How, bro?</h2>
+        <p>I know what you're thinking.
 
 How the hell did this guy write all these thousands of programs and scripts...
 
@@ -181,16 +181,16 @@ I am simply not a man of moderation. The few things I care about in life I do a 
 Even crazier,
 the first decade of my career I released almost nothing because GitHub didn't exist when I started,
 so I have even more code stuck in private repos that I have no time to go back to QA and release.
-</p>
-  </td>
-  <td width="50%">
-    <!--
-    <img src="https://68.media.tumblr.com/fe195e9db7b66a729194a43370a21795/tumblr_oja6h1f90C1rzss56o1_500.gif"
-alt="codecat" width="100%" />
-    -->
-    <img src="images/codecat.gif" alt="codecat" width="100%" />
-  </td>
-</tr>
+        </p>
+      </td>
+    <td width="50%">
+      <!--
+      <img src="https://68.media.tumblr.com/fe195e9db7b66a729194a43370a21795/tumblr_oja6h1f90C1rzss56o1_500.gif"
+  alt="codecat" width="100%" />
+      -->
+      <img src="images/codecat.gif" alt="codecat" width="100%" />
+    </td>
+  </tr>
 </table>
 
 Writing the above I suddenly got curious enough to quickly rustle up a new
@@ -265,8 +265,24 @@ I also dip a bit around midday and 9pm as I need to eat once in a while... and s
 
 <!-- this centering doesn't work from either the div or the style block on the img but it works in IntelliJ :-/ -->
 <div style="text-align: center;">
-  <img src="images/oreilly_book_choosing_by_github_stars_you_only_live_once.webp"
-       alt="codecat"
-       width="50%"
-       style="display: block; margin: 0 auto;" />
+
 </div>
+
+## Star History
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="images/oreilly_book_choosing_by_github_stars_you_only_live_once.webp"
+           alt="oreilly_book_choosing_by_github_stars"
+           width="50%"
+           style="display: block; margin: 0 auto;" />
+    </td>
+    <td width="50%">
+      <img src="https://api.star-history.com/svg?repos=HariSekhon/DevOps-Bash-tools,HariSekhon/DevOps-Python-tools,HariSekhon/DevOps-Perl-tools,HariSekhon/DevOps-Golang-tools,HariSekhon/Dockerfiles,HariSekhon/Nagios-Plugins,HariSekhon/Kubernetes-configs,HariSekhon/HAProxy-configs,HariSekhon/SQL-scripts,HariSekhon/GitHub-Actions,HariSekhon/Jenkins,HariSekhon/Templates,HariSekhon/Knowledge-Base,HariSekhon/Diagrams-as-Code&type=Date"
+           alt="star-history"
+           width="100%"
+      />
+    </td>
+  </tr>
+</table>
