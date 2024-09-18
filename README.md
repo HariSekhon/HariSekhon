@@ -208,7 +208,19 @@ I also dip a bit around midday and 9pm as I need to eat once in a while... and s
 
 <!-- REPOS_END -->
 
+<!-- this centering doesn't work from either the div or the style block on the img but it works in IntelliJ :-/ -->
+<div style="text-align: center;">
+  <img
+    src="images/oreilly_book_choosing_by_github_stars_you_only_live_once.webp"
+    alt="oreilly_book_choosing_by_github_stars"
+    width="50%"
+    style="display: block; margin: 0 auto;"
+  />
+</div>
+
 ## Star History
+
+![Star History](https://api.star-history.com/svg?repos=HariSekhon/DevOps-Bash-tools,HariSekhon/DevOps-Python-tools,HariSekhon/DevOps-Perl-tools,HariSekhon/DevOps-Golang-tools,HariSekhon/Dockerfiles,HariSekhon/Nagios-Plugins,HariSekhon/Kubernetes-configs,HariSekhon/HAProxy-configs,HariSekhon/SQL-scripts,HariSekhon/GitHub-Actions,HariSekhon/Jenkins,HariSekhon/Templates,HariSekhon/Knowledge-Base,HariSekhon/Diagrams-as-Code&type=Date)
 
 <!-- the OReilly book comes out too small due to the star history graph being more horizontal, capping the height and
      narrowing the width of the book so linearize them vertically normally instead
@@ -229,15 +241,3 @@ I also dip a bit around midday and 9pm as I need to eat once in a while... and s
   </tr>
 </table>
 -->
-
-![Star History](https://api.star-history.com/svg?repos=HariSekhon/DevOps-Bash-tools,HariSekhon/DevOps-Python-tools,HariSekhon/DevOps-Perl-tools,HariSekhon/DevOps-Golang-tools,HariSekhon/Dockerfiles,HariSekhon/Nagios-Plugins,HariSekhon/Kubernetes-configs,HariSekhon/HAProxy-configs,HariSekhon/SQL-scripts,HariSekhon/GitHub-Actions,HariSekhon/Jenkins,HariSekhon/Templates,HariSekhon/Knowledge-Base,HariSekhon/Diagrams-as-Code&type=Date)
-
-<!-- this centering doesn't work from either the div or the style block on the img but it works in IntelliJ :-/ -->
-<div style="text-align: center;">
-  <img
-    src="images/oreilly_book_choosing_by_github_stars_you_only_live_once.webp"
-    alt="oreilly_book_choosing_by_github_stars"
-    width="50%"
-    style="display: block; margin: 0 auto;"
-  />
-</div>
