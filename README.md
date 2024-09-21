@@ -227,7 +227,7 @@ I just found out why my
 repo stars went vertical in the graph above.
 GitHub themselves showed it at the top of their Trending repos page:
 
-![GitHub Trending](images/github_trending_devops_bash_tools.png)
+[![GitHub Trending](images/github_trending_devops_bash_tools.png)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 <!-- the OReilly book comes out too small due to the star history graph being more horizontal, capping the height and
      narrowing the width of the book so linearize them vertically normally instead
