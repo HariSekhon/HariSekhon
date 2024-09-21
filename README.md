@@ -222,6 +222,13 @@ I also dip a bit around midday and 9pm as I need to eat once in a while... and s
 
 ![Star History](https://api.star-history.com/svg?repos=HariSekhon/DevOps-Bash-tools,HariSekhon/DevOps-Python-tools,HariSekhon/DevOps-Perl-tools,HariSekhon/DevOps-Golang-tools,HariSekhon/Dockerfiles,HariSekhon/Nagios-Plugins,HariSekhon/Kubernetes-configs,HariSekhon/HAProxy-configs,HariSekhon/SQL-scripts,HariSekhon/GitHub-Actions,HariSekhon/Jenkins,HariSekhon/Templates,HariSekhon/Knowledge-Base,HariSekhon/Diagrams-as-Code&type=Date)
 
+I just found out why my
+[DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
+repo stars went vertical in the graph above.
+GitHub themselves showed it a the top of trending repos:
+
+![GitHub Trending](images/github_trending_devops_bash_tools.png)
+
 <!-- the OReilly book comes out too small due to the star history graph being more horizontal, capping the height and
      narrowing the width of the book so linearize them vertically normally instead
 <table>
