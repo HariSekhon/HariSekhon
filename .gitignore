@@ -4,3 +4,7 @@
 # as well as either of these
 !images/**
 #!images/*.gif
+
+!*.png
+!*.jpg
+!*.jpeg
