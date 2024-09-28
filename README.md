@@ -377,6 +377,8 @@ gantt
     section Big Data
     Big Data               : crit, 2009-11-13, 2019-07-31
     Hadoop                 : done, 2009-11-13, 2019-07-31
+    HDFS                   : done, 2009-11-13, 2019-07-31
+    MapReduce              : done, 2012-06-01, 2019-07-31
     Cloudera / Hortonworks : done, 2012-08-01, 2020-03-20
     HBase                  : done, 2013-02-01, 2019-07-31
     Hive                   : done, 2013-01-18, 2019-07-31
