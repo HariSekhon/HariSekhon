@@ -317,7 +317,7 @@ gantt
     Subversion             : done, 2005-11-13, 2012-06-01
     Mercurial              : done, 2011-06-01, 2013-06-01
     Git                    : crit, 2012-06-01, 2024-12-31
-    GitHub                 : crit, 2012-06-01, 2024-12-31
+    GitHub                 : crit, 2012-12-31, 2024-12-31
 
     section CI/CD
     Jenkins                : crit, 2010-06-01, 2024-12-31
