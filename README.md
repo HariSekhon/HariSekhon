@@ -262,6 +262,8 @@ GitHub themselves showed it at the top of their Trending repos page:
         %%}
         "themeVariables": {
               "primaryColor": "#0000FF",
+              "secondaryColor": "#0000FF",
+              "tertiaryColor": "#008000",
               "primaryTextColor": "#ffffff",
               "primaryBorderColor": "#ffffff",
               "secondaryBorderColor": "#ffffff",
