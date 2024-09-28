@@ -288,6 +288,7 @@ gantt
     Puppet Config Mgmt     : done, 2008-09-01, 2014-02-18
     Ansible                : crit, 2014-06-01, 2024-12-31
     Terraform              : crit, 2019-09-01, 2024-12-31
+    Terraform Cloud        : active, 2021-09-01, 2022-09-31
     Kickstart              : active, 2008-01-01, 2024-12-31
     Preseed                : active, 2009-01-01, 2024-12-31
     AutoInstall            : active, 2023-01-01, 2024-12-31
