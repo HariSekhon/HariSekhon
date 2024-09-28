@@ -326,9 +326,10 @@ gantt
     %%GitHub                 : crit, 2012-12-31, 2024-12-31
 
     section CI/CD
-    Jenkins                : crit, 2010-06-01, 2024-12-31
+    CI/CD                  : crit, 2010-06-01, 2024-12-31
+    Jenkins                : active, 2010-06-01, 2024-12-31
     %%Travis CI              : done, 2014-05-01, 2019-06-31
-    GitHub Actions         : crit, 2019-09-01, 2024-12-31
+    GitHub Actions         : active, 2019-09-01, 2024-12-31
     %%CircleCI               : done, 2019-09-01, 2021-12-31
     %%BuildKite              : done, 2019-09-01, 2021-12-31
     %%GitLab                 : active, 2019-09-01, 2022-12-31
