@@ -291,7 +291,7 @@ gantt
     title Hari Sekhon's Technology Skills & Experience
     dateFormat  YYYY-MM-DD
 
-    20 years of Skillz to Pay the Billz : 2002-06-01, 2024-12-31
+    20+ years of Skillz to Pay the Billz : 2002-06-01, 2024-12-31
 
     section Operating Systems
     Linux                    : crit, 2002-12-01, 2024-12-31
