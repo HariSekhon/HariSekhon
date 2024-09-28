@@ -264,7 +264,7 @@ GitHub themselves showed it at the top of their Trending repos page:
               "primaryColor": "#0000FF",
               "secondaryColor": "#0000FF",
               "tertiaryColor": "#008000",
-              ganttDoneTaskColor: "#00FF00",
+              "ganttDoneTaskColor": "#00FF00",
               "primaryTextColor": "#ffffff",
               "secondaryTextColor": "#ffffff",
               "tertiaryTextColor": "#000000",
