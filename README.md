@@ -300,18 +300,18 @@ gantt
 
     section Coding
     Coding                 : crit, 2002-12-01, 2024-12-31
-    Bash                   : crit, 2002-12-01, 2024-12-31
-    Python                 : crit, 2005-11-01, 2024-12-31
+    Bash                   : active, 2002-12-01, 2024-12-31
+    Python                 : active, 2005-11-01, 2024-12-31
     %%VBScript               : done, 2005-05-01, 2009-11-01
-    Perl                   : crit, 2009-11-13, 2024-12-31
+    Perl                   : active, 2009-11-13, 2024-12-31
     %%Ruby                   : done, 2009-11-13, 2013-01-31
     Java                   : active, 2013-01-13, 2024-12-31
     %%Jython                 : done, 2013-01-13, 2015-12-31
     %%JRuby                  : done, 2013-03-01, 2013-08-31
     %%Scala                  : done, 2014-01-01, 2015-12-31
-    Golang                 : crit, 2015-06-01, 2024-12-31
-    Groovy                 : crit, 2016-01-01, 2024-12-31
-    APIs                   : crit, 2006-06-01, 2024-12-31
+    Golang                 : active, 2015-06-01, 2024-12-31
+    Groovy                 : active, 2016-01-01, 2024-12-31
+    APIs                   : active, 2006-06-01, 2024-12-31
 
     %%section Build Systems
     %%Make                   : active, 2006-06-01, 2024-12-31
