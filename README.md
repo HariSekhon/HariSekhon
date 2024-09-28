@@ -263,7 +263,9 @@ GitHub themselves showed it at the top of their Trending repos page:
         "themeVariables": {
               "primaryColor": "#0000FF",
               "primaryTextColor": "#ffffff",
-              "primaryBorderColor": "#839192",
+              "primaryBorderColor": "#ffffff",
+              "secondaryBorderColor": "#ffffff",
+              "tertiaryBorderColor": "#ffffff",
               "lineColor": "#ffffff",
               "secondaryColor": "#ffffff",
               "tertiaryColor": "#fffffff"
@@ -278,7 +280,7 @@ gantt
     20 years of Skillz to Pay the Billz : 2002-06-01, 2024-12-31
 
     section Operating Systems
-    Linux                  : crit, 2002-12-01, 2024-12-31
+    Linux                    : crit, 2002-12-01, 2024-12-31
     Windows Active Directory : done, 2003-01-01, 2009-09-10
 
     section IaaS & Configuration Management
@@ -314,7 +316,7 @@ gantt
     section CI/CD
     Jenkins                : crit, 2010-06-01, 2024-12-31
     GitHub Actions         : crit, 2019-09-01, 2024-12-31
-    CircleCI               : crit, 2019-09-01, 2021-12-31
+    CircleCI               : done, 2019-09-01, 2021-12-31
     Travis CI              : done, 2019-09-01, 2019-06-31
     BuildKite              : done, 2019-09-01, 2021-12-31
     Azure DevOps           : done, 2019-09-01, 2022-12-31
@@ -352,7 +354,7 @@ gantt
 
     section Virtualization & Containerization
     VMware ESX, ESXi, VirtualBox : done, 2005-01-01, 2017-02-16
-    Vagrant                : crit, 2013-01-01, 2023-12-31
+    Vagrant                : done, 2013-01-01, 2023-12-31
     Docker                 : crit, 2014-06-01, 2024-12-31
     Kubernetes             : crit, 2018-09-01, 2024-12-31
     ArgoCD                 : crit, 2021-01-01, 2024-12-31
@@ -390,11 +392,11 @@ gantt
     Data Science           : done, 2013-01-18, 2024-12-31
 
     section Web & CDNs
-    Web                    : done, 2005-01-01, 2024-12-31
-    APIs                   : done, 2006-06-01, 2024-12-31
+    Web                    : crit, 2005-01-01, 2024-12-31
+    APIs                   : crit, 2006-06-01, 2024-12-31
     UlraDNS                : done, 2009-11-01, 2012-06-31
     Cotendo                : done, 2012-06-01, 2013-01-13
-    Cloudflare             : done, 2020-08-20, 2024-12-31
+    Cloudflare             : crit, 2020-08-20, 2024-12-31
 
     section Cloud
     AWS Cloud              : crit, 2012-09-01, 2024-12-31
