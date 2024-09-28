@@ -274,6 +274,10 @@ GitHub themselves showed it at the top of their Trending repos page:
               "tertiaryBorderColor": "#ffffff",
               "lineColor": "#ffffff",
               "ganttSectionTextColor": "#ffffff",
+              "ganttCritTaskTextColor": "#ffffff",
+              "ganttActiveTaskTextColor": "#ffffff",
+              "ganttDoneTaskTextColor": "#000000",
+              "ganttTaskTextColor": "#000000",
         }
     }
 }%%
