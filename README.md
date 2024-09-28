@@ -426,6 +426,12 @@ gantt
     Memcached              : done, 2009-11-31, 2024-12-31
     Redis                  : active, 2013-03-01, 2024-12-31
 
+    section Cloud
+    Cloud            : crit, 2012-09-01, 2024-12-31
+    AWS              : active, 2012-09-01, 2024-12-31
+    GCP              : active, 2018-09-01, 2024-12-31
+    Azure            : active, 2020-08-01, 2024-12-31
+
     section Search
     Search                 : crit, 2013-03-31, 2024-12-31
     Elasticsearch          : active, 2013-03-31, 2024-12-31
@@ -433,10 +439,4 @@ gantt
     %%Fluentd                : crit, 2018-03-31, 2024-12-31
     %%Kibana                 : crit, 2013-03-31, 2024-12-31
     SolrCloud              : done, 2013-04-01, 2024-03-01
-
-    section Cloud
-    Cloud            : crit, 2012-09-01, 2024-12-31
-    AWS              : active, 2012-09-01, 2024-12-31
-    GCP              : active, 2018-09-01, 2024-12-31
-    Azure            : active, 2020-08-01, 2024-12-31
 ```
