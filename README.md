@@ -317,7 +317,7 @@ gantt
     Jenkins                : crit, 2010-06-01, 2024-12-31
     GitHub Actions         : crit, 2019-09-01, 2024-12-31
     CircleCI               : done, 2019-09-01, 2021-12-31
-    Travis CI              : done, 2019-09-01, 2019-06-31
+    Travis CI              : done, 2014-05-01, 2019-06-31
     BuildKite              : done, 2019-09-01, 2021-12-31
     Azure DevOps           : done, 2019-09-01, 2022-12-31
     GitLab                 : done, 2019-09-01, 2022-12-31
