@@ -328,6 +328,7 @@ gantt
     GitLab                 : active, 2019-09-01, 2022-12-31
     Azure DevOps           : done, 2019-09-01, 2022-12-31
     Bitbucket              : done, 2019-09-01, 2022-12-31
+    TeamCity               : active, 2020-08-20, 2021-02-31
     CloudBuild             : active, 2020-08-20, 2023-09-31
 
     section Monitoring
