@@ -304,8 +304,10 @@ gantt
     Coding                 : crit, 2002-12-01, 2024-12-31
     Bash                   : active, 2002-12-01, 2024-12-31
     Python                 : active, 2005-11-01, 2024-12-31
+    APIs                   : active, 2006-06-01, 2024-12-31
     %%VBScript               : done, 2005-05-01, 2009-11-01
     Perl                   : active, 2009-11-13, 2024-12-31
+    Git                    : active, 2012-06-01, 2024-12-31
     %%Ruby                   : done, 2009-11-13, 2013-01-31
     Java                   : active, 2013-01-13, 2024-12-31
     %%Jython                 : done, 2013-01-13, 2015-12-31
@@ -313,7 +315,6 @@ gantt
     %%Scala                  : done, 2014-01-01, 2015-12-31
     Golang                 : active, 2015-06-01, 2024-12-31
     Groovy                 : active, 2016-01-01, 2024-12-31
-    APIs                   : active, 2006-06-01, 2024-12-31
 
     %%section Build Systems
     %%Make                   : active, 2006-06-01, 2024-12-31
@@ -324,7 +325,7 @@ gantt
     %%section Version Control Systems
     %%Subversion             : done, 2005-11-13, 2012-06-01
     %%Mercurial              : done, 2011-06-01, 2013-06-01
-    Git                    : active, 2012-06-01, 2024-12-31
+    %%Git                    : active, 2012-06-01, 2024-12-31
     %%GitHub                 : active, 2012-12-31, 2024-12-31
 
     section CI/CD
