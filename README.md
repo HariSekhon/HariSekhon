@@ -281,7 +281,11 @@ gantt
 
     section Operating Systems
     Linux                    : crit, 2002-12-01, 2024-12-31
-    Windows Active Directory : done, 2003-01-01, 2009-09-10
+    Redhat Linux             : active, 2002-12-01, 2024-12-31
+    Debian Linux             : active, 2003-01-01, 2024-12-31
+    Ubuntu Linux             : active, 2006-06-01, 2024-12-31
+    Gentoo Linux             : done, 2004-06-01, 2009-11-10
+    Windows Active Directory : done, 2003-01-01, 2009-11-10
     Mac                      : crit, 2010-02-01, 2024-12-31
 
     section IaaS & Configuration Management
