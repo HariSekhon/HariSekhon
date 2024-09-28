@@ -340,9 +340,15 @@ gantt
     Cisco - IOS / NX-OS    : done, 2004-03-01, 2024-12-31
     Juniper - Netscreen / SSG / SRX / ScreenOS / JunOS : done, 2007-01-01, 2013-01-18
     Netgear                : done, 2005-01-01, 2012-12-31
+
+    section Load Balancers
     Load Balancers         : crit, 2009-07-01, 2024-12-31
+    LVS                    : done, 2009-01-01, 2009-11-11
     Foundry - ServerIron XL / 4G : done, 2009-10-13, 2011-11-31
     F5 BigIP               : done, 2010-06-01, 2013-01-18
+    HAProxy                : done, 2018-04-01, 2024-12-31
+    Kong                   : done, 2023-03-01, 2024-12-31
+    Traefik                : done, 2023-03-01, 2024-12-31
 
     section Databases (RDBMS)
     Databases (RDBMS)      : active, 2004-01-01, 2024-12-31
