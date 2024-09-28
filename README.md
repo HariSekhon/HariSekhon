@@ -365,6 +365,11 @@ gantt
     MySQL                  : active, 2008-01-01, 2024-12-31
     PostgreSQL             : active, 2008-01-01, 2024-12-31
 
+    section Data
+    Data                   : crit, 2005-11-11, 2024-12-31
+    %%Data Validation        : done, 2006-06-01, 2024-12-31
+    %%Data Science           : done, 2013-01-18, 2024-12-31
+
     section Virtualization & Containerization
     Virtualization         : crit, 2005-01-01, 2024-12-31
     %%VMware ESX, ESXi, VirtualBox : done, 2005-01-01, 2017-02-16
@@ -428,11 +433,6 @@ gantt
     %%Fluentd                : crit, 2018-03-31, 2024-12-31
     %%Kibana                 : crit, 2013-03-31, 2024-12-31
     SolrCloud              : done, 2013-04-01, 2024-03-01
-
-    section Data
-    Data                   : crit, 2005-11-11, 2024-12-31
-    %%Data Validation        : done, 2006-06-01, 2024-12-31
-    %%Data Science           : done, 2013-01-18, 2024-12-31
 
     section Cloud
     Cloud            : crit, 2012-09-01, 2024-12-31
