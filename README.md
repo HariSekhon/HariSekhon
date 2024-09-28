@@ -409,8 +409,9 @@ gantt
     %%Couchbase              : done, 2013-11-01, 2024-03-01
 
     section Caching
+    Caching                : crit, 2009-11-31, 2024-12-31
     Memcached              : done, 2009-11-31, 2024-12-31
-    Redis                  : done, 2013-03-01, 2024-12-31
+    Redis                  : active, 2013-03-01, 2024-12-31
 
     section Search
     Search                 : crit, 2013-03-31, 2024-12-31
