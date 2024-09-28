@@ -249,6 +249,11 @@ GitHub themselves showed it at the top of their Trending repos page:
 </table>
 -->
 
+## Gantt Chart of My Skills & Experience
+
+This should give you some idea of my long evolution having reached the level of lead engineer and architect
+by the late 2000s.
+
 ```mermaid
 %%{ init: {
         "logLevel": "debug",
