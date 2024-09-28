@@ -267,8 +267,8 @@ GitHub themselves showed it at the top of their Trending repos page:
               "secondaryBorderColor": "#ffffff",
               "tertiaryBorderColor": "#ffffff",
               "lineColor": "#ffffff",
-              "secondaryColor": "#ffffff",
-              "tertiaryColor": "#fffffff"
+              %%"secondaryColor": "#ffffff",
+              %%"tertiaryColor": "#ffffff"
         }
     }
 }%%
