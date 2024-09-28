@@ -317,6 +317,11 @@ gantt
     %%Git                    : active, 2012-06-01, 2024-12-31
     %%GitHub                 : active, 2012-12-31, 2024-12-31
 
+    section Data
+    Data                   : active, 2005-11-11, 2024-12-31
+    %%Data Validation        : done, 2006-06-01, 2024-12-31
+    %%Data Science           : done, 2013-01-18, 2024-12-31
+
     section Databases (RDBMS)
     Databases (RDBMS)      : crit, 2004-01-01, 2024-12-31
     SQL                    : active, 2004-01-01, 2024-12-31
@@ -324,11 +329,6 @@ gantt
     Oracle                 : done, 2005-11-01, 2009-09-10
     MySQL                  : active, 2008-01-01, 2024-12-31
     PostgreSQL             : active, 2008-01-01, 2024-12-31
-
-    section Data
-    Data                   : crit, 2005-11-11, 2024-12-31
-    %%Data Validation        : done, 2006-06-01, 2024-12-31
-    %%Data Science           : done, 2013-01-18, 2024-12-31
 
     section Web & CDNs
     Web                    : crit, 2005-01-01, 2024-12-31
