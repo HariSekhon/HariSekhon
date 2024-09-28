@@ -287,7 +287,7 @@ gantt
     %%Gentoo Linux             : done, 2004-06-01, 2009-11-10
     %%Ubuntu Linux             : active, 2006-06-01, 2024-12-31
     %%Alpine Linux             : done, 2016-01-01, 2024-12-31
-    Mac                      : crit, 2010-02-01, 2024-12-31
+    Mac                      : active, 2010-02-01, 2024-12-31
 
     section Coding
     Coding                 : crit, 2002-12-01, 2024-12-31
