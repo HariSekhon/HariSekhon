@@ -292,7 +292,7 @@ gantt
     section IaaC & Configuration Management
     Configuration Management :crit, 2006-01-01, 2024-12-31
     Puppet Config Mgmt     : done, 2008-09-01, 2014-02-18
-    Ansible                : crit, 2014-06-01, 2024-12-31
+    Ansible                : active, 2014-06-01, 2024-12-31
     IaaC                   :crit, 2008-01-01, 2024-12-31
     Terraform              :active, 2019-09-01, 2024-12-31
     %%Terraform Cloud        : active, 2021-09-01, 2022-09-31
