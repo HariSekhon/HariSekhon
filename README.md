@@ -292,6 +292,7 @@ gantt
     AutoInstall            : active, 2023-01-01, 2024-12-31
 
     section Coding
+    Coding                 : crit, 2002-12-01, 2024-12-31
     Bash                   : crit, 2002-12-01, 2024-12-31
     Python                 : crit, 2005-11-01, 2024-12-31
     VBScript               : done, 2005-05-01, 2009-11-01
