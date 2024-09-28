@@ -294,7 +294,7 @@ gantt
     section Coding
     Bash                   : crit, 2002-12-01, 2024-12-31
     Python                 : crit, 2005-11-01, 2024-12-31
-    VBS                    : done, 2005-05-01, 2009-11-01
+    VBScript               : done, 2005-05-01, 2009-11-01
     Perl                   : crit, 2009-11-13, 2024-12-31
     Ruby                   : done, 2009-11-13, 2013-01-31
     Java                   : active, 2013-01-13, 2024-12-31
