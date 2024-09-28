@@ -328,14 +328,6 @@ gantt
     %%Git                    : active, 2012-06-01, 2024-12-31
     %%GitHub                 : active, 2012-12-31, 2024-12-31
 
-    section Web & CDNs
-    Web                    : crit, 2005-01-01, 2024-12-31
-    APIs                   : active, 2006-06-01, 2024-12-31
-    CDNs                   : active, 2009-11-01, 2024-12-31
-    %%UlraDNS                : done, 2009-11-01, 2012-06-31
-    %%Cotendo                : done, 2012-06-01, 2013-01-13
-    %%Cloudflare             : active, 2020-08-20, 2024-12-31
-
     section Databases (RDBMS)
     Databases (RDBMS)      : crit, 2004-01-01, 2024-12-31
     SQL                    : active, 2004-01-01, 2024-12-31
@@ -348,6 +340,14 @@ gantt
     Data                   : crit, 2005-11-11, 2024-12-31
     %%Data Validation        : done, 2006-06-01, 2024-12-31
     %%Data Science           : done, 2013-01-18, 2024-12-31
+
+    section Web & CDNs
+    Web                    : crit, 2005-01-01, 2024-12-31
+    APIs                   : active, 2006-06-01, 2024-12-31
+    CDNs                   : active, 2009-11-01, 2024-12-31
+    %%UlraDNS                : done, 2009-11-01, 2012-06-31
+    %%Cotendo                : done, 2012-06-01, 2013-01-13
+    %%Cloudflare             : active, 2020-08-20, 2024-12-31
 
     section Security
     Security               : active, 2004-10-01, 2024-12-31
