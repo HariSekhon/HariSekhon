@@ -370,7 +370,7 @@ gantt
 
     section Databases (RDBMS)
     Databases (RDBMS)      : crit, 2004-01-01, 2024-12-31
-    SQL:                   : crit: 2004-01-01, 2024-12-31
+    SQL                    : active: 2004-01-01, 2024-12-31
     Microsoft SQL Server   : done, 2004-01-01, 2005-10-31
     Oracle                 : done, 2005-11-01, 2009-09-10
     MySQL                  : active, 2008-01-01, 2024-12-31
