@@ -264,8 +264,6 @@ GitHub themselves showed it at the top of their Trending repos page:
               "primaryColor": "#0000FF",
               "secondaryColor": "#0000FF",
               "tertiaryColor": "#008000",
-              "ganttDoneTaskColor": "#00FF00",
-              "ganttDoneTaskTextColor": "#ffffff",
               "primaryTextColor": "#ffffff",
               "secondaryTextColor": "#ffffff",
               "tertiaryTextColor": "#000000",
@@ -273,11 +271,11 @@ GitHub themselves showed it at the top of their Trending repos page:
               "secondaryBorderColor": "#ffffff",
               "tertiaryBorderColor": "#ffffff",
               "lineColor": "#ffffff",
-              "ganttSectionTextColor": "#ffffff",
-              "ganttCritTaskTextColor": "#ffffff",
-              "ganttActiveTaskTextColor": "#ffffff",
-              "ganttDoneTaskTextColor": "#000000",
-              "ganttTaskTextColor": "#000000",
+              %%"ganttSectionTextColor": "#ffffff",
+              %%"ganttCritTaskTextColor": "#ffffff",
+              %%"ganttActiveTaskTextColor": "#ffffff",
+              %%"ganttDoneTaskTextColor": "#000000",
+              %%"ganttTaskTextColor": "#000000",
         }
     }
 }%%
