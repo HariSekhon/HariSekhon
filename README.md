@@ -384,9 +384,9 @@ gantt
     %%VMware ESX, ESXi, VirtualBox : done, 2005-01-01, 2017-02-16
     %%Vagrant                : active, 2013-01-01, 2023-12-31
     Containerization       : crit, 2014-06-01, 2024-12-31
-    Docker                 : crit, 2014-06-01, 2024-12-31
-    Kubernetes             : crit, 2018-09-01, 2024-12-31
-    ArgoCD                 : crit, 2021-01-01, 2024-12-31
+    Docker                 : active, 2014-06-01, 2024-12-31
+    Kubernetes             : active, 2018-09-01, 2024-12-31
+    ArgoCD                 : active, 2021-01-01, 2024-12-31
 
     section Big Data
     Big Data               : crit, 2009-11-13, 2019-07-31
