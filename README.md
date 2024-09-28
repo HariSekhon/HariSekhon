@@ -282,6 +282,7 @@ gantt
     section Operating Systems
     Linux                    : crit, 2002-12-01, 2024-12-31
     Windows Active Directory : done, 2003-01-01, 2009-09-10
+    Mac                      : crit, 2011-01-01, 2024-12-31
 
     section IaaS & Configuration Management
     Puppet Config Mgmt     : done, 2008-09-01, 2014-02-18
