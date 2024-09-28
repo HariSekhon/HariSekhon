@@ -348,19 +348,19 @@ gantt
     %%Datadog                : done, 2022-08-20, 2023-09-17
 
     section Security
-    Security               : crit, 2004-10-01, 2024-12-31
+    Security               : active, 2004-10-01, 2024-12-31
     %%Kerberos               : active, 2006-06-01, 2024-12-31
     %%LDAP                   : active, 2006-06-01, 2024-12-31
 
     section Networking
-    Networking             : crit, 2004-03-01, 2024-12-31
+    Networking             : active, 2004-03-01, 2024-12-31
     %%VPNs                   : active, 2006-06-01, 2024-12-31
     %%Cisco - IOS / NX-OS    : done, 2004-03-01, 2024-12-31
     %%Juniper - Netscreen / SSG / SRX / ScreenOS / JunOS : done, 2007-01-01, 2013-01-18
     %%Netgear                : done, 2005-01-01, 2012-12-31
 
     section Load Balancers
-    Load Balancers         : crit, 2009-07-01, 2024-12-31
+    Load Balancers         : active, 2009-07-01, 2024-12-31
     %%LVS                    : done, 2009-01-01, 2009-11-11
     %%Foundry - ServerIron XL / 4G : done, 2009-10-13, 2011-11-31
     %%F5 BigIP               : done, 2010-06-01, 2013-01-18
