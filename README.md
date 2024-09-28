@@ -394,7 +394,7 @@ gantt
     %%CloudBuild             : active, 2020-08-20, 2023-09-31
 
     section Monitoring
-    Monitoring             : active, 2006-06-01, 2024-12-31
+    Monitoring             : crit, 2006-06-01, 2024-12-31
     Nagios                 : active, 2006-06-01, 2019-07-31
     OpenTSDB               : done, 2016-09-01, 2019-07-31
     Grafana                : active, 2018-01-01, 2024-12-31
