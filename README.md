@@ -410,7 +410,7 @@ gantt
 
     section Search
     Search                 : crit, 2013-03-31, 2024-12-31
-    Elasticsearch          : crit, 2013-03-31, 2024-12-31
+    Elasticsearch          : active, 2013-03-31, 2024-12-31
     %%LogStash               : done, 2013-03-31, 2024-12-31
     %%Fluentd                : crit, 2018-03-31, 2024-12-31
     %%Kibana                 : crit, 2013-03-31, 2024-12-31
@@ -423,14 +423,15 @@ gantt
 
     section Web & CDNs
     Web                    : crit, 2005-01-01, 2024-12-31
-    APIs                   : crit, 2006-06-01, 2024-12-31
-    CDNs                   : done, 2009-11-01, 2024-12-31
+    APIs                   : active, 2006-06-01, 2024-12-31
+    CDNs                   : active, 2009-11-01, 2024-12-31
     %%UlraDNS                : done, 2009-11-01, 2012-06-31
     %%Cotendo                : done, 2012-06-01, 2013-01-13
-    %%Cloudflare             : crit, 2020-08-20, 2024-12-31
+    %%Cloudflare             : active, 2020-08-20, 2024-12-31
 
     section Cloud
-    AWS Cloud              : crit, 2012-09-01, 2024-12-31
-    GCP Cloud              : crit, 2018-09-01, 2024-12-31
-    Azure Cloud            : crit, 2020-08-01, 2024-12-31
+    Cloud            : crit, 2012-09-01, 2024-12-31
+    AWS              : active, 2012-09-01, 2024-12-31
+    GCP              : active, 2018-09-01, 2024-12-31
+    Azure            : active, 2020-08-01, 2024-12-31
 ```
