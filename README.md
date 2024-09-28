@@ -336,6 +336,19 @@ gantt
     %%Cotendo                : done, 2012-06-01, 2013-01-13
     %%Cloudflare             : active, 2020-08-20, 2024-12-31
 
+    section Databases (RDBMS)
+    Databases (RDBMS)      : crit, 2004-01-01, 2024-12-31
+    SQL                    : active, 2004-01-01, 2024-12-31
+    Microsoft SQL Server   : done, 2004-01-01, 2005-10-31
+    Oracle                 : done, 2005-11-01, 2009-09-10
+    MySQL                  : active, 2008-01-01, 2024-12-31
+    PostgreSQL             : active, 2008-01-01, 2024-12-31
+
+    section Data
+    Data                   : crit, 2005-11-11, 2024-12-31
+    %%Data Validation        : done, 2006-06-01, 2024-12-31
+    %%Data Science           : done, 2013-01-18, 2024-12-31
+
     section Security
     Security               : active, 2004-10-01, 2024-12-31
     %%Kerberos               : active, 2006-06-01, 2024-12-31
@@ -356,19 +369,6 @@ gantt
     %%HAProxy                : active, 2018-04-01, 2024-12-31
     %%Kong                   : active, 2023-03-01, 2024-12-31
     %%Traefik                : active, 2023-03-01, 2024-12-31
-
-    section Databases (RDBMS)
-    Databases (RDBMS)      : crit, 2004-01-01, 2024-12-31
-    SQL                    : active, 2004-01-01, 2024-12-31
-    Microsoft SQL Server   : done, 2004-01-01, 2005-10-31
-    Oracle                 : done, 2005-11-01, 2009-09-10
-    MySQL                  : active, 2008-01-01, 2024-12-31
-    PostgreSQL             : active, 2008-01-01, 2024-12-31
-
-    section Data
-    Data                   : crit, 2005-11-11, 2024-12-31
-    %%Data Validation        : done, 2006-06-01, 2024-12-31
-    %%Data Science           : done, 2013-01-18, 2024-12-31
 
     section Virtualization & Containerization
     Virtualization         : crit, 2005-01-01, 2024-12-31
