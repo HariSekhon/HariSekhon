@@ -265,6 +265,8 @@ GitHub themselves showed it at the top of their Trending repos page:
               "secondaryColor": "#0000FF",
               "tertiaryColor": "#008000",
               "primaryTextColor": "#ffffff",
+              "secondaryTextColor": "#ffffff",
+              "tertiaryTextColor": "#000000",
               "primaryBorderColor": "#ffffff",
               "secondaryBorderColor": "#ffffff",
               "tertiaryBorderColor": "#ffffff",
