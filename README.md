@@ -287,19 +287,19 @@ gantt
     Puppet Config Mgmt     : done, 2008-09-01, 2014-02-18
     Ansible                : crit, 2014-06-01, 2024-12-31
     Terraform              : crit, 2019-09-01, 2024-12-31
-    Kickstart              : crit, 2008-01-01, 2024-12-31
-    Preseed                : crit, 2009-01-01, 2024-12-31
-    AutoInstall            : crit, 2023-01-01, 2024-12-31
+    Kickstart              : active, 2008-01-01, 2024-12-31
+    Preseed                : active, 2009-01-01, 2024-12-31
+    AutoInstall            : active, 2023-01-01, 2024-12-31
 
     section Coding
     Bash                   : crit, 2002-12-01, 2024-12-31
     Python                 : crit, 2005-11-01, 2024-12-31
     Perl                   : crit, 2009-11-13, 2024-12-31
-    Java                   : done, 2013-01-13, 2024-12-31
+    Java                   : active, 2013-01-13, 2024-12-31
     Jython                 : done, 2013-01-13, 2015-12-31
     Scala                  : done, 2014-01-01, 2015-12-31
-    Groovy                 : done, 2016-01-01, 2024-12-31
-    APIs                   : done, 2006-06-01, 2024-12-31
+    Groovy                 : crit, 2016-01-01, 2024-12-31
+    APIs                   : crit, 2006-06-01, 2024-12-31
 
     section Build Systems
     Make                   : active, 2006-06-01, 2024-12-31
@@ -310,33 +310,33 @@ gantt
     section Version Control Systems
     Subversion             : done, 2005-11-13, 2012-06-01
     Mercurial              : done, 2011-06-01, 2013-06-01
-    Git                    : done, 2012-06-01, 2024-12-31
-    GitHub                 : done, 2012-06-01, 2024-12-31
+    Git                    : crit, 2012-06-01, 2024-12-31
+    GitHub                 : crit, 2012-06-01, 2024-12-31
 
     section CI/CD
     Jenkins                : crit, 2010-06-01, 2024-12-31
+    Travis CI              : done, 2014-05-01, 2019-06-31
     GitHub Actions         : crit, 2019-09-01, 2024-12-31
     CircleCI               : done, 2019-09-01, 2021-12-31
-    Travis CI              : done, 2014-05-01, 2019-06-31
     BuildKite              : done, 2019-09-01, 2021-12-31
+    GitLab                 : active, 2019-09-01, 2022-12-31
     Azure DevOps           : done, 2019-09-01, 2022-12-31
-    GitLab                 : done, 2019-09-01, 2022-12-31
     Bitbucket              : done, 2019-09-01, 2022-12-31
 
     section Monitoring
-    Nagios                 : done, 2006-06-01, 2019-07-31
+    Nagios                 : active, 2006-06-01, 2019-07-31
     OpenTSDB               : done, 2016-09-01, 2019-07-31
-    Prometheus             : done, 2018-06-01, 2024-12-31
-    Grafana                : done, 2018-01-01, 2024-12-31
+    Prometheus             : active, 2018-06-01, 2024-12-31
+    Grafana                : crit, 2018-01-01, 2024-12-31
 
     section Security
-    Security               : done, 2004-10-01, 2024-12-31
-    Kerberos               : done, 2006-06-01, 2024-12-31
-    LDAP                   : done, 2006-06-01, 2024-12-31
+    Security               : crit, 2004-10-01, 2024-12-31
+    Kerberos               : active, 2006-06-01, 2024-12-31
+    LDAP                   : active, 2006-06-01, 2024-12-31
 
     section Networking
     Networking             : crit, 2004-03-01, 2024-12-31
-    VPNs                   : crit, 2006-06-01, 2024-12-31
+    VPNs                   : active, 2006-06-01, 2024-12-31
     Cisco - IOS / NX-OS    : done, 2004-03-01, 2024-12-31
     Juniper - Netscreen / SSG / SRX / ScreenOS / JunOS : done, 2007-01-01, 2013-01-18
     Netgear                : done, 2005-01-01, 2012-12-31
@@ -346,12 +346,12 @@ gantt
     LVS                    : done, 2009-01-01, 2009-11-11
     Foundry - ServerIron XL / 4G : done, 2009-10-13, 2011-11-31
     F5 BigIP               : done, 2010-06-01, 2013-01-18
-    HAProxy                : done, 2018-04-01, 2024-12-31
-    Kong                   : done, 2023-03-01, 2024-12-31
-    Traefik                : done, 2023-03-01, 2024-12-31
+    HAProxy                : active, 2018-04-01, 2024-12-31
+    Kong                   : active, 2023-03-01, 2024-12-31
+    Traefik                : active, 2023-03-01, 2024-12-31
 
     section Databases (RDBMS)
-    Databases (RDBMS)      : active, 2004-01-01, 2024-12-31
+    Databases (RDBMS)      : crit, 2004-01-01, 2024-12-31
     SQL:                   : crit: 2004-01-01, 2024-12-31
     Microsoft SQL Server   : done, 2004-01-01, 2005-10-31
     Oracle                 : done, 2005-11-01, 2009-09-10
@@ -359,21 +359,24 @@ gantt
     PostgreSQL             : active, 2008-01-01, 2024-12-31
 
     section Virtualization & Containerization
+    Virtualization         : crit, 2005-01-01, 2024-12-31
     VMware ESX, ESXi, VirtualBox : done, 2005-01-01, 2017-02-16
-    Vagrant                : done, 2013-01-01, 2023-12-31
+    Vagrant                : active, 2013-01-01, 2023-12-31
+    Containerization       : crit, 2014-06-01, 2024-12-31
     Docker                 : crit, 2014-06-01, 2024-12-31
     Kubernetes             : crit, 2018-09-01, 2024-12-31
     ArgoCD                 : crit, 2021-01-01, 2024-12-31
 
     section Big Data
+    Big Data               : crit, 2009-11-13, 2019-07-31
     Hadoop                 : done, 2009-11-13, 2019-07-31
     Cloudera / Hortonworks : done, 2012-08-01, 2020-03-20
     HBase                  : done, 2013-02-01, 2019-07-31
     Hive                   : done, 2013-01-18, 2019-07-31
     Impala                 : done, 2013-04-01, 2015-06-31
     Apache Drill           : done, 2014-06-01, 2018-12-31
-    Spark                  : done, 2014-01-01, 2019-07-31
-    Kafka                  : done, 2014-01-01, 2019-07-31
+    Spark                  : active, 2014-01-01, 2019-07-31
+    Kafka                  : active, 2014-01-01, 2019-07-31
 
     section NoSQL
     NoSQL                  : crit, 2009-11-13, 2024-12-31
@@ -386,6 +389,7 @@ gantt
     Redis                  : done, 2013-03-01, 2024-12-31
 
     section Search
+    Search                 : crit, 2013-03-31, 2024-12-31
     Elasticsearch          : crit, 2013-03-31, 2024-12-31
     LogStash               : done, 2013-03-31, 2024-12-31
     Fluentd                : crit, 2018-03-31, 2024-12-31
