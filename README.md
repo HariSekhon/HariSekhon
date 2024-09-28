@@ -339,6 +339,7 @@ gantt
     Prometheus             : active, 2018-06-01, 2024-12-31
     Grafana                : crit, 2018-01-01, 2024-12-31
     Pingdom                : done, 2020-08-20, 2023-09-17
+    Datadog                : done, 2022-08-20, 2023-09-17
 
     section Security
     Security               : crit, 2004-10-01, 2024-12-31
