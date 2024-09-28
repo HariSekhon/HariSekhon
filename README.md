@@ -164,14 +164,16 @@ The rest of my original source repos are
 
 Pre-built Docker images are available on my [DockerHub](https://hub.docker.com/u/harisekhon/).
 
-<table>
+## How the Hell, Bro
+
+I get asked this a lot.
+
+How the hell did this crazy guy write all these thousands of programs and scripts...
+
+<table border="0">
   <tr>
     <td width="50%">
-      <h2>How, bro?</h2>
-        <p>I know what you're thinking.
-
-How the hell did this guy write all these thousands of programs and scripts...
-
+        <p>
 Well... honestly, unless I have something specific to do, this is me 👉
 
 ... often even at midnight.
@@ -249,7 +251,7 @@ GitHub themselves showed it at the top of their Trending repos page:
 </table>
 -->
 
-## Gantt Chart of My Skills & Experience
+## Gantt Chart of my Experience
 
 This should give you some idea of my long evolution having reached the level of lead engineer and architect
 by the late 2000s.
