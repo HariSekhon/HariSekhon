@@ -328,28 +328,13 @@ gantt
     %%Git                    : active, 2012-06-01, 2024-12-31
     %%GitHub                 : active, 2012-12-31, 2024-12-31
 
-    section CI/CD
-    CI/CD                  : crit, 2010-06-01, 2024-12-31
-    Jenkins                : active, 2010-06-01, 2024-12-31
-    %%Travis CI              : done, 2014-05-01, 2019-06-31
-    GitHub Actions         : active, 2019-09-01, 2024-12-31
-    %%CircleCI               : done, 2019-09-01, 2021-12-31
-    %%BuildKite              : done, 2019-09-01, 2021-12-31
-    %%GitLab                 : active, 2019-09-01, 2022-12-31
-    %%Azure DevOps           : done, 2019-09-01, 2022-12-31
-    %%Bitbucket              : done, 2019-09-01, 2022-12-31
-    %%Concourse              : active, 2019-11-01, 2020-03-20
-    %%TeamCity               : active, 2020-08-20, 2021-02-31
-    %%CloudBuild             : active, 2020-08-20, 2023-09-31
-
-    section Monitoring
-    Monitoring             : active, 2006-06-01, 2024-12-31
-    Nagios                 : active, 2006-06-01, 2019-07-31
-    OpenTSDB               : done, 2016-09-01, 2019-07-31
-    Grafana                : active, 2018-01-01, 2024-12-31
-    Prometheus             : active, 2018-06-01, 2024-12-31
-    %%Pingdom                : done, 2020-08-20, 2023-09-17
-    %%Datadog                : done, 2022-08-20, 2023-09-17
+    section Web & CDNs
+    Web                    : crit, 2005-01-01, 2024-12-31
+    APIs                   : active, 2006-06-01, 2024-12-31
+    CDNs                   : active, 2009-11-01, 2024-12-31
+    %%UlraDNS                : done, 2009-11-01, 2012-06-31
+    %%Cotendo                : done, 2012-06-01, 2013-01-13
+    %%Cloudflare             : active, 2020-08-20, 2024-12-31
 
     section Security
     Security               : active, 2004-10-01, 2024-12-31
@@ -389,6 +374,29 @@ gantt
     Kubernetes             : active, 2018-09-01, 2024-12-31
     ArgoCD                 : active, 2021-01-01, 2024-12-31
 
+    section CI/CD
+    CI/CD                  : crit, 2010-06-01, 2024-12-31
+    Jenkins                : active, 2010-06-01, 2024-12-31
+    %%Travis CI              : done, 2014-05-01, 2019-06-31
+    GitHub Actions         : active, 2019-09-01, 2024-12-31
+    %%CircleCI               : done, 2019-09-01, 2021-12-31
+    %%BuildKite              : done, 2019-09-01, 2021-12-31
+    %%GitLab                 : active, 2019-09-01, 2022-12-31
+    %%Azure DevOps           : done, 2019-09-01, 2022-12-31
+    %%Bitbucket              : done, 2019-09-01, 2022-12-31
+    %%Concourse              : active, 2019-11-01, 2020-03-20
+    %%TeamCity               : active, 2020-08-20, 2021-02-31
+    %%CloudBuild             : active, 2020-08-20, 2023-09-31
+
+    section Monitoring
+    Monitoring             : active, 2006-06-01, 2024-12-31
+    Nagios                 : active, 2006-06-01, 2019-07-31
+    OpenTSDB               : done, 2016-09-01, 2019-07-31
+    Grafana                : active, 2018-01-01, 2024-12-31
+    Prometheus             : active, 2018-06-01, 2024-12-31
+    %%Pingdom                : done, 2020-08-20, 2023-09-17
+    %%Datadog                : done, 2022-08-20, 2023-09-17
+
     section Big Data
     Big Data               : crit, 2009-11-13, 2019-07-31
     Hadoop                 : done, 2009-11-13, 2019-07-31
@@ -425,14 +433,6 @@ gantt
     Data                   : crit, 2005-11-11, 2024-12-31
     %%Data Validation        : done, 2006-06-01, 2024-12-31
     %%Data Science           : done, 2013-01-18, 2024-12-31
-
-    section Web & CDNs
-    Web                    : crit, 2005-01-01, 2024-12-31
-    APIs                   : active, 2006-06-01, 2024-12-31
-    CDNs                   : active, 2009-11-01, 2024-12-31
-    %%UlraDNS                : done, 2009-11-01, 2012-06-31
-    %%Cotendo                : done, 2012-06-01, 2013-01-13
-    %%Cloudflare             : active, 2020-08-20, 2024-12-31
 
     section Cloud
     Cloud            : crit, 2012-09-01, 2024-12-31
