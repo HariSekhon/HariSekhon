@@ -264,6 +264,8 @@ by the late 2000s.
 %% Have to infer the settings from here:
 %%
 %%    https://github.com/mermaid-js/mermaid/blob/develop/packages/mermaid/src/diagrams/gantt/styles.js
+%%
+%% This is here because we can't have %% comments in the %%{ init: { } } section below
 -->
 
 ```mermaid
