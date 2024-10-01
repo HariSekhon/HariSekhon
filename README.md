@@ -267,23 +267,23 @@ by the late 2000s.
         %%    "gitBranchLabel0": "#FFFFFF",
         %%    "commitLabelColor": "#FFFFFF"
         %%}
-        "themeVariables": {
-              "primaryColor": "#0000FF",
-              "secondaryColor": "#0000FF",
-              "tertiaryColor": "#008000",
-              "primaryTextColor": "#ffffff",
-              "secondaryTextColor": "#ffffff",
-              "tertiaryTextColor": "#000000",
-              "primaryBorderColor": "#ffffff",
-              "secondaryBorderColor": "#ffffff",
-              "tertiaryBorderColor": "#ffffff",
-              "lineColor": "#ffffff",
-              %%"ganttSectionTextColor": "#ffffff",
-              %%"ganttCritTaskTextColor": "#ffffff",
-              %%"ganttActiveTaskTextColor": "#ffffff",
-              %%"ganttDoneTaskTextColor": "#000000",
-              %%"ganttTaskTextColor": "#000000",
-        }
+        %%"themeVariables": {
+        %%      "primaryColor": "#0000FF",
+        %%      "secondaryColor": "#0000FF",
+        %%      "tertiaryColor": "#008000",
+        %%      "primaryTextColor": "#ffffff",
+        %%      "secondaryTextColor": "#ffffff",
+        %%      "tertiaryTextColor": "#000000",
+        %%      "primaryBorderColor": "#ffffff",
+        %%      "secondaryBorderColor": "#ffffff",
+        %%      "tertiaryBorderColor": "#ffffff",
+        %%      "lineColor": "#ffffff",
+        %%      %%"ganttSectionTextColor": "#ffffff",
+        %%      %%"ganttCritTaskTextColor": "#ffffff",
+        %%      %%"ganttActiveTaskTextColor": "#ffffff",
+        %%      %%"ganttDoneTaskTextColor": "#000000",
+        %%      %%"ganttTaskTextColor": "#000000",
+        %%}
     }
 }%%
 
