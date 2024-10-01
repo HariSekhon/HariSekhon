@@ -256,34 +256,28 @@ GitHub themselves showed it at the top of their Trending repos page:
 This should give you some idea of my long evolution having reached the level of lead engineer and architect
 by the late 2000s.
 
+<!--
+%% MermaidJS inline colour customization is not documented properly:
+%%
+%%    https://github.com/mermaid-js/mermaid/issues/5915
+%%
+%% Have to infer the settings from here:
+%%
+%%    https://github.com/mermaid-js/mermaid/blob/develop/packages/mermaid/src/diagrams/gantt/styles.js
+-->
+
 ```mermaid
 %%{ init: {
         "logLevel": "debug",
-        %%"theme": "dark",
-        %%"themeVariables": {
-        %%    "git0": "#839192",
-        %%    "git1": "#2874A6",
-        %%    "gitInv0": "#FFFFFF",
-        %%    "gitBranchLabel0": "#FFFFFF",
-        %%    "commitLabelColor": "#FFFFFF"
-        %%}
-        %%"themeVariables": {
-        %%      "primaryColor": "#0000FF",
-        %%      "secondaryColor": "#0000FF",
-        %%      "tertiaryColor": "#008000",
-        %%      "primaryTextColor": "#ffffff",
-        %%      "secondaryTextColor": "#ffffff",
-        %%      "tertiaryTextColor": "#000000",
-        %%      "primaryBorderColor": "#ffffff",
-        %%      "secondaryBorderColor": "#ffffff",
-        %%      "tertiaryBorderColor": "#ffffff",
-        %%      "lineColor": "#ffffff",
-        %%      %%"ganttSectionTextColor": "#ffffff",
-        %%      %%"ganttCritTaskTextColor": "#ffffff",
-        %%      %%"ganttActiveTaskTextColor": "#ffffff",
-        %%      %%"ganttDoneTaskTextColor": "#000000",
-        %%      %%"ganttTaskTextColor": "#000000",
-        %%}
+        'theme': 'default',
+        'themeVariables': {
+          'sectionBkgColor': 'green',
+          'altSectionBkgColor': 'red',
+          'sectionBkgColor2': 'blue',
+          'taskBkgColor': 'lightgrey',
+          'taskBorderColor': 'black',
+          'taskTextColor': 'black'
+        }
     }
 }%%
 
