@@ -259,7 +259,7 @@ by the late 2000s.
 ```mermaid
 %%{ init: {
         "logLevel": "debug",
-        "theme": "dark",
+        %%"theme": "dark",
         %%"themeVariables": {
         %%    "git0": "#839192",
         %%    "git1": "#2874A6",
