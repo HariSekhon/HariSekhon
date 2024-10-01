@@ -240,12 +240,12 @@ GitHub themselves showed it at the top of their Trending repos page:
   <tr>
     <td width="50%">
       <img src="images/github_trending_devops_bash_tools.png"
-           alt="star-history"
+           alt="GitHub Trending"
       />
     </td>
     <td width="50%">
       <img src="/images/baby_yoda_wake_up_one_morning_2000_stars.jpeg"
-           alt="star-history"
+           alt="baby yoda gasping over GitHub stars"
       />
     </td>
   </tr>
