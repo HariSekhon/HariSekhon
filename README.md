@@ -265,7 +265,15 @@ by the late 2000s.
 %%
 %%    https://github.com/mermaid-js/mermaid/blob/develop/packages/mermaid/src/diagrams/gantt/styles.js
 %%
+%% and especially the styles here:
+%%
+%%    https://github.com/mermaid-js/mermaid/blob/develop/packages/mermaid/src/themes/theme-base.js
+%%
+%% Have to use 'base' theme because the 'dark' theme has hardcoded red for 'crit'
+%%
 %% This is here because we can't have %% comments in the %%{ init: { } } section below
+%%
+%% Even a trailing comma, breaks the colour customization
 -->
 
 ```mermaid
@@ -276,9 +284,11 @@ by the late 2000s.
           'sectionBkgColor': 'green',
           'altSectionBkgColor': 'red',
           'sectionBkgColor2': 'blue',
-          'taskBkgColor': 'lightgrey',
           'taskBorderColor': 'black',
-          'taskTextColor': 'black'
+          'taskTextColor': 'black',
+          'doneTaskBkgColor': 'grey',
+          'taskTextDarkColor': 'white',
+          'critBkgColor': 'lightgreen'
         }
     }
 }%%
