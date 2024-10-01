@@ -267,7 +267,7 @@ by the late 2000s.
 %%
 %% and especially the styles here:
 %%
-%%    https://github.com/mermaid-js/mermaid/blob/develop/packages/mermaid/src/themes/theme-base.js
+%%    https://github.com/mermaid-js/mermaid/blob/develop/packages/mermaid/src/themes/theme-default.js
 %%
 %% Have to use 'base' theme because the 'dark' theme has hardcoded red for 'crit'
 %%
