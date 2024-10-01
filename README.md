@@ -229,27 +229,27 @@ I just found out why my
 repo stars went vertical in the graph above.
 GitHub themselves showed it at the top of their Trending repos page:
 
+<!--
 [![GitHub Trending](images/github_trending_devops_bash_tools.png)](https://github.com/HariSekhon/DevOps-Bash-tools)
+-->
 
 <!-- the OReilly book comes out too small due to the star history graph being more horizontal, capping the height and
      narrowing the width of the book so linearize them vertically normally instead
+-->
 <table>
   <tr>
     <td width="50%">
-      <img src="images/oreilly_book_choosing_by_github_stars_you_only_live_once.webp"
-           alt="oreilly_book_choosing_by_github_stars"
-           width="50%"
-           style="display: block; margin: 0 auto;" />
+      <img src="images/github_trending_devops_bash_tools.png"
+           alt="star-history"
+      />
     </td>
     <td width="50%">
-      <img src="https://api.star-history.com/svg?repos=HariSekhon/DevOps-Bash-tools,HariSekhon/DevOps-Python-tools,HariSekhon/DevOps-Perl-tools,HariSekhon/DevOps-Golang-tools,HariSekhon/Dockerfiles,HariSekhon/Nagios-Plugins,HariSekhon/Kubernetes-configs,HariSekhon/HAProxy-configs,HariSekhon/SQL-scripts,HariSekhon/GitHub-Actions,HariSekhon/Jenkins,HariSekhon/Templates,HariSekhon/Knowledge-Base,HariSekhon/Diagrams-as-Code&type=Date"
+      <img src="/images/baby_yoda_wake_up_one_morning_2000_stars.jpeg"
            alt="star-history"
-           width="100%"
       />
     </td>
   </tr>
 </table>
--->
 
 ## Gantt Chart of my Experience
 
