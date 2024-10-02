@@ -282,13 +282,13 @@ by the late 2000s.
         'theme': 'default',
         'themeVariables': {
           'activeTaskBkgColor': '#2e86c1',
-          'critBkgColor': 'blue'
+          'critBkgColor': 'blue',
           'doneTaskBkgColor': 'grey',
           'taskBkgColor': 'grey',
           'taskBorderColor': 'black',
           'taskTextColor': 'white',
           'taskTextDarkColor': 'white',
-          'taskTextLightColor': 'black',
+          'taskTextLightColor': 'black'
         }
     }
 }%%
