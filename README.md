@@ -283,21 +283,23 @@ by the late 2000s.
         'themeVariables': {
           'activeTaskBkgColor': '#2e86c1',
           'activeTaskBorderColor': 'lightgrey',
-          'doneTaskBorderColor': 'lightgrey',
-          'critBorderColor': 'lightgrey',
+          'altSectionBkgColor': 'lightgrey',
           'critBkgColor': 'blue',
+          'critBorderColor': 'lightgrey',
           'doneTaskBkgColor': 'grey',
+          'doneTaskBorderColor': 'lightgrey',
+          'excludeBkgColor': '#eeeeee',
+          'gridColor': 'lightgrey',
+          'sectionBkgColor': 'lightgrey',
+          'sectionBkgColor2': 'darkgrey'<
           'taskBkgColor': 'grey',
           'taskBorderColor': 'black',
+          'taskTextClickableColor': 'white',
           'taskTextColor': 'white',
           'taskTextDarkColor': 'white',
           'taskTextLightColor': 'black',
           'taskTextOutsideColor': 'white',
-          'taskTextClickableColor': 'white',
-          'gridColor': 'lightgrey',
-          'sectionBkgColor': 'lightgrey',
-          'altSectionBkgColor': 'lightgrey',
-          'sectionBkgColor2': 'darkgrey'
+          'todayLineColor': 'red'
         }
     }
 }%%
