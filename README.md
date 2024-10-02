@@ -449,10 +449,10 @@ gantt
 
     section NoSQL
     NoSQL                  : crit, 2009-11-13, 2024-12-31
-    HBase                  : done, 2013-02-01, 2019-07-31
+    HBase                  : active, 2013-02-01, 2019-07-31
     %%MongoDB                : done, 2013-06-01, 2013-12-31
-    Couchbase              : done, 2013-11-01, 2024-03-01
     Cassandra              : active, 2013-08-01, 2024-12-31
+    Couchbase              : done, 2013-11-01, 2024-03-01
 
     section Caching
     Caching                : crit, 2009-11-31, 2024-12-31
