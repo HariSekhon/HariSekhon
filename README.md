@@ -274,6 +274,10 @@ by the late 2000s.
 %% This is here because we can't have %% comments in the %%{ init: { } } section below
 %%
 %% Even a trailing comma, breaks the colour customization
+%%
+%%          'altSectionBkgColor': 'lightgrey',
+%%          'sectionBkgColor': 'lightgrey',
+%%          'sectionBkgColor2': 'darkgrey',
 -->
 
 ```mermaid
@@ -283,15 +287,12 @@ by the late 2000s.
         'themeVariables': {
           'activeTaskBkgColor': '#2e86c1',
           'activeTaskBorderColor': 'lightgrey',
-          'altSectionBkgColor': 'lightgrey',
           'critBkgColor': 'blue',
           'critBorderColor': 'lightgrey',
           'doneTaskBkgColor': 'grey',
           'doneTaskBorderColor': 'lightgrey',
           'excludeBkgColor': '#eeeeee',
           'gridColor': 'lightgrey',
-          'sectionBkgColor': 'lightgrey',
-          'sectionBkgColor2': 'darkgrey',
           'taskBkgColor': 'grey',
           'taskBorderColor': 'grey',
           'taskTextClickableColor': 'white',
