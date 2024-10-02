@@ -281,14 +281,15 @@ by the late 2000s.
         "logLevel": "debug",
         'theme': 'default',
         'themeVariables': {
-          'sectionBkgColor': 'green',
-          'altSectionBkgColor': 'red',
-          'sectionBkgColor2': 'blue',
+          'activeTaskBkgColor': '#2e86c1',
           'taskBorderColor': 'black',
           'taskTextColor': 'black',
+          'taskBkgColor': 'grey',
           'doneTaskBkgColor': 'grey',
           'taskTextDarkColor': 'white',
-          'critBkgColor': 'lightgreen'
+          'taskTextLightColor': 'black',
+          'taskTextColor': 'white',
+          'critBkgColor': 'blue'
         }
     }
 }%%
