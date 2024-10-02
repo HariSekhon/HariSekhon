@@ -357,13 +357,6 @@ gantt
     %%Netgear                : done, 2005-01-01, 2012-12-31
 
     section Load Balancers
-    Load Balancers         : active, 2009-07-01, 2024-12-31
-    %%LVS                    : done, 2009-01-01, 2009-11-11
-    %%Foundry - ServerIron XL / 4G : done, 2009-10-13, 2011-11-31
-    %%F5 BigIP               : done, 2010-06-01, 2013-01-18
-    %%HAProxy                : active, 2018-04-01, 2024-12-31
-    %%Kong                   : active, 2023-03-01, 2024-12-31
-    %%Traefik                : active, 2023-03-01, 2024-12-31
 
     section Security
     Security               : crit, 2004-10-01, 2024-12-31
@@ -390,6 +383,14 @@ gantt
     %%UlraDNS                : done, 2009-11-01, 2012-06-31
     %%Cotendo                : done, 2012-06-01, 2013-01-13
     %%Cloudflare             : active, 2020-08-20, 2024-12-31
+
+    Load Balancers         : active, 2009-07-01, 2024-12-31
+    %%LVS                    : done, 2009-01-01, 2009-11-11
+    %%Foundry - ServerIron XL / 4G : done, 2009-10-13, 2011-11-31
+    %%F5 BigIP               : done, 2010-06-01, 2013-01-18
+    %%HAProxy                : active, 2018-04-01, 2024-12-31
+    %%Kong                   : active, 2023-03-01, 2024-12-31
+    %%Traefik                : active, 2023-03-01, 2024-12-31
 
     section Virtualization & Containerization
     Virtualization         : crit, 2005-01-01, 2024-12-31
