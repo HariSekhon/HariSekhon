@@ -291,7 +291,7 @@ by the late 2000s.
           'excludeBkgColor': '#eeeeee',
           'gridColor': 'lightgrey',
           'sectionBkgColor': 'lightgrey',
-          'sectionBkgColor2': 'darkgrey'<
+          'sectionBkgColor2': 'darkgrey',
           'taskBkgColor': 'grey',
           'taskBorderColor': 'black',
           'taskTextClickableColor': 'white',
