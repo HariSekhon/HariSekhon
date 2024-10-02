@@ -285,7 +285,7 @@ by the late 2000s.
         "logLevel": "debug",
         'theme': 'dark',
         'themeVariables': {
-          'activeTaskBkgColor': '#2e86c1',
+          'activeTaskBkgColor': '#27ae60',
           'activeTaskBorderColor': 'lightgrey',
           'critBkgColor': 'blue',
           'critBorderColor': 'lightgrey',
