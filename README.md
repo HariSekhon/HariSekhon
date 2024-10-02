@@ -371,6 +371,11 @@ gantt
     %%Data Validation        : done, 2006-06-01, 2024-12-31
     %%Data Science           : done, 2013-01-18, 2024-12-31
 
+    section Architecture
+    Architecture            : active, 2005-11-11, 2024-12-31
+    Web-Scale Architecture  : active, 2009-11-01, 2024-12-31
+    MicroServices           : active, 2018-10-01, 2024-12-31
+
     section Databases (RDBMS)
     Databases (RDBMS)      : crit, 2004-01-01, 2024-12-31
     SQL                    : active, 2004-01-01, 2024-12-31
