@@ -375,6 +375,7 @@ gantt
     Architecture            : crit,   2005-11-11, 2024-12-31
     Web-Scale Architecture  : active, 2009-11-01, 2024-12-31
     MicroServices           : active, 2018-10-01, 2024-12-31
+    Diagrams-as-Code        : active, 2023-04-14, 2024-12-31
 
     section Databases (RDBMS)
     Databases (RDBMS)      : crit, 2004-01-01, 2024-12-31
