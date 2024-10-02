@@ -371,12 +371,12 @@ gantt
     %%Cloudflare             : active, 2020-08-20, 2024-12-31
 
     section Security
-    Security               : active, 2004-10-01, 2024-12-31
+    Security               : crit, 2004-10-01, 2024-12-31
     %%Kerberos               : active, 2006-06-01, 2024-12-31
     %%LDAP                   : active, 2006-06-01, 2024-12-31
 
     section Networking
-    Networking             : active, 2004-03-01, 2024-12-31
+    Networking             : crit, 2004-03-01, 2024-12-31
     %%VPNs                   : active, 2006-06-01, 2024-12-31
     %%Cisco - IOS / NX-OS    : done, 2004-03-01, 2024-12-31
     %%Juniper - Netscreen / SSG / SRX / ScreenOS / JunOS : done, 2007-01-01, 2013-01-18
