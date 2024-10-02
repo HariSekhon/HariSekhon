@@ -363,8 +363,8 @@ gantt
     %%Kerberos               : active, 2006-06-01, 2024-12-31
     %%LDAP                   : active, 2006-06-01, 2024-12-31
 
-    section Data
-    Data                   : crit, 2005-11-11, 2024-12-31
+    section DevOps
+    DevOps                   : crit, 2005-11-11, 2024-12-31
 
     section Data
     Data                   : active, 2005-11-11, 2024-12-31
