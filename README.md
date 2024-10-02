@@ -418,12 +418,12 @@ gantt
     CircleCI               : done, 2019-09-01, 2021-12-31
     BuildKite              : done, 2019-09-01, 2021-12-31
     GitHub Actions         : active, 2019-09-01, 2024-12-31
-    CloudBuild             : active, 2020-08-20, 2023-09-31
     %%GitLab                 : active, 2019-09-01, 2022-12-31
     %%Azure DevOps           : done, 2019-09-01, 2022-12-31
     %%Bitbucket              : done, 2019-09-01, 2022-12-31
     %%Concourse              : active, 2019-11-01, 2020-03-20
     %%TeamCity               : active, 2020-08-20, 2021-02-31
+    CloudBuild             : active, 2020-08-20, 2023-09-31
 
     section Monitoring
     Monitoring             : crit, 2006-06-01, 2024-12-31
