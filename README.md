@@ -364,6 +364,9 @@ gantt
     %%LDAP                   : active, 2006-06-01, 2024-12-31
 
     section Data
+    Data                   : crit, 2005-11-11, 2024-12-31
+
+    section Data
     Data                   : active, 2005-11-11, 2024-12-31
     %%Data Validation        : done, 2006-06-01, 2024-12-31
     %%Data Science           : done, 2013-01-18, 2024-12-31
