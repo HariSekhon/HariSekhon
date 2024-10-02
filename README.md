@@ -441,7 +441,7 @@ gantt
     %%MapReduce              : done, 2012-06-01, 2019-07-31
     Cloudera / Hortonworks : done, 2012-08-01, 2020-03-20
     HBase                  : active, 2013-02-01, 2019-07-31
-    Hive                   : active, 2013-01-18, 2019-07-31
+    Hive                   : done, 2013-01-18, 2019-07-31
     Impala                 : done, 2013-04-01, 2015-06-30
     Spark                  : active, 2014-01-01, 2019-07-31
     Kafka                  : active, 2014-01-01, 2019-07-31
