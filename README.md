@@ -372,7 +372,7 @@ gantt
     %%Data Science           : done, 2013-01-18, 2024-12-31
 
     section Architecture
-    Architecture            : active, 2005-11-11, 2024-12-31
+    Architecture            : crit,   2005-11-11, 2024-12-31
     Web-Scale Architecture  : active, 2009-11-01, 2024-12-31
     MicroServices           : active, 2018-10-01, 2024-12-31
 
