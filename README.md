@@ -391,7 +391,8 @@ gantt
     %%Kong                   : active, 2023-03-01, 2024-12-31
     %%Traefik                : active, 2023-03-01, 2024-12-31
 
-    CDNs                   : active, 2009-11-01, 2024-12-31
+    Web-Scale Architecture : active, 2009-11-01, 2024-12-31
+    CDNs                   : active, 2009-12-01, 2024-12-31
     %%UlraDNS                : done, 2009-11-01, 2012-06-31
     %%Cotendo                : done, 2012-06-01, 2013-01-13
     %%Cloudflare             : active, 2020-08-20, 2024-12-31
