@@ -369,7 +369,7 @@ gantt
     Microsoft SQL Server   : done, 2004-01-01, 2005-10-31
     Oracle                 : done, 2005-11-01, 2009-09-10
     MySQL                  : active, 2008-01-01, 2024-12-31
-    PostgreSQL             : active, 2008-01-01, 2024-12-31
+    PostgreSQL             : active, 2009-01-01, 2024-12-31
 
     section Data
     Data                   : active, 2005-11-11, 2024-12-31
