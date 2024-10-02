@@ -396,6 +396,7 @@ gantt
     %%UlraDNS                : done, 2009-11-01, 2012-06-31
     %%Cotendo                : done, 2012-06-01, 2013-01-13
     %%Cloudflare             : active, 2020-08-20, 2024-12-31
+    MicroServices            : active, 2018-10-01, 2024-12-31
 
     section Virtualization & Containerization
     Virtualization         : crit, 2005-01-01, 2024-12-31
@@ -404,6 +405,7 @@ gantt
     Containerization       : crit, 2014-06-01, 2024-12-31
     Docker                 : active, 2014-06-01, 2024-12-31
     Kubernetes             : active, 2018-09-01, 2024-12-31
+    MicroServices          : active, 2018-10-01, 2024-12-31
     ArgoCD                 : active, 2021-01-01, 2024-12-31
 
     section IaaC & Configuration Management
