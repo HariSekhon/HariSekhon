@@ -254,7 +254,7 @@ GitHub themselves showed it at the top of their Trending repos page:
 ## Gantt Chart of my Experience
 
 This should give you some idea of my long evolution having reached the level of lead engineer and architect
-by the late 2000s.
+by the mid-to-late 2000s.
 
 <!--
 %% MermaidJS inline colour customization is not documented properly:
