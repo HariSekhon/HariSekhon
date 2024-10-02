@@ -293,7 +293,11 @@ by the late 2000s.
           'taskTextDarkColor': 'white',
           'taskTextLightColor': 'black',
           'taskTextOutsideColor': 'white',
-          'taskTextClickableColor': 'white'
+          'taskTextClickableColor': 'white',
+          'gridColor': 'lightgrey',
+          'sectionBkgColor': 'lightgrey',
+          'altSectionBkgColor': 'lightgrey',
+          'sectionBkgColor2': 'darkgrey'
         }
     }
 }%%
