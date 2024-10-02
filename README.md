@@ -414,7 +414,7 @@ gantt
     section CI/CD
     CI/CD                  : crit, 2010-06-01, 2024-12-31
     Jenkins                : active, 2010-06-01, 2024-12-31
-    Travis CI              : done, 2014-05-01, 2019-06-31
+    Travis CI              : done, 2014-05-01, 2019-06-30
     CircleCI               : done, 2019-09-01, 2021-12-31
     BuildKite              : done, 2019-09-01, 2021-12-31
     GitHub Actions         : active, 2019-09-01, 2024-12-31
