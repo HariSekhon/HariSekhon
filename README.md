@@ -293,7 +293,7 @@ by the late 2000s.
           'sectionBkgColor': 'lightgrey',
           'sectionBkgColor2': 'darkgrey',
           'taskBkgColor': 'grey',
-          'taskBorderColor': 'black',
+          'taskBorderColor': 'grey',
           'taskTextClickableColor': 'white',
           'taskTextColor': 'white',
           'taskTextDarkColor': 'white',
