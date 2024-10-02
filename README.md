@@ -379,10 +379,6 @@ gantt
     section Web & CDNs
     Web                    : crit, 2005-01-01, 2024-12-31
     APIs                   : active, 2006-06-01, 2024-12-31
-    CDNs                   : active, 2009-11-01, 2024-12-31
-    %%UlraDNS                : done, 2009-11-01, 2012-06-31
-    %%Cotendo                : done, 2012-06-01, 2013-01-13
-    %%Cloudflare             : active, 2020-08-20, 2024-12-31
 
     Load Balancers         : active, 2009-07-01, 2024-12-31
     %%LVS                    : done, 2009-01-01, 2009-11-11
@@ -391,6 +387,11 @@ gantt
     %%HAProxy                : active, 2018-04-01, 2024-12-31
     %%Kong                   : active, 2023-03-01, 2024-12-31
     %%Traefik                : active, 2023-03-01, 2024-12-31
+
+    CDNs                   : active, 2009-11-01, 2024-12-31
+    %%UlraDNS                : done, 2009-11-01, 2012-06-31
+    %%Cotendo                : done, 2012-06-01, 2013-01-13
+    %%Cloudflare             : active, 2020-08-20, 2024-12-31
 
     section Virtualization & Containerization
     Virtualization         : crit, 2005-01-01, 2024-12-31
