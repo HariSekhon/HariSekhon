@@ -439,19 +439,20 @@ gantt
     Hadoop                 : done, 2009-11-13, 2019-07-31
     %%HDFS                   : done, 2009-11-13, 2019-07-31
     %%MapReduce              : done, 2012-06-01, 2019-07-31
-    %%Cloudera / Hortonworks : done, 2012-08-01, 2020-03-20
-    %%HBase                  : done, 2013-02-01, 2019-07-31
-    %%Hive                   : done, 2013-01-18, 2019-07-31
-    %%Impala                 : done, 2013-04-01, 2015-06-31
-    %%Apache Drill           : done, 2014-06-01, 2018-12-31
+    Cloudera / Hortonworks : done, 2012-08-01, 2020-03-20
+    HBase                  : done, 2013-02-01, 2019-07-31
+    Hive                   : done, 2013-01-18, 2019-07-31
+    Impala                 : done, 2013-04-01, 2015-06-31
+    Apache Drill           : done, 2014-06-01, 2018-12-31
     Spark                  : active, 2014-01-01, 2019-07-31
     Kafka                  : active, 2014-01-01, 2019-07-31
 
     section NoSQL
     NoSQL                  : crit, 2009-11-13, 2024-12-31
+    HBase                  : done, 2013-02-01, 2019-07-31
     %%MongoDB                : done, 2013-06-01, 2013-12-31
-    Cassandra              : active, 2013-08-01, 2024-12-31
     Couchbase              : done, 2013-11-01, 2024-03-01
+    Cassandra              : active, 2013-08-01, 2024-12-31
 
     section Caching
     Caching                : crit, 2009-11-31, 2024-12-31
