@@ -279,7 +279,7 @@ by the late 2000s.
 ```mermaid
 %%{ init: {
         "logLevel": "debug",
-        'theme': 'default',
+        'theme': 'dark',
         'themeVariables': {
           'activeTaskBkgColor': '#2e86c1',
           'activeTaskBorderColor': 'lightgrey',
