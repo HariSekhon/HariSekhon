@@ -143,11 +143,16 @@ Does nothing:
 
 ### DevOps Reloaded
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=HAProxy-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/HAProxy-configs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Terraform&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Terraform)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer-templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer-templates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Ansible&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Ansible)
+
+### Monitoring
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugin-Kafka&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Prometheus&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Prometheus)
 
 ### Templates
 
