@@ -317,6 +317,8 @@ gantt
     HariSekhon : active, 2024-08-14, 2024-10-02
     GitHub-Commit-Times-Graph : active, 2024-09-07, 2024-09-08
     GitHub-Repos-MermaidJS-Gantt-Chart : active, 2024-10-02, 2024-10-03
+    Prometheus : active, 2024-10-08, 2024-12-31
+    Ansible : active, 2024-10-08, 2024-12-31
 ```
 
 ## Gantt Chart of my Experience
