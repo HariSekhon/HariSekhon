@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 [![BitBucket Profile](https://img.shields.io/badge/BitBucket-HariSekhon-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon)
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
+[![Markdown](https://github.com/HariSekhon/HariSekhon/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/HariSekhon/actions/workflows/markdown.yaml)
 
 ## About Me
 
