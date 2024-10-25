@@ -188,7 +188,8 @@ I am simply not a man of moderation. The few things I care about in life I do a 
 
 Even crazier,
 the first decade of my career I released almost nothing because GitHub didn't exist when I started,
-so I have even more code stuck in private repos that I have no time to go back to QA and release.
+so I have even more code stuck in private repos that I maintained and migrated over years in Subversion,
+then Mercurial, then Git, but have no time to go back to QA and release.
         </p>
       </td>
     <td width="50%">
