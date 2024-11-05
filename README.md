@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 [![DockerHub](https://img.shields.io/badge/DockerHub-harisekhon-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/harisekhon/)
 
 ![Original Repos](https://img.shields.io/badge/Repos-34-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-10591-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2952-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-10601-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2954-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1726-blue?logo=github)
 [![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-705-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![CI/CD Systems](https://img.shields.io/badge/CI%2FCD%20Systems-23-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
