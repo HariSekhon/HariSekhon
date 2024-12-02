@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 [![DockerHub](https://img.shields.io/badge/DockerHub-harisekhon-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/harisekhon/)
 
 ![Original Repos](https://img.shields.io/badge/Repos-36-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-10773-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2992-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1745-blue?logo=github)
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-705-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+![Stars](https://img.shields.io/badge/Stars-10904-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3014-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1759-blue?logo=github)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-715-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![CI/CD Systems](https://img.shields.io/badge/CI%2FCD%20Systems-23-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-292.3k-lightgrey?logo=codecademy)
 
