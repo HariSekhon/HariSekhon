@@ -567,3 +567,12 @@ gantt
     %%Kibana                 : crit, 2013-03-31, 2024-12-31
     SolrCloud              : done, 2013-04-01, 2024-03-01
 ```
+
+There are also Language and Tech Stack breakdowns on my GitRoll page:
+
+<a href="https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2" target="_blank">
+  <img
+    src="https://gitroll.io/api/badges/profiles/v1/u5eNfjd3L4KXzBVekMrxkLvCEmYt2?theme=nord"
+    alt="GitRoll Profile Badge"
+  />
+</a>
