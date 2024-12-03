@@ -28,13 +28,15 @@ Here are some ideas to get you started:
 [![GitStar Rank](https://img.shields.io/badge/GitStar%20Rank%20by%20Repo%20Stars-Top_0.01%25-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![GitRoll Rank Globally](https://img.shields.io/badge/GitRoll%20Rank%20Globally-Top_2%25-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2)
 [![GitRoll Rank UK](https://img.shields.io/badge/GitRoll%20Rank%20UK-Top_5%25-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2)
+[![GitRoll Language Breakdown](https://img.shields.io/badge/GitRoll-Language%20Breakdown-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2/languages)
+[![GitRoll TechStacks Breakdown](https://img.shields.io/badge/GitRoll-Tech%20Stack%20Breakdown-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2/stacks)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
-[![DockerHub](https://img.shields.io/badge/DockerHub-harisekhon-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/harisekhon/)
 
 ![Original Repos](https://img.shields.io/badge/Repos-36-blue?logo=github)
 ![Stars](https://img.shields.io/badge/Stars-10904-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-3014-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1759-blue?logo=github)
+
 [![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-715-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![CI/CD Systems](https://img.shields.io/badge/CI%2FCD%20Systems-23-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-292.3k-lightgrey?logo=codecademy)
@@ -43,6 +45,8 @@ Here are some ideas to get you started:
 [![GitLab Profile](https://img.shields.io/badge/GitLab-HariSekhon-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon)
 [![Azure DevOps Profile](https://img.shields.io/badge/Azure%20DevOps-HariSekhon-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub)
 [![BitBucket Profile](https://img.shields.io/badge/BitBucket-HariSekhon-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon)
+
+[![DockerHub](https://img.shields.io/badge/DockerHub-harisekhon-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/harisekhon/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 [![Markdown](https://github.com/HariSekhon/HariSekhon/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/HariSekhon/actions/workflows/markdown.yaml)
