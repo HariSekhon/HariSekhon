@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 -->
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=GitHub+Profile+Views)](https://github.com/HariSekhon)
-[![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking%20By%20Repo%20Stars-Top_0.01%25-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
+[![GitStar Rank](https://img.shields.io/badge/GitStar%20Rank%20by%20Repo%20Stars-Top_0.01%25-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
+[![GitRoll Rank Globally](https://img.shields.io/badge/GitRoll%20Rank%20Globally-Top_2%25-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2)
+[![GitRoll Rank UK](https://img.shields.io/badge/GitRoll%20Rank%20UK-Top_5%25-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 [![DockerHub](https://img.shields.io/badge/DockerHub-harisekhon-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/harisekhon/)
 
