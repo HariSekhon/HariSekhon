@@ -72,7 +72,7 @@ jobs:
 
       - name: Update Repo Count
         run: |
-          repo_count="$(github_user_repos_count.sh "$GITHUB_REPOSITORY_OWNER")"
+          repo_count="$(github_user_repos_count.sh "$GITHUB_REPOSITORY_OWNER" public)"
 
           sed -i "s|badge/Repos-[[:digit:]]\+-|badge/Repos-${repo_count}-|" README.md
 
