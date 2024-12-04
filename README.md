@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
 ![Original Repos](https://img.shields.io/badge/Repos-36-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-10904-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-3014-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1759-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-10972-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3029-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1766-blue?logo=github)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-715-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-726-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![CI/CD Systems](https://img.shields.io/badge/CI%2FCD%20Systems-23-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-292.3k-lightgrey?logo=codecademy)
 
