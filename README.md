@@ -574,6 +574,6 @@ There are also Language and Tech Stack breakdowns on my GitRoll page:
   <img
     src="https://gitroll.io/api/badges/profiles/v1/u5eNfjd3L4KXzBVekMrxkLvCEmYt2?theme=nord"
     alt="GitRoll Profile Badge"
-    style="width: 50%; height: auto;"
+    style="width: 60%; height: auto;"
   />
 </a>
