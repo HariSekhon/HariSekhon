@@ -332,6 +332,8 @@ gantt
     Ansible : active, 2024-10-08, 2024-12-31
 ```
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Repos-MermaidJS-Gantt-Chart&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Repos-MermaidJS-Gantt-Chart)
+
 ## Gantt Chart of my Experience
 
 This should give you some idea of my long evolution having reached the level of lead engineer and architect
