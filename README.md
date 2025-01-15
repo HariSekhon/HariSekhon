@@ -193,27 +193,27 @@ here is a shortlist of some of the more popular ones you might recognize:
 <div align="center">
   <table>
     <tr>
-        <td>
-          <code>
-            <a href="https://github.com/HariSekhon/DevOps-Bash-tools#readme">
-              <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/>
-            </a>
-          </code>
-        </td>
-        <td>
-          <code>
-            <a href="https://github.com/HariSekhon/DevOps-Bash-tools#readme">
-              <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/>
-            </a>
-          </code>
-        </td>
-        <td>
-          <code>
-            <a href="https://github.com/HariSekhon/DevOps-Bash-tools#readme">
-              <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="Bash"/>
-            </a>
-          </code>
-        </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/DevOps-Bash-tools#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/DevOps-Bash-tools#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/DevOps-Bash-tools#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="Bash"/>
+          </a>
+        </code>
+      </td>
       <td>
         <code>
             <a href="https://github.com/HariSekhon/DevOps-Python-tools#readme">
