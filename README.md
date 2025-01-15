@@ -181,8 +181,8 @@ Pre-built Docker images are available on my [DockerHub](https://hub.docker.com/u
 
 ## Tech
 
-Although I have vast experience of far too many technologies to list,
-here is a shortlist of some of the more popular ones you might recognize:
+I've worked on far too many technologies to list, but
+here is a shortlist of some of the more still popular ones you might recognize:
 
 <!-- Generated here:
 
