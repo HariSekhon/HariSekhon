@@ -193,43 +193,215 @@ here is a shortlist of some of the more popular ones you might recognize:
 <div align="center">
   <table>
     <tr>
-      <a href="/DevOps-Bash-tools#readme">
-        <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code></td>
-        <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></code></td>
-        <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="Bash"/></code></td>
-      </a>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/groovy.png" alt="Groovy" title="Groovy"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code></td>
+        <td>
+          <code>
+            <a href="https://github.com/HariSekhon/DevOps-Bash-tools#readme">
+              <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/>
+            </a>
+          </code>
+        </td>
+        <td>
+          <code>
+            <a href="https://github.com/HariSekhon/DevOps-Bash-tools#readme">
+              <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/>
+            </a>
+          </code>
+        </td>
+        <td>
+          <code>
+            <a href="https://github.com/HariSekhon/DevOps-Bash-tools#readme">
+              <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="Bash"/>
+            </a>
+          </code>
+        </td>
+      <td>
+        <code>
+            <a href="https://github.com/HariSekhon/DevOps-Python-tools#readme">
+              <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+            </a>
+          </code>
+        </td>
+      <td>
+        <code>
+          <a href="#" onclick="return false;">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/DevOps-Python-tools#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/groovy.png" alt="Groovy" title="Groovy"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/DevOps-Python-tools#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/>
+          </a>
+        </code>
+      </td>
     </tr>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" title="Jenkins"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/Dockerfiles#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/Kubernetes-configs#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/GitHub-Actions#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/GitHub-Actions#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/Jenkins#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" title="Jenkins"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/SQL-scripts#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/SQL-scripts#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
+          </a>
+        </code>
+      </td>
     </tr>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" title="Terraform"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png" alt="Ansible" title="Ansible"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="Redis"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cassandra.png" alt="Cassandra" title="Cassandra"/></code></td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/DevOps-Bash-tools#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/DevOps-Bash-tools#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/DevOps-Bash-tools#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/Terraform#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" title="Terraform"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/Ansible#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png" alt="Ansible" title="Ansible"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/Nagios-Plugins#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="Redis"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/Nagios-Plugins#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cassandra.png" alt="Cassandra" title="Cassandra"/>
+          </a>
+        </code>
+      </td>
     </tr>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" title="Grafana"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" alt="Elasticsearch" title="Elasticsearch"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" alt="Apache Spark" title="Apache Spark"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="Apache Kafka" title="Apache Kafka"/></code></td>
-      <!--<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code></td>-->
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neo4j.png" alt="Neo4J" title="Neo4J"/></code></td>
-<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vault.png" alt="Vault" title="Vault"/></code></td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/Prometheus#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/Prometheus#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" title="Grafana"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/Nagios-Plugins#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" alt="Elasticsearch" title="Elasticsearch"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/DevOps-Python-tools#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" alt="Apache Spark" title="Apache Spark"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/Nagios-Plugin-Kafka#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="Apache Kafka" title="Apache Kafka"/>
+          </a>
+        </code>
+      </td>
+      <!--
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/DevOps-Bash-tools#readme">
+          <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/>
+          </a>
+        </code>
+      </td>
+      -->
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/Nagios-Plugins#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neo4j.png" alt="Neo4J" title="Neo4J"/>
+          </a>
+        </code>
+      </td>
+      <td>
+        <code>
+          <a href="https://github.com/HariSekhon/DevOps-Bash-tools#readme">
+            <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vault.png" alt="Vault" title="Vault"/>
+          </a>
+        </code>
+      </td>
     </tr>
   </table>
 </div>
