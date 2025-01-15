@@ -224,7 +224,7 @@ here is a shortlist of some of the more popular ones you might recognize:
         </a>
       </td>
       <td>
-          <a href="https://github.com/HariSekhon/DevOps-Python-tools#readme">
+          <a href="https://github.com/HariSekhon/DevOps-Golang-tools#readme">
             <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/>
           </a>
       </td>
