@@ -411,7 +411,7 @@ I also dip a bit around midday and 9pm as I need to eat once in a while... and s
 
 ## Star History
 
-![Star History](https://api.star-history.com/svg?repos=HariSekhon/DevOps-Bash-tools,HariSekhon/DevOps-Python-tools,HariSekhon/DevOps-Perl-tools,HariSekhon/DevOps-Golang-tools,HariSekhon/Nagios-Plugins,HariSekhon/Dockerfiles,HariSekhon/Kubernetes-configs,HariSekhon/HAProxy-configs,HariSekhon/SQL-scripts,HariSekhon/GitHub-Actions,HariSekhon/Jenkins,HariSekhon/Templates,HariSekhon/Knowledge-Base,HariSekhon/Diagrams-as-Code&type=Date)
+![Star History - if this graph hasn't load please refresh the page](https://api.star-history.com/svg?repos=HariSekhon/DevOps-Bash-tools,HariSekhon/DevOps-Python-tools,HariSekhon/DevOps-Perl-tools,HariSekhon/DevOps-Golang-tools,HariSekhon/Nagios-Plugins,HariSekhon/Dockerfiles,HariSekhon/Kubernetes-configs,HariSekhon/HAProxy-configs,HariSekhon/SQL-scripts,HariSekhon/GitHub-Actions,HariSekhon/Jenkins,HariSekhon/Templates,HariSekhon/Knowledge-Base,HariSekhon/Diagrams-as-Code&type=Date)
 
 I just found out why my
 [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
