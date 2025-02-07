@@ -1130,7 +1130,7 @@ Generated using scripts/generate_repos_table.sh
 ![Total Man Years](https://img.shields.io/badge/Total%20Man%20Years-94%20years%209%20months-blue)
 ![Total COCOMO Cost Estimate](https://img.shields.io/badge/Total%20COCOMO%20Cost%20Estimate-$12,800,287-blue)
 
-What have I done... 😂
+What have I done... I should have founded a company... 😂
 
 ## How the Hell, Bro
 
