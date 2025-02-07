@@ -167,21 +167,10 @@ while read -r stars repo dir; do
 EOF
 done
 cat <<EOF
-</table>
 
-<table>
-    <tr>
-        <td>
-            <img src="https://img.shields.io/badge/Total%20Lines-$total_lines-blue" />
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/Total%20Man%20Years-${total_man_years_months// /%20}-blue" />
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/Total%20COCOMO-$total_cost-blue" />
-        </td>
-    </tr>
-</table>
+![Total Lines](https://img.shields.io/badge/Total%20Lines-$total_lines-blue)
+![Total Man Years](https://img.shields.io/badge/Total%20Man%20Years-${total_man_years_months// /%20}-blue)
+![Total COCOMO Cost Estimate](https://img.shields.io/badge/Total%20COCOMO-$total_cost-blue)
 
 EOF
 } |
