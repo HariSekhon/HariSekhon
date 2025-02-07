@@ -70,8 +70,6 @@ while read -r repo dir; do
     echo "${stars:-0} $repo $dir"
 done |
 sort -nr |
-cat
-exit 0
 while read -r star repo dir; do
     echo "Generating repo: $repo" >&2
     if [ -z "$dir" ]; then
