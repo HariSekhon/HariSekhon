@@ -43,7 +43,7 @@ repo_stars="$(
         --json name,stargazerCount \
         --jq '"\(.name) \(.stargazerCount)"'
 )"
-echo "$repo_stars"
+#echo "$repo_stars"
 
 if [ -f "$local_config" ]; then
     echo "Reading $local_config" >&2
