@@ -71,7 +71,7 @@ while read -r repo dir; do
 done |
 sort -nr |
 while read -r star repo dir; do
-    echo "Generating repo: $repo" >&2
+    #echo "Generating repo: $repo" >&2
     if [ -z "$dir" ]; then
         dir="$repo"
     fi
