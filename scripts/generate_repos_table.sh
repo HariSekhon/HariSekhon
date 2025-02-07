@@ -170,7 +170,7 @@ cat <<EOF
 
 ![Total Lines](https://img.shields.io/badge/Total%20Lines-$total_lines-blue)
 ![Total Man Years](https://img.shields.io/badge/Total%20Man%20Years-${total_man_years_months// /%20}-blue)
-![Total COCOMO Cost Estimate](https://img.shields.io/badge/Total%20COCOMO-$total_cost-blue)
+![Total COCOMO Cost Estimate](https://img.shields.io/badge/Total%20COCOMO%20Cost%20Estimate-$total_cost-blue)
 
 EOF
 } |
