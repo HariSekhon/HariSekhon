@@ -21,9 +21,35 @@ cd "$srcdir"
 
 local_config="../../bash-tools/setup/repos.txt"
 
+if uname | grep -q Darwin; then
+    awk(){
+        command gawk "$@"
+    }
+fi
+
+echo "Getting Name -> Stars" >&2
+# --source doesn't include Template-Repo so doing a second query to get it
+repo_stars="$(
+    gh repo list HariSekhon \
+        --limit 1000 \
+        --source \
+        --json name,stargazerCount \
+        --jq '
+            .[] |
+            "\(.name) \(.stargazerCount)"
+        '
+
+    gh repo view HariSekhon/Template-Repo \
+        --json name,stargazerCount \
+        --jq '"\(.name) \(.stargazerCount)"'
+)"
+echo "$repo_stars"
+
 if [ -f "$local_config" ]; then
+    echo "Reading $local_config" >&2
     cat "$local_config"
 else
+    echo "Fetching repo list from DevOps-Bash-tools setup/repos.txt" >&2
     curl -sSf https://raw.githubusercontent.com/HariSekhon/DevOps-Bash-tools/refs/heads/master/setup/repos.txt
 fi |
 sed '
@@ -31,11 +57,23 @@ sed '
   s/:/ /;
   s/^[[:space:]]*//;
   s/[[:space:]]*$//;
-  /^[[:space:]]*$/d
+  /^[[:space:]]*$/d;
 ' |
-grep -v harisekhon$ |
-tail -r |
+grep -v \
+     -e 'harisekhon$' \
+     -e 'lib-java' |
 while read -r repo dir; do
+    stars="$(awk "BEGIN { IGNORECASE = 1 } /^$repo / {print \$2}" <<< "$repo_stars")"
+    if [ -z "$stars" ]; then
+        echo "WARNING: no stars parsed for repo: $repo" >&2
+    fi
+    echo "${stars:-0} $repo $dir"
+done |
+sort -nr |
+cat
+exit 0
+while read -r star repo dir; do
+    echo "Generating repo: $repo" >&2
     if [ -z "$dir" ]; then
         dir="$repo"
     fi
