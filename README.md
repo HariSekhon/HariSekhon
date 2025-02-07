@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ![Forks](https://img.shields.io/badge/Forks-3167-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1828-blue?logo=github)
 
-![Total Lines](https://img.shields.io/badge/Total%20Lines-515095-blue)
-![Total Man Years](https://img.shields.io/badge/Total%20Man%20Years-85%20years%204%20months-blue)
-![Total COCOMO Cost Estimate](https://img.shields.io/badge/Total%20COCOMO%20Cost%20Estimate-$11,529,989-blue)
+![Total Lines](https://img.shields.io/badge/Total%20Lines-563772-blue)
+![Total Man Years](https://img.shields.io/badge/Total%20Man%20Years-94%20years%209%20months-blue)
+![Total COCOMO Cost Estimate](https://img.shields.io/badge/Total%20COCOMO%20Cost%20Estimate-$12,800,287-blue)
 
 [![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-726-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![CI/CD Systems](https://img.shields.io/badge/CI%2FCD%20Systems-23-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
@@ -611,6 +611,33 @@ Generated using scripts/generate_repos_table.sh
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/HariSekhon/Knowledge-Base#readme">
+                <img src="https://img.shields.io/badge/HariSekhon-Knowledge--Base-blue?logo=github" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/Knowledge-Base/stargazers">
+                <img src="https://img.shields.io/github/stars/HariSekhon/Knowledge-Base?logo=github" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/Knowledge-Base/network">
+                <img src="https://img.shields.io/github/forks/harisekhon/Knowledge-Base?logo=github" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/Knowledge-Base">
+                <img src="https://sloc.xyz/github/HariSekhon/Knowledge-Base/?badge-bg-color=2081C2" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/Knowledge-Base">
+                <img src="https://sloc.xyz/github/HariSekhon/Knowledge-Base/?badge-bg-color=2081C2&category=cocomo" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/HariSekhon/DevOps-Perl-tools#readme">
                 <img src="https://img.shields.io/badge/HariSekhon-DevOps--Perl--tools-blue?logo=github" />
             </a>
@@ -1099,9 +1126,9 @@ Generated using scripts/generate_repos_table.sh
 
 ### Totals
 
-![Total Lines](https://img.shields.io/badge/Total%20Lines-515095-blue)
-![Total Man Years](https://img.shields.io/badge/Total%20Man%20Years-85%20years%204%20months-blue)
-![Total COCOMO Cost Estimate](https://img.shields.io/badge/Total%20COCOMO%20Cost%20Estimate-$11,529,989-blue)
+![Total Lines](https://img.shields.io/badge/Total%20Lines-563772-blue)
+![Total Man Years](https://img.shields.io/badge/Total%20Man%20Years-94%20years%209%20months-blue)
+![Total COCOMO Cost Estimate](https://img.shields.io/badge/Total%20COCOMO%20Cost%20Estimate-$12,800,287-blue)
 
 What have I done... 😂
 
