@@ -361,13 +361,12 @@ here is a shortlist of some of the more still popular ones you might recognize:
 Generated using scripts/generate_repos_table.sh
 
 -->
-
 <tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-Nagios--Plugins-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FNagios-Plugins#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/Nagios-Plugins?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/Nagios-Plugins?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/Nagios-Plugins"> <img src="https://sloc.xyz/github/HariSekhon/Nagios-Plugins/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/Nagios-Plugins"> <img src="https://sloc.xyz/github/HariSekhon/Nagios-Plugins/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+<td> <img src="https://img.shields.io/badge/HariSekhon-DevOps--Bash--tools-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FDevOps-Bash-tools#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/DevOps-Bash-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/DevOps-Bash-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/DevOps-Bash-tools"> <img src="https://sloc.xyz/github/HariSekhon/DevOps-Bash-tools/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/DevOps-Bash-tools"> <img src="https://sloc.xyz/github/HariSekhon/DevOps-Bash-tools/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
 </tr>
 <tr>
 <td> <img src="https://img.shields.io/badge/HariSekhon-Dockerfiles-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FDockerfiles#readme" /> </td>
@@ -377,32 +376,11 @@ Generated using scripts/generate_repos_table.sh
 <td> <a href="https://github.com/HariSekhon/Dockerfiles"> <img src="https://sloc.xyz/github/HariSekhon/Dockerfiles/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
 </tr>
 <tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-HAProxy--configs-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FHAProxy-configs#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/HAProxy-configs?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/HAProxy-configs?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/HAProxy-configs"> <img src="https://sloc.xyz/github/HariSekhon/HAProxy-configs/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/HAProxy-configs"> <img src="https://sloc.xyz/github/HariSekhon/HAProxy-configs/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-Template--repo-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FTemplate-repo#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/Template-repo?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/Template-repo?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/Template-repo"> <img src="https://sloc.xyz/github/HariSekhon/Template-repo/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/Template-repo"> <img src="https://sloc.xyz/github/HariSekhon/Template-repo/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-Spotify--Playlists-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FSpotify-Playlists#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/Spotify-Playlists?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/Spotify-Playlists?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/Spotify-Playlists"> <img src="https://sloc.xyz/github/HariSekhon/Spotify-Playlists/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/Spotify-Playlists"> <img src="https://sloc.xyz/github/HariSekhon/Spotify-Playlists/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-Spotify--tools-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FSpotify-tools#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/Spotify-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/Spotify-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/Spotify-tools"> <img src="https://sloc.xyz/github/HariSekhon/Spotify-tools/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/Spotify-tools"> <img src="https://sloc.xyz/github/HariSekhon/Spotify-tools/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+<td> <img src="https://img.shields.io/badge/HariSekhon-Nagios--Plugins-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FNagios-Plugins#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/Nagios-Plugins?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/Nagios-Plugins?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/Nagios-Plugins"> <img src="https://sloc.xyz/github/HariSekhon/Nagios-Plugins/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/Nagios-Plugins"> <img src="https://sloc.xyz/github/HariSekhon/Nagios-Plugins/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
 </tr>
 <tr>
 <td> <img src="https://img.shields.io/badge/HariSekhon-DevOps--Python--tools-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FDevOps-Python-tools#readme" /> </td>
@@ -410,90 +388,6 @@ Generated using scripts/generate_repos_table.sh
 <td> <img src="https://img.shields.io/github/forks/harisekhon/DevOps-Python-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
 <td> <a href="https://github.com/HariSekhon/DevOps-Python-tools"> <img src="https://sloc.xyz/github/HariSekhon/DevOps-Python-tools/?badge-bg-color=2081C2" /> </a> </td>
 <td> <a href="https://github.com/HariSekhon/DevOps-Python-tools"> <img src="https://sloc.xyz/github/HariSekhon/DevOps-Python-tools/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-DevOps--Perl--tools-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FDevOps-Perl-tools#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/DevOps-Perl-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/DevOps-Perl-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/DevOps-Perl-tools"> <img src="https://sloc.xyz/github/HariSekhon/DevOps-Perl-tools/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/DevOps-Perl-tools"> <img src="https://sloc.xyz/github/HariSekhon/DevOps-Perl-tools/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-DevOps--Golang--tools-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FDevOps-Golang-tools#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/DevOps-Golang-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/DevOps-Golang-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/DevOps-Golang-tools"> <img src="https://sloc.xyz/github/HariSekhon/DevOps-Golang-tools/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/DevOps-Golang-tools"> <img src="https://sloc.xyz/github/HariSekhon/DevOps-Golang-tools/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-Diagrams--as--Code-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FDiagrams-as-Code#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/Diagrams-as-Code?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/Diagrams-as-Code?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/Diagrams-as-Code"> <img src="https://sloc.xyz/github/HariSekhon/Diagrams-as-Code/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/Diagrams-as-Code"> <img src="https://sloc.xyz/github/HariSekhon/Diagrams-as-Code/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-Nagios--Plugin--Kafka-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FNagios-Plugin-Kafka#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/Nagios-Plugin-Kafka?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/Nagios-Plugin-Kafka?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/Nagios-Plugin-Kafka"> <img src="https://sloc.xyz/github/HariSekhon/Nagios-Plugin-Kafka/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/Nagios-Plugin-Kafka"> <img src="https://sloc.xyz/github/HariSekhon/Nagios-Plugin-Kafka/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-lib--java-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2Flib-java#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/lib-java?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/lib-java?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/lib-java"> <img src="https://sloc.xyz/github/HariSekhon/lib-java/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/lib-java"> <img src="https://sloc.xyz/github/HariSekhon/lib-java/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-pylib-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2Fpylib#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/pylib?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/pylib?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/pylib"> <img src="https://sloc.xyz/github/HariSekhon/pylib/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/pylib"> <img src="https://sloc.xyz/github/HariSekhon/pylib/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-lib-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2Flib#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/lib?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/lib?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/lib"> <img src="https://sloc.xyz/github/HariSekhon/lib/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/lib"> <img src="https://sloc.xyz/github/HariSekhon/lib/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-DevOps--Bash--tools-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FDevOps-Bash-tools#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/DevOps-Bash-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/DevOps-Bash-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/DevOps-Bash-tools"> <img src="https://sloc.xyz/github/HariSekhon/DevOps-Bash-tools/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/DevOps-Bash-tools"> <img src="https://sloc.xyz/github/HariSekhon/DevOps-Bash-tools/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-TeamCity--CI-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FTeamCity-CI#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/TeamCity-CI?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/TeamCity-CI?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/TeamCity-CI"> <img src="https://sloc.xyz/github/HariSekhon/TeamCity-CI/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/TeamCity-CI"> <img src="https://sloc.xyz/github/HariSekhon/TeamCity-CI/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-Templates-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FTemplates#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/Templates?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/Templates?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/Templates"> <img src="https://sloc.xyz/github/HariSekhon/Templates/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/Templates"> <img src="https://sloc.xyz/github/HariSekhon/Templates/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-Packer-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FPacker#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/Packer?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/Packer?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/Packer"> <img src="https://sloc.xyz/github/HariSekhon/Packer/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/Packer"> <img src="https://sloc.xyz/github/HariSekhon/Packer/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
-</tr>
-<tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-Terraform-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FTerraform#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/Terraform?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/Terraform?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/Terraform"> <img src="https://sloc.xyz/github/HariSekhon/Terraform/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/Terraform"> <img src="https://sloc.xyz/github/HariSekhon/Terraform/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
 </tr>
 <tr>
 <td> <img src="https://img.shields.io/badge/HariSekhon-Kubernetes--configs-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FKubernetes-configs#readme" /> </td>
@@ -510,11 +404,32 @@ Generated using scripts/generate_repos_table.sh
 <td> <a href="https://github.com/HariSekhon/SQL-scripts"> <img src="https://sloc.xyz/github/HariSekhon/SQL-scripts/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
 </tr>
 <tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-Vagrant-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FVagrant#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/Vagrant?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/Vagrant?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/Vagrant"> <img src="https://sloc.xyz/github/HariSekhon/Vagrant/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/Vagrant"> <img src="https://sloc.xyz/github/HariSekhon/Vagrant/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+<td> <img src="https://img.shields.io/badge/HariSekhon-HAProxy--configs-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FHAProxy-configs#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/HAProxy-configs?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/HAProxy-configs?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/HAProxy-configs"> <img src="https://sloc.xyz/github/HariSekhon/HAProxy-configs/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/HAProxy-configs"> <img src="https://sloc.xyz/github/HariSekhon/HAProxy-configs/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+</tr>
+<tr>
+<td> <img src="https://img.shields.io/badge/HariSekhon-Diagrams--as--Code-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FDiagrams-as-Code#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/Diagrams-as-Code?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/Diagrams-as-Code?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/Diagrams-as-Code"> <img src="https://sloc.xyz/github/HariSekhon/Diagrams-as-Code/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/Diagrams-as-Code"> <img src="https://sloc.xyz/github/HariSekhon/Diagrams-as-Code/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+</tr>
+<tr>
+<td> <img src="https://img.shields.io/badge/HariSekhon-Templates-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FTemplates#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/Templates?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/Templates?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/Templates"> <img src="https://sloc.xyz/github/HariSekhon/Templates/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/Templates"> <img src="https://sloc.xyz/github/HariSekhon/Templates/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+</tr>
+<tr>
+<td> <img src="https://img.shields.io/badge/HariSekhon-DevOps--Perl--tools-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FDevOps-Perl-tools#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/DevOps-Perl-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/DevOps-Perl-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/DevOps-Perl-tools"> <img src="https://sloc.xyz/github/HariSekhon/DevOps-Perl-tools/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/DevOps-Perl-tools"> <img src="https://sloc.xyz/github/HariSekhon/DevOps-Perl-tools/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
 </tr>
 <tr>
 <td> <img src="https://img.shields.io/badge/HariSekhon-Jenkins-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FJenkins#readme" /> </td>
@@ -524,6 +439,13 @@ Generated using scripts/generate_repos_table.sh
 <td> <a href="https://github.com/HariSekhon/Jenkins"> <img src="https://sloc.xyz/github/HariSekhon/Jenkins/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
 </tr>
 <tr>
+<td> <img src="https://img.shields.io/badge/HariSekhon-Spotify--tools-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FSpotify-tools#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/Spotify-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/Spotify-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/Spotify-tools"> <img src="https://sloc.xyz/github/HariSekhon/Spotify-tools/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/Spotify-tools"> <img src="https://sloc.xyz/github/HariSekhon/Spotify-tools/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+</tr>
+<tr>
 <td> <img src="https://img.shields.io/badge/HariSekhon-GitHub--Actions-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FGitHub-Actions#readme" /> </td>
 <td> <img src="https://img.shields.io/github/stars/HariSekhon/GitHub-Actions?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
 <td> <img src="https://img.shields.io/github/forks/harisekhon/GitHub-Actions?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
@@ -531,11 +453,67 @@ Generated using scripts/generate_repos_table.sh
 <td> <a href="https://github.com/HariSekhon/GitHub-Actions"> <img src="https://sloc.xyz/github/HariSekhon/GitHub-Actions/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
 </tr>
 <tr>
-<td> <img src="https://img.shields.io/badge/HariSekhon-SQL--keywords-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FSQL-keywords#readme" /> </td>
-<td> <img src="https://img.shields.io/github/stars/HariSekhon/SQL-keywords?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
-<td> <img src="https://img.shields.io/github/forks/harisekhon/SQL-keywords?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
-<td> <a href="https://github.com/HariSekhon/SQL-keywords"> <img src="https://sloc.xyz/github/HariSekhon/SQL-keywords/?badge-bg-color=2081C2" /> </a> </td>
-<td> <a href="https://github.com/HariSekhon/SQL-keywords"> <img src="https://sloc.xyz/github/HariSekhon/SQL-keywords/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+<td> <img src="https://img.shields.io/badge/HariSekhon-DevOps--Golang--tools-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FDevOps-Golang-tools#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/DevOps-Golang-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/DevOps-Golang-tools?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/DevOps-Golang-tools"> <img src="https://sloc.xyz/github/HariSekhon/DevOps-Golang-tools/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/DevOps-Golang-tools"> <img src="https://sloc.xyz/github/HariSekhon/DevOps-Golang-tools/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+</tr>
+<tr>
+<td> <img src="https://img.shields.io/badge/HariSekhon-Terraform-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FTerraform#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/Terraform?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/Terraform?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/Terraform"> <img src="https://sloc.xyz/github/HariSekhon/Terraform/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/Terraform"> <img src="https://sloc.xyz/github/HariSekhon/Terraform/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+</tr>
+<tr>
+<td> <img src="https://img.shields.io/badge/HariSekhon-Packer-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FPacker#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/Packer?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/Packer?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/Packer"> <img src="https://sloc.xyz/github/HariSekhon/Packer/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/Packer"> <img src="https://sloc.xyz/github/HariSekhon/Packer/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+</tr>
+<tr>
+<td> <img src="https://img.shields.io/badge/HariSekhon-Spotify--Playlists-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FSpotify-Playlists#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/Spotify-Playlists?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/Spotify-Playlists?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/Spotify-Playlists"> <img src="https://sloc.xyz/github/HariSekhon/Spotify-Playlists/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/Spotify-Playlists"> <img src="https://sloc.xyz/github/HariSekhon/Spotify-Playlists/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+</tr>
+<tr>
+<td> <img src="https://img.shields.io/badge/HariSekhon-lib-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2Flib#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/lib?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/lib?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/lib"> <img src="https://sloc.xyz/github/HariSekhon/lib/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/lib"> <img src="https://sloc.xyz/github/HariSekhon/lib/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+</tr>
+<tr>
+<td> <img src="https://img.shields.io/badge/HariSekhon-Template--repo-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FTemplate-repo#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/Template-repo?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/Template-repo?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/Template-repo"> <img src="https://sloc.xyz/github/HariSekhon/Template-repo/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/Template-repo"> <img src="https://sloc.xyz/github/HariSekhon/Template-repo/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+</tr>
+<tr>
+<td> <img src="https://img.shields.io/badge/HariSekhon-pylib-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2Fpylib#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/pylib?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/pylib?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/pylib"> <img src="https://sloc.xyz/github/HariSekhon/pylib/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/pylib"> <img src="https://sloc.xyz/github/HariSekhon/pylib/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+</tr>
+<tr>
+<td> <img src="https://img.shields.io/badge/HariSekhon-Nagios--Plugin--Kafka-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FNagios-Plugin-Kafka#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/Nagios-Plugin-Kafka?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/Nagios-Plugin-Kafka?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/Nagios-Plugin-Kafka"> <img src="https://sloc.xyz/github/HariSekhon/Nagios-Plugin-Kafka/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/Nagios-Plugin-Kafka"> <img src="https://sloc.xyz/github/HariSekhon/Nagios-Plugin-Kafka/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+</tr>
+<tr>
+<td> <img src="https://img.shields.io/badge/HariSekhon-Vagrant-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FVagrant#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/Vagrant?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/Vagrant?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/Vagrant"> <img src="https://sloc.xyz/github/HariSekhon/Vagrant/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/Vagrant"> <img src="https://sloc.xyz/github/HariSekhon/Vagrant/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
 </tr>
 <tr>
 <td> <img src="https://img.shields.io/badge/HariSekhon-GitHub--Actions--Contexts-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FGitHub-Actions-Contexts#readme" /> </td>
@@ -543,6 +521,20 @@ Generated using scripts/generate_repos_table.sh
 <td> <img src="https://img.shields.io/github/forks/harisekhon/GitHub-Actions-Contexts?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
 <td> <a href="https://github.com/HariSekhon/GitHub-Actions-Contexts"> <img src="https://sloc.xyz/github/HariSekhon/GitHub-Actions-Contexts/?badge-bg-color=2081C2" /> </a> </td>
 <td> <a href="https://github.com/HariSekhon/GitHub-Actions-Contexts"> <img src="https://sloc.xyz/github/HariSekhon/GitHub-Actions-Contexts/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+</tr>
+<tr>
+<td> <img src="https://img.shields.io/badge/HariSekhon-TeamCity--CI-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FTeamCity-CI#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/TeamCity-CI?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/TeamCity-CI?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/TeamCity-CI"> <img src="https://sloc.xyz/github/HariSekhon/TeamCity-CI/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/TeamCity-CI"> <img src="https://sloc.xyz/github/HariSekhon/TeamCity-CI/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
+</tr>
+<tr>
+<td> <img src="https://img.shields.io/badge/HariSekhon-SQL--keywords-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FSQL-keywords#readme" /> </td>
+<td> <img src="https://img.shields.io/github/stars/HariSekhon/SQL-keywords?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/stargazers" /> </td>
+<td> <img src="https://img.shields.io/github/forks/harisekhon/SQL-keywords?logo=github&link=https://github.com/HariSekhon/DevOps-Bash-tools/network" /> </td>
+<td> <a href="https://github.com/HariSekhon/SQL-keywords"> <img src="https://sloc.xyz/github/HariSekhon/SQL-keywords/?badge-bg-color=2081C2" /> </a> </td>
+<td> <a href="https://github.com/HariSekhon/SQL-keywords"> <img src="https://sloc.xyz/github/HariSekhon/SQL-keywords/?badge-bg-color=2081C2&category=cocomo" /> </a> </td>
 </tr>
 <tr>
 <td> <img src="https://img.shields.io/badge/HariSekhon-TamperMonkey-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FHariSekhon%2FTamperMonkey#readme" /> </td>
