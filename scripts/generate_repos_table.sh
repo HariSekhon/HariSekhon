@@ -28,7 +28,6 @@ if uname | grep -q Darwin; then
 fi
 
 echo "Getting Name -> Stars" >&2
-# --source doesn't include Template-Repo so doing a second query to get it
 repo_stars="$(
     gh repo list HariSekhon \
         --limit 1000 \
@@ -38,12 +37,7 @@ repo_stars="$(
             .[] |
             "\(.name) \(.stargazerCount)"
         '
-
-    gh repo view HariSekhon/Template-Repo \
-        --json name,stargazerCount \
-        --jq '"\(.name) \(.stargazerCount)"'
 )"
-#echo "$repo_stars"
 
 if [ -f "$local_config" ]; then
     echo "Reading $local_config" >&2
@@ -63,7 +57,8 @@ grep -v \
      -e 'harisekhon$' \
      -e 'lib-java' |
 while read -r repo dir; do
-    stars="$(awk "BEGIN { IGNORECASE = 1 } /^$repo / {print \$2}" <<< "$repo_stars")"
+    #echo "Parsing Stars for repo: $repo" >&2
+    stars="$(awk "BEGIN { IGNORECASE = 1 } /^$repo / {print \$2; exit}" <<< "$repo_stars")"
     if [ -z "$stars" ]; then
         echo "WARNING: no stars parsed for repo: $repo" >&2
     fi
