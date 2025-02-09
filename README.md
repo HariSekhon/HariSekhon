@@ -84,6 +84,10 @@ This only includes my public open source repos:
 ![](https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=HariSekhon&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide=contribs,prs&custom_title=Hari+Sekhon%27s+Public+Open+Source+GitHub+Stats)
 
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HariSekhon)](https://git.io/streak-stats)
+-->
+
+<!--
 <a href="">
   <img
     height=135
