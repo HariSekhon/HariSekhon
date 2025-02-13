@@ -82,13 +82,13 @@ commits went.
 This only includes my public open source repos:
 
 <!--
-![](https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=HariSekhon&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide=contribs,prs&custom_title=Hari+Sekhon%27s+Public+Open+Source+GitHub+Stats)
+![GitHub Stats](https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=HariSekhon&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide=contribs,prs&custom_title=Hari+Sekhon%27s+Public+Open+Source+GitHub+Stats)
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=HariSekhon&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide=contribs,prs&custom_title=Hari+Sekhon%27s+Public+Open+Source+GitHub+Stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariSekhon&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide=contribs,prs&custom_title=Hari+Sekhon%27s+Public+Open+Source+GitHub+Stats)
 
 <!--
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HariSekhon&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=ambient_gradient")
+![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HariSekhon&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=ambient_gradient")
 -->
 
 <!--
