@@ -1538,6 +1538,8 @@ gantt
     SolrCloud              : done, 2013-04-01, 2024-03-01
 ```
 
+<!-- GitRoll have broken their badge ranking after fixing their contribution ranking - where is the eye roll emoji
+
 There are also Language and Tech Stack breakdowns on my GitRoll page:
 
 <a href="https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2" target="_blank">
@@ -1547,3 +1549,4 @@ There are also Language and Tech Stack breakdowns on my GitRoll page:
     style="width: 60%; height: auto;"
   />
 </a>
+-->
