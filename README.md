@@ -45,6 +45,14 @@ Here are some ideas to get you started:
 [![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-731-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![CI/CD Systems](https://img.shields.io/badge/CI%2FCD%20Systems-23-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 
+[![Codacy](https://app.codacy.com/project/badge/Grade/f86efb3e0a6a4f2886c7b28c4b0159ca)](https://www.codacy.com/gh/HariSekhon/HariSekhon/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/HariSekhon/HariSekhon/badge)](https://www.codefactor.io/repository/github/HariSekhon/HariSekhon)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_HariSekhon&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_HariSekhon)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_HariSekhon&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_HariSekhon)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_HariSekhon&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_HariSekhon)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_HariSekhon&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_HariSekhon)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_HariSekhon&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=HariSekhon_HariSekhon)
+
 [![GitHub Profile](https://img.shields.io/badge/GitHub-HariSekhon-2088FF?logo=github)](https://github.com/HariSekhon)
 [![GitLab Profile](https://img.shields.io/badge/GitLab-HariSekhon-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon)
 [![Azure DevOps Profile](https://img.shields.io/badge/Azure%20DevOps-HariSekhon-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub)
