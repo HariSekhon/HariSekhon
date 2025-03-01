@@ -982,33 +982,6 @@ Generated using scripts/generate_repos_table.sh
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/HariSekhon/Vagrant#readme">
-                <img src="https://img.shields.io/badge/HariSekhon-Vagrant-blue?logo=github" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/HariSekhon/Vagrant/stargazers">
-                <img src="https://img.shields.io/github/stars/HariSekhon/Vagrant?logo=github" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/HariSekhon/Vagrant/network">
-                <img src="https://img.shields.io/github/forks/harisekhon/Vagrant?logo=github" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/HariSekhon/Vagrant">
-                <img src="https://sloc.xyz/github/HariSekhon/Vagrant/?badge-bg-color=2081C2" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/HariSekhon/Vagrant">
-                <img src="https://sloc.xyz/github/HariSekhon/Vagrant/?badge-bg-color=2081C2&category=cocomo" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/HariSekhon/GitHub-Actions-Contexts#readme">
                 <img src="https://img.shields.io/badge/HariSekhon-GitHub--Actions--Contexts-blue?logo=github" />
             </a>
@@ -1031,6 +1004,33 @@ Generated using scripts/generate_repos_table.sh
         <td>
             <a href="https://github.com/HariSekhon/GitHub-Actions-Contexts">
                 <img src="https://sloc.xyz/github/HariSekhon/GitHub-Actions-Contexts/?badge-bg-color=2081C2&category=cocomo" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/HariSekhon/Vagrant#readme">
+                <img src="https://img.shields.io/badge/HariSekhon-Vagrant-blue?logo=github" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/Vagrant/stargazers">
+                <img src="https://img.shields.io/github/stars/HariSekhon/Vagrant?logo=github" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/Vagrant/network">
+                <img src="https://img.shields.io/github/forks/harisekhon/Vagrant?logo=github" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/Vagrant">
+                <img src="https://sloc.xyz/github/HariSekhon/Vagrant/?badge-bg-color=2081C2" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/Vagrant">
+                <img src="https://sloc.xyz/github/HariSekhon/Vagrant/?badge-bg-color=2081C2&category=cocomo" />
             </a>
         </td>
     </tr>
