@@ -766,33 +766,6 @@ Generated using scripts/generate_repos_table.sh
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/HariSekhon/DevOps-Golang-tools#readme">
-                <img src="https://img.shields.io/badge/HariSekhon-DevOps--Golang--tools-blue?logo=github" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/HariSekhon/DevOps-Golang-tools/stargazers">
-                <img src="https://img.shields.io/github/stars/HariSekhon/DevOps-Golang-tools?logo=github" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/HariSekhon/DevOps-Golang-tools/network">
-                <img src="https://img.shields.io/github/forks/harisekhon/DevOps-Golang-tools?logo=github" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/HariSekhon/DevOps-Golang-tools">
-                <img src="https://sloc.xyz/github/HariSekhon/DevOps-Golang-tools/?badge-bg-color=2081C2" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/HariSekhon/DevOps-Golang-tools">
-                <img src="https://sloc.xyz/github/HariSekhon/DevOps-Golang-tools/?badge-bg-color=2081C2&category=cocomo" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/HariSekhon/Terraform#readme">
                 <img src="https://img.shields.io/badge/HariSekhon-Terraform-blue?logo=github" />
             </a>
@@ -815,6 +788,33 @@ Generated using scripts/generate_repos_table.sh
         <td>
             <a href="https://github.com/HariSekhon/Terraform">
                 <img src="https://sloc.xyz/github/HariSekhon/Terraform/?badge-bg-color=2081C2&category=cocomo" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/HariSekhon/DevOps-Golang-tools#readme">
+                <img src="https://img.shields.io/badge/HariSekhon-DevOps--Golang--tools-blue?logo=github" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/DevOps-Golang-tools/stargazers">
+                <img src="https://img.shields.io/github/stars/HariSekhon/DevOps-Golang-tools?logo=github" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/DevOps-Golang-tools/network">
+                <img src="https://img.shields.io/github/forks/harisekhon/DevOps-Golang-tools?logo=github" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/DevOps-Golang-tools">
+                <img src="https://sloc.xyz/github/HariSekhon/DevOps-Golang-tools/?badge-bg-color=2081C2" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/DevOps-Golang-tools">
+                <img src="https://sloc.xyz/github/HariSekhon/DevOps-Golang-tools/?badge-bg-color=2081C2&category=cocomo" />
             </a>
         </td>
     </tr>
