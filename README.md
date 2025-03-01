@@ -1036,33 +1036,6 @@ Generated using scripts/generate_repos_table.sh
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/HariSekhon/TeamCity-CI#readme">
-                <img src="https://img.shields.io/badge/HariSekhon-TeamCity--CI-blue?logo=github" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/HariSekhon/TeamCity-CI/stargazers">
-                <img src="https://img.shields.io/github/stars/HariSekhon/TeamCity-CI?logo=github" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/HariSekhon/TeamCity-CI/network">
-                <img src="https://img.shields.io/github/forks/harisekhon/TeamCity-CI?logo=github" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/HariSekhon/TeamCity-CI">
-                <img src="https://sloc.xyz/github/HariSekhon/TeamCity-CI/?badge-bg-color=2081C2" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/HariSekhon/TeamCity-CI">
-                <img src="https://sloc.xyz/github/HariSekhon/TeamCity-CI/?badge-bg-color=2081C2&category=cocomo" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/HariSekhon/SQL-keywords#readme">
                 <img src="https://img.shields.io/badge/HariSekhon-SQL--keywords-blue?logo=github" />
             </a>
@@ -1085,6 +1058,33 @@ Generated using scripts/generate_repos_table.sh
         <td>
             <a href="https://github.com/HariSekhon/SQL-keywords">
                 <img src="https://sloc.xyz/github/HariSekhon/SQL-keywords/?badge-bg-color=2081C2&category=cocomo" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/HariSekhon/TeamCity-CI#readme">
+                <img src="https://img.shields.io/badge/HariSekhon-TeamCity--CI-blue?logo=github" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/TeamCity-CI/stargazers">
+                <img src="https://img.shields.io/github/stars/HariSekhon/TeamCity-CI?logo=github" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/TeamCity-CI/network">
+                <img src="https://img.shields.io/github/forks/harisekhon/TeamCity-CI?logo=github" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/TeamCity-CI">
+                <img src="https://sloc.xyz/github/HariSekhon/TeamCity-CI/?badge-bg-color=2081C2" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HariSekhon/TeamCity-CI">
+                <img src="https://sloc.xyz/github/HariSekhon/TeamCity-CI/?badge-bg-color=2081C2&category=cocomo" />
             </a>
         </td>
     </tr>
