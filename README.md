@@ -1280,30 +1280,30 @@ gantt
     DevOps-Python-tools : active, 2015-10-27, 2020-12-31
     pylib : active, 2015-10-27, 2020-12-31
     Dockerfiles : active, 2016-01-17, 2022-12-31
-    DevOps-Bash-tools : active, 2016-01-17, 2024-12-31
+    DevOps-Bash-tools : active, 2016-01-17, 2025-04-30
     Nagios-Plugin-Kafka : active, 2016-06-07, 2017-12-31
     HAProxy-configs : active, 2018-06-08, 2022-12-31
     DevOps-Golang-tools : active, 2020-04-30, 2024-09-22
     Spotify-Playlists : active, 2020-06-29, 2024-09-22
-    SQL-scripts : active, 2020-08-05, 2024-12-31
-    Kubernetes-configs : active, 2020-09-16, 2024-12-31
+    SQL-scripts : active, 2020-08-05, 2025-04-30
+    Kubernetes-configs : active, 2020-09-16, 2025-04-30
     Templates : active, 2019-11-25, 2024-09-25
     TeamCity-CI : active, 2020-12-03, 2022-12-31
     Terraform : active, 2021-01-18, 2024-09-21
     Jenkins : active, 2022-01-17, 2024-09-23
-    GitHub-Actions : active, 2022-01-17, 2024-12-31
+    GitHub-Actions : active, 2022-01-17, 2025-04-30
     CI-CD : active, 2022-03-25, 2023-12-31
     GitHub-Actions-Contexts : active, 2022-08-17, 2022-12-31
-    Diagrams-as-Code : active, 2023-04-14, 2024-12-31
-    Template-Repo : active, 2023-04-15, 2024-12-31
+    Diagrams-as-Code : active, 2023-04-14, 2025-04-30
+    Template-Repo : active, 2023-04-15, 2025-04-30
     Packer : active, 2023-06-02, 2024-09-21
     Vagrant-templates : active, 2023-06-12, 2024-09-21
-    Knowledge-Base : active, 2023-11-22, 2024-12-31
-    HariSekhon : active, 2024-08-14, 2024-12-31
+    Knowledge-Base : active, 2023-11-22, 2025-04-30
+    HariSekhon : active, 2024-08-14, 2025-04-30
     GitHub-Commit-Times-Graph : active, 2024-09-07, 2024-09-08
     GitHub-Repos-MermaidJS-Gantt-Chart : active, 2024-10-02, 2024-10-03
-    Prometheus : active, 2024-10-08, 2024-12-31
-    Ansible : active, 2024-10-08, 2024-12-31
+    Prometheus : active, 2024-10-08, 2025-04-30
+    Ansible : active, 2024-10-08, 2025-04-30
 ```
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Repos-MermaidJS-Gantt-Chart&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Repos-MermaidJS-Gantt-Chart)
@@ -1367,129 +1367,129 @@ gantt
     title Hari Sekhon's Technology Skills & Experience
     dateFormat  YYYY-MM-DD
 
-    20+ years of Skillz to Pay the Billz : 2002-06-01, 2024-12-31
+    20+ years of Skillz to Pay the Billz : 2002-06-01, 2025-04-30
 
     section Operating Systems
-    Linux                    : crit, 2002-12-01, 2024-12-31
+    Linux                    : crit, 2002-12-01, 2025-04-30
     Windows Active Directory : done, 2003-01-01, 2009-11-10
-    %%Redhat Linux             : active, 2002-12-01, 2024-12-31
-    %%Debian Linux             : active, 2003-01-01, 2024-12-31
+    %%Redhat Linux             : active, 2002-12-01, 2025-04-30
+    %%Debian Linux             : active, 2003-01-01, 2025-04-30
     %%Gentoo Linux             : done, 2004-06-01, 2009-11-10
-    %%Ubuntu Linux             : active, 2006-06-01, 2024-12-31
-    %%Alpine Linux             : done, 2016-01-01, 2024-12-31
-    Mac                      : active, 2010-02-01, 2024-12-31
+    %%Ubuntu Linux             : active, 2006-06-01, 2025-04-30
+    %%Alpine Linux             : done, 2016-01-01, 2025-04-30
+    Mac                      : active, 2010-02-01, 2025-04-30
 
     section Coding
-    Coding                 : crit, 2002-12-01, 2024-12-31
-    Bash                   : active, 2002-12-01, 2024-12-31
-    Python                 : active, 2005-11-01, 2024-12-31
-    APIs                   : active, 2006-06-01, 2024-12-31
+    Coding                 : crit, 2002-12-01, 2025-04-30
+    Bash                   : active, 2002-12-01, 2025-04-30
+    Python                 : active, 2005-11-01, 2025-04-30
+    APIs                   : active, 2006-06-01, 2025-04-30
     %%VBScript               : done, 2005-05-01, 2009-11-01
-    Perl                   : active, 2009-11-13, 2024-12-31
-    Git                    : active, 2012-06-01, 2024-12-31
+    Perl                   : active, 2009-11-13, 2025-04-30
+    Git                    : active, 2012-06-01, 2025-04-30
     %%Ruby                   : done, 2009-11-13, 2013-01-31
-    Java                   : active, 2013-01-13, 2024-12-31
+    Java                   : active, 2013-01-13, 2025-04-30
     %%Jython                 : done, 2013-01-13, 2015-12-31
     %%JRuby                  : done, 2013-03-01, 2013-08-31
     %%Scala                  : done, 2014-01-01, 2015-12-31
-    Golang                 : active, 2015-06-01, 2024-12-31
-    Groovy                 : active, 2016-01-01, 2024-12-31
+    Golang                 : active, 2015-06-01, 2025-04-30
+    Groovy                 : active, 2016-01-01, 2025-04-30
 
     %%section Build Systems
-    %%Make                   : active, 2006-06-01, 2024-12-31
-    %%Maven                  : active, 2013-02-01, 2024-12-31
-    %%SBT                    : active, 2014-01-01, 2024-12-31
-    %%Gradle                 : active, 2014-06-01, 2024-12-31
+    %%Make                   : active, 2006-06-01, 2025-04-30
+    %%Maven                  : active, 2013-02-01, 2025-04-30
+    %%SBT                    : active, 2014-01-01, 2025-04-30
+    %%Gradle                 : active, 2014-06-01, 2025-04-30
 
     %%section Version Control Systems
     %%Subversion             : done, 2005-11-13, 2012-06-01
     %%Mercurial              : done, 2011-06-01, 2013-06-01
-    %%Git                    : active, 2012-06-01, 2024-12-31
-    %%GitHub                 : active, 2012-12-31, 2024-12-31
+    %%Git                    : active, 2012-06-01, 2025-04-30
+    %%GitHub                 : active, 2012-12-31, 2025-04-30
 
     section Networking
-    Networking             : crit, 2004-03-01, 2024-12-31
-    %%VPNs                   : active, 2006-06-01, 2024-12-31
-    %%Cisco - IOS / NX-OS    : done, 2004-03-01, 2024-12-31
+    Networking             : crit, 2004-03-01, 2025-04-30
+    %%VPNs                   : active, 2006-06-01, 2025-04-30
+    %%Cisco - IOS / NX-OS    : done, 2004-03-01, 2025-04-30
     %%Juniper - Netscreen / SSG / SRX / ScreenOS / JunOS : done, 2007-01-01, 2013-01-18
     %%Netgear                : done, 2005-01-01, 2012-12-31
 
     section Load Balancers
 
     section Security
-    Security               : crit, 2004-10-01, 2024-12-31
-    %%Kerberos               : active, 2006-06-01, 2024-12-31
-    %%LDAP                   : active, 2006-06-01, 2024-12-31
+    Security               : crit, 2004-10-01, 2025-04-30
+    %%Kerberos               : active, 2006-06-01, 2025-04-30
+    %%LDAP                   : active, 2006-06-01, 2025-04-30
 
     section DevOps
-    DevOps                   : crit, 2005-11-11, 2024-12-31
+    DevOps                   : crit, 2005-11-11, 2025-04-30
 
     section Data
-    Data                   : active, 2005-11-11, 2024-12-31
-    %%Data Validation        : done, 2006-06-01, 2024-12-31
-    %%Data Science           : done, 2013-01-18, 2024-12-31
+    Data                   : active, 2005-11-11, 2025-04-30
+    %%Data Validation        : done, 2006-06-01, 2025-04-30
+    %%Data Science           : done, 2013-01-18, 2025-04-30
 
     section Architecture
-    Architecture            : crit,   2005-11-11, 2024-12-31
-    Web-Scale Architecture  : active, 2009-11-01, 2024-12-31
-    MicroServices           : active, 2018-10-01, 2024-12-31
-    Diagrams-as-Code        : active, 2023-04-14, 2024-12-31
+    Architecture            : crit,   2005-11-11, 2025-04-30
+    Web-Scale Architecture  : active, 2009-11-01, 2025-04-30
+    MicroServices           : active, 2018-10-01, 2025-04-30
+    Diagrams-as-Code        : active, 2023-04-14, 2025-04-30
 
     section Databases (RDBMS)
-    Databases (RDBMS)      : crit, 2004-01-01, 2024-12-31
-    SQL                    : active, 2004-01-01, 2024-12-31
+    Databases (RDBMS)      : crit, 2004-01-01, 2025-04-30
+    SQL                    : active, 2004-01-01, 2025-04-30
     Microsoft SQL Server   : done, 2004-01-01, 2005-10-31
     Oracle                 : done, 2005-11-01, 2009-09-10
-    MySQL                  : active, 2007-01-01, 2024-12-31
-    PostgreSQL             : active, 2008-01-01, 2024-12-31
+    MySQL                  : active, 2007-01-01, 2025-04-30
+    PostgreSQL             : active, 2008-01-01, 2025-04-30
 
     section Web & CDNs
-    Web                    : crit, 2005-01-01, 2024-12-31
-    APIs                   : active, 2006-06-01, 2024-12-31
+    Web                    : crit, 2005-01-01, 2025-04-30
+    APIs                   : active, 2006-06-01, 2025-04-30
 
-    Load Balancers         : active, 2009-07-01, 2024-12-31
+    Load Balancers         : active, 2009-07-01, 2025-04-30
     %%LVS                    : done, 2009-01-01, 2009-11-11
     %%Foundry - ServerIron XL / 4G : done, 2009-10-13, 2011-11-31
     %%F5 BigIP               : done, 2010-06-01, 2013-01-18
-    %%HAProxy                : active, 2018-04-01, 2024-12-31
-    %%Kong                   : active, 2023-03-01, 2024-12-31
-    %%Traefik                : active, 2023-03-01, 2024-12-31
+    %%HAProxy                : active, 2018-04-01, 2025-04-30
+    %%Kong                   : active, 2023-03-01, 2025-04-30
+    %%Traefik                : active, 2023-03-01, 2025-04-30
 
-    Web-Scale Architecture : active, 2009-11-01, 2024-12-31
-    CDNs                   : active, 2009-12-01, 2024-12-31
+    Web-Scale Architecture : active, 2009-11-01, 2025-04-30
+    CDNs                   : active, 2009-12-01, 2025-04-30
     %%UlraDNS                : done, 2009-11-01, 2012-06-31
     %%Cotendo                : done, 2012-06-01, 2013-01-13
-    %%Cloudflare             : active, 2020-08-20, 2024-12-31
-    MicroServices            : active, 2018-10-01, 2024-12-31
+    %%Cloudflare             : active, 2020-08-20, 2025-04-30
+    MicroServices            : active, 2018-10-01, 2025-04-30
 
     section Virtualization & Containerization
-    Virtualization         : crit, 2005-01-01, 2024-12-31
+    Virtualization         : crit, 2005-01-01, 2025-04-30
     %%VMware ESX, ESXi, VirtualBox : done, 2005-01-01, 2017-02-16
     %%Vagrant                : active, 2013-01-01, 2023-12-31
-    Containerization       : crit, 2014-06-01, 2024-12-31
-    Docker                 : active, 2014-06-01, 2024-12-31
-    Kubernetes             : active, 2018-09-01, 2024-12-31
-    MicroServices          : active, 2018-10-01, 2024-12-31
-    ArgoCD                 : active, 2021-01-01, 2024-12-31
+    Containerization       : crit, 2014-06-01, 2025-04-30
+    Docker                 : active, 2014-06-01, 2025-04-30
+    Kubernetes             : active, 2018-09-01, 2025-04-30
+    MicroServices          : active, 2018-10-01, 2025-04-30
+    ArgoCD                 : active, 2021-01-01, 2025-04-30
 
     section IaaC & Configuration Management
-    Configuration Management :crit, 2006-01-01, 2024-12-31
+    Configuration Management :crit, 2006-01-01, 2025-04-30
     Puppet Config Mgmt     : done, 2008-09-01, 2014-02-18
-    Ansible                : active, 2014-06-01, 2024-12-31
-    IaaC                   :crit, 2008-01-01, 2024-12-31
-    Terraform              :active, 2019-09-01, 2024-12-31
+    Ansible                : active, 2014-06-01, 2025-04-30
+    IaaC                   :crit, 2008-01-01, 2025-04-30
+    Terraform              :active, 2019-09-01, 2025-04-30
     %%Terraform Cloud        : active, 2021-09-01, 2022-09-31
-    %%Kickstart              : active, 2008-01-01, 2024-12-31
-    %%Preseed                : active, 2009-01-01, 2024-12-31
-    %%AutoInstall            : active, 2023-01-01, 2024-12-31
+    %%Kickstart              : active, 2008-01-01, 2025-04-30
+    %%Preseed                : active, 2009-01-01, 2025-04-30
+    %%AutoInstall            : active, 2023-01-01, 2025-04-30
 
     section CI/CD
-    CI/CD                  : crit, 2010-06-01, 2024-12-31
-    Jenkins                : active, 2010-06-01, 2024-12-31
+    CI/CD                  : crit, 2010-06-01, 2025-04-30
+    Jenkins                : active, 2010-06-01, 2025-04-30
     Travis CI              : done, 2014-05-01, 2023-05-08
     CircleCI               : done, 2019-09-01, 2021-12-31
     BuildKite              : done, 2019-09-01, 2021-12-31
-    GitHub Actions         : active, 2019-09-01, 2024-12-31
+    GitHub Actions         : active, 2019-09-01, 2025-04-30
     %%GitLab                 : active, 2019-09-01, 2022-12-31
     %%Azure DevOps           : done, 2019-09-01, 2022-12-31
     %%Bitbucket              : done, 2019-09-01, 2022-12-31
@@ -1498,11 +1498,11 @@ gantt
     CloudBuild             : active, 2020-08-20, 2023-09-30
 
     section Monitoring
-    Monitoring             : crit, 2006-06-01, 2024-12-31
+    Monitoring             : crit, 2006-06-01, 2025-04-30
     Nagios                 : active, 2006-06-01, 2019-07-31
     OpenTSDB               : done, 2016-09-01, 2019-07-31
-    Grafana                : active, 2018-01-01, 2024-12-31
-    Prometheus             : active, 2018-06-01, 2024-12-31
+    Grafana                : active, 2018-01-01, 2025-04-30
+    Prometheus             : active, 2018-06-01, 2025-04-30
     %%Pingdom                : done, 2020-08-20, 2023-09-17
     %%Datadog                : done, 2022-08-20, 2023-09-17
 
@@ -1520,29 +1520,29 @@ gantt
     Apache Drill           : active, 2014-06-01, 2018-12-31
 
     section NoSQL
-    NoSQL                  : crit, 2009-11-13, 2024-12-31
+    NoSQL                  : crit, 2009-11-13, 2025-04-30
     HBase                  : active, 2013-02-01, 2019-07-31
     %%MongoDB                : done, 2013-06-01, 2013-12-31
-    Cassandra              : active, 2013-08-01, 2024-12-31
+    Cassandra              : active, 2013-08-01, 2025-04-30
     Couchbase              : done, 2013-11-01, 2024-03-01
 
     section Caching
-    Caching                : crit, 2009-11-31, 2024-12-31
-    Memcached              : done, 2009-11-31, 2024-12-31
-    Redis                  : active, 2013-03-01, 2024-12-31
+    Caching                : crit, 2009-11-31, 2025-04-30
+    Memcached              : done, 2009-11-31, 2025-04-30
+    Redis                  : active, 2013-03-01, 2025-04-30
 
     section Cloud
-    Cloud            : crit, 2012-09-01, 2024-12-31
-    AWS              : active, 2012-09-01, 2024-12-31
-    GCP              : active, 2018-09-01, 2024-12-31
-    Azure            : active, 2020-08-01, 2024-12-31
+    Cloud            : crit, 2012-09-01, 2025-04-30
+    AWS              : active, 2012-09-01, 2025-04-30
+    GCP              : active, 2018-09-01, 2025-04-30
+    Azure            : active, 2020-08-01, 2025-04-30
 
     section Search
-    Search                 : crit, 2013-03-31, 2024-12-31
-    Elasticsearch          : active, 2013-03-31, 2024-12-31
-    %%LogStash               : done, 2013-03-31, 2024-12-31
-    %%Fluentd                : crit, 2018-03-31, 2024-12-31
-    %%Kibana                 : crit, 2013-03-31, 2024-12-31
+    Search                 : crit, 2013-03-31, 2025-04-30
+    Elasticsearch          : active, 2013-03-31, 2025-04-30
+    %%LogStash               : done, 2013-03-31, 2025-04-30
+    %%Fluentd                : crit, 2018-03-31, 2025-04-30
+    %%Kibana                 : crit, 2013-03-31, 2025-04-30
     SolrCloud              : done, 2013-04-01, 2024-03-01
 ```
 
