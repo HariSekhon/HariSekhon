@@ -1287,7 +1287,7 @@ gantt
     Spotify-Playlists : active, 2020-06-29, 2024-09-22
     SQL-scripts : active, 2020-08-05, 2025-04-30
     Kubernetes-configs : active, 2020-09-16, 2025-04-30
-    Templates : active, 2019-11-25, 2024-09-25
+    Templates : active, 2019-11-25, 2025-04-30
     TeamCity-CI : active, 2020-12-03, 2022-12-31
     Terraform : active, 2021-01-18, 2025-04-30
     Jenkins : active, 2022-01-17, 2024-09-23
