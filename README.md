@@ -24,6 +24,7 @@ Here are some ideas to get you started:
       https://github.com/antonkomarev/github-profile-views-counter/issues/96
 
 -->
+
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=GitHub+Profile+Views)](https://github.com/HariSekhon)
 [![GitStar Rank](https://img.shields.io/badge/GitStar%20Rank%20by%20Repo%20Stars-Top_0.01%25-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![GitRoll Rank Globally](https://img.shields.io/badge/GitRoll%20Rank%20Globally-Top_2%25-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2)
@@ -1558,3 +1559,5 @@ There are also Language and Tech Stack breakdowns on my GitRoll page:
   />
 </a>
 -->
+
+[![Hari Sekhon profile views](https://u8views.com/api/v1/github/profiles/2211051/views/day-week-month-total-count.svg)](https://u8views.com/github/HariSekhon)
