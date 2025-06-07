@@ -1562,4 +1562,10 @@ There are also Language and Tech Stack breakdowns on my GitRoll page:
 
 New counter (added late which is why the counter at the top is higher):
 
+U8Views:
+
 [![Hari Sekhon profile views](https://u8views.com/api/v1/github/profiles/2211051/views/day-week-month-total-count.svg)](https://u8views.com/github/HariSekhon)
+
+U8Views Statistics:
+
+<https://u8views.com/github/HariSekhon>
