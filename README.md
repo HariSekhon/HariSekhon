@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 ![Original Repos](https://img.shields.io/badge/Repos-37-blue?logo=github)
 ![Stars](https://img.shields.io/badge/Stars-13008-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-3410-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-2011-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3405-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-2015-blue?logo=github)
 
 ![Total Lines](https://img.shields.io/badge/Total%20Lines-563772-blue)
 ![Total Man Years](https://img.shields.io/badge/Total%20Man%20Years-94%20years%209%20months-blue)
