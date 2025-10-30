@@ -1281,7 +1281,7 @@ gantt
     DevOps-Python-tools : active, 2015-10-27, 2020-12-31
     pylib : active, 2015-10-27, 2020-12-31
     Dockerfiles : active, 2016-01-17, 2022-12-31
-    DevOps-Bash-tools : active, 2016-01-17, 2025-04-30
+    DevOps-Bash-tools : active, 2016-01-17, 2025-10-30
     Nagios-Plugin-Kafka : active, 2016-06-07, 2017-12-31
     HAProxy-configs : active, 2018-06-08, 2022-12-31
     DevOps-Golang-tools : active, 2020-04-30, 2024-09-22
@@ -1295,12 +1295,12 @@ gantt
     GitHub-Actions : active, 2022-01-17, 2025-04-30
     CI-CD : active, 2022-03-25, 2023-12-31
     GitHub-Actions-Contexts : active, 2022-08-17, 2022-12-31
-    Diagrams-as-Code : active, 2023-04-14, 2025-04-30
+    Diagrams-as-Code : active, 2023-04-14, 2025-10-30
     Template-Repo : active, 2023-04-15, 2025-04-30
     Packer : active, 2023-06-02, 2024-09-21
     Vagrant-templates : active, 2023-06-12, 2024-09-21
-    Knowledge-Base : active, 2023-11-22, 2025-04-30
-    HariSekhon : active, 2024-08-14, 2025-04-30
+    Knowledge-Base : active, 2023-11-22, 2025-10-30
+    HariSekhon : active, 2024-08-14, 2025-10-30
     GitHub-Commit-Times-Graph : active, 2024-09-07, 2024-09-08
     GitHub-Repos-MermaidJS-Gantt-Chart : active, 2024-10-02, 2024-10-03
     Prometheus : active, 2024-10-08, 2025-04-30
