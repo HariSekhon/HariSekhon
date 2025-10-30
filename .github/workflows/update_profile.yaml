@@ -106,6 +106,10 @@ jobs:
 
           sed -i "s|badge/CI%2FCD%20Builds-[[:digit:]]\+-|badge/CI%2FCD%20Builds-${build_count}-|" README.md
 
+      - name: Update Gantt Chart End Dates
+        run: |
+          perl -pi -e "s/$(date --date='last month' '+%Y-%m')-30/$(date '+%Y-%m')-30/" README.md
+
       - name: Git Diff
         run: |
           git diff
