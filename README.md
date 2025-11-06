@@ -207,6 +207,8 @@ The rest of my original source repos are
 
 Pre-built Docker images are available on my [DockerHub](https://hub.docker.com/u/harisekhon/).
 
+<!-- REPOS_END -->
+
 ## Tech
 
 I've worked on far too many technologies to list, but
@@ -1203,8 +1205,6 @@ I also dip a bit around midday and 9pm as I need to eat once in a while... and s
 
 <!-- 1x1 pixel counter to record hits -->
 ![](https://hit.yhype.me/github/profile?user_id=2211051)
-
-<!-- REPOS_END -->
 
 <!-- this centering doesn't work from either the div or the style block on the img but it works in IntelliJ :-/ -->
 <div style="text-align: center;">
