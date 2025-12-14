@@ -205,7 +205,7 @@ Does nothing:
 The rest of my original source repos are
 [here](https://github.com/HariSekhon?tab=repositories&q=&type=source&language=&sort=stargazers).
 
-Pre-built Docker images are available on my [DockerHub](https://hub.docker.com/u/harisekhon/).
+Pre-built Docker images are available on my [DockerHub](https://hub.docker.com/u/harisekhon/) and can be re-generated using the my [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) repo.
 
 <!-- REPOS_END -->
 
