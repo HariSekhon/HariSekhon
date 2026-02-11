@@ -1188,7 +1188,10 @@ then Mercurial, then Git, but have no time to go back to QA and release.
       <img src="https://68.media.tumblr.com/fe195e9db7b66a729194a43370a21795/tumblr_oja6h1f90C1rzss56o1_500.gif"
   alt="codecat" width="100%" />
       -->
+      <!--
       <img src="images/codecat.gif" alt="codecat" width="100%" />
+      -->
+      <img src="https://cdn.jsdelivr.net/gh/harisekhon/harisekhon@main/images/codecat.gif" alt="codecat" width="100%" />
     </td>
   </tr>
 </table>
