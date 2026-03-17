@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 [![Markdown](https://github.com/HariSekhon/HariSekhon/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/HariSekhon/actions/workflows/markdown.yaml)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]()
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-0073A1?logo=perl&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?logo=apachegroovy&logoColor=white)
