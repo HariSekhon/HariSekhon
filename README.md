@@ -36,15 +36,15 @@ Here are some ideas to get you started:
 [![Travel Guide](https://img.shields.io/badge/Travel%20Guide-80%2B%20countries%20-029F00?logo=nordvpn&logoColor=white)](https://bit.ly/hari-travels)
 
 ![Original Repos](https://img.shields.io/badge/Repos-39-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-14681-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-14692-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-3734-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-2237-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-2239-blue?logo=github)
 
 ![Total Lines](https://img.shields.io/badge/Total%20Lines-563772-blue)
 ![Total Man Years](https://img.shields.io/badge/Total%20Man%20Years-94%20years%209%20months-blue)
 ![Total COCOMO Cost Estimate](https://img.shields.io/badge/Total%20COCOMO%20Cost%20Estimate-$12,800,287-blue)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-753-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-750-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![CI/CD Systems](https://img.shields.io/badge/CI%2FCD%20Systems-23-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 
 [![Codacy](https://app.codacy.com/project/badge/Grade/f86efb3e0a6a4f2886c7b28c4b0159ca)](https://www.codacy.com/gh/HariSekhon/HariSekhon/dashboard)
