@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 [![Travel Guide](https://img.shields.io/badge/Travel%20Guide-80%2B%20countries%20-029F00?logo=nordvpn&logoColor=white)](https://bit.ly/hari-travels)
 
 ![Original Repos](https://img.shields.io/badge/Repos-39-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-14692-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-14700-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-3734-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-2239-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-2240-blue?logo=github)
 
 ![Total Lines](https://img.shields.io/badge/Total%20Lines-563772-blue)
 ![Total Man Years](https://img.shields.io/badge/Total%20Man%20Years-94%20years%209%20months-blue)
